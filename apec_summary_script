@@ -1,0 +1,40 @@
+import os
+
+# 🔁 CHANGE THIS to match your folder path again
+base_path = r"C:\Users\ameen\Desktop\GIS projects\Mapping Environmental Degradation Hotspots Across Ontario Using APECs"
+
+# 🔍 Keywords to look for
+keywords = [
+    "APEC", 
+    "Area of Potential Environmental Concern",
+    "Contaminant",
+    "Contamination",
+    "Gas station",
+    "Dry cleaner",
+    "Brownfield",
+    "PHC",
+    "metals",
+    "solvent",
+    "chlorinated",
+    "former industrial",
+    "waste",
+    "MOE",
+    "storage tank"
+]
+
+summary_path = os.path.join(base_path, "apec_summary_results.txt")
+with open(summary_path, "w", encoding="utf-8") as summary_file:
+    for root, dirs, files in os.walk(base_path):
+        for file in files:
+            if file.endswith(".txt"):
+                file_path = os.path.join(root, file)
+                with open(file_path, "r", encoding="utf-8") as f:
+                    lines = f.readlines()
+                    found = False
+                    for i, line in enumerate(lines):
+                        if any(keyword.lower() in line.lower() for keyword in keywords):
+                            if not found:
+                                summary_file.write(f"\n📄 {file_path}:\n")
+                                found = True
+                            summary_file.write(f"  - Line {i+1}: {line.strip()}\n")
+    print(f"✅ APEC keyword scan complete! See: {summary_path}")

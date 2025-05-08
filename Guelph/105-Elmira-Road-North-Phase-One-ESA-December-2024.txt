@@ -1,0 +1,4904 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PHASE ONE ENVIRONMENTAL SITE ASSESSMENT 
+105 ELMIRA ROAD NORTH 
+GUELPH, ONTARIO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUBMITTED TO: 
+Mr. Wesley Hordyk 
+HIP Developments 
+74 Grand Avenue South, Unit 201 
+Cambridge, ON 
+N1S 0B7 
+ 
+ 
+FILE NO.:  1755 / December 6, 2024
+HIP Developments 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+    December 6, 2024 
+Phase One Environmental Site Assessment  
+ 
+ 
+ 
+ 
+    File No. / 1755 
+105 Elmira Road North, Guelph, Ontario 
+ 
+ 
+ 
+ 
+ 
+    Page i 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+TABLE OF CONTENTS ...................................................................................................................................... i 
+APPENDICES ................................................................................................................................................... i 
+1.0  
+EXECUTIVE SUMMARY ..................................................................................................................... 1 
+2.0 
+INTRODUCTION ................................................................................................................................ 2 
+2.1 
+Phase One Property Information................................................................................................. 2 
+3.0  
+SCOPE OF THE INVESTIGATION ........................................................................................................ 3 
+4.0  
+RECORDS REVIEW ............................................................................................................................ 4 
+4.1 
+General ........................................................................................................................................ 4 
+4.1.1    Phase One Study Area Determination ...................................................................................... 4 
+4.1.2     First Development Use Determination .................................................................................... 4 
+4.1.3     Fire Insurance Plans ................................................................................................................. 4 
+4.1.4     Previous Environmental Reports ............................................................................................. 4 
+4.2 
+Environmental Source Information ............................................................................................. 4 
+4.3 
+Physical Setting Sources .............................................................................................................. 6 
+4.3.1 
+Aerial Photographs .................................................................................................................. 6 
+4.3.2 
+Topography, Hydrology, Geology ............................................................................................ 6 
+4.3.3 
+Fill Materials ............................................................................................................................ 8 
+4.3.4 
+Water Bodies and Areas of Natural Significance..................................................................... 8 
+4.3.5 
+Well Records ........................................................................................................................... 8 
+4.4 
+Site Operating Records ................................................................................................................ 8 
+5.0 
+INTERVIEWS ..................................................................................................................................... 8 
+6.0 
+SITE RECONNAISSANCE .................................................................................................................... 9 
+6.1 
+General Requirements ................................................................................................................. 9 
+6.2 
+Specific Observations at Phase One Property ............................................................................. 9 
+6.2.1 
+Enhanced Investigation Property .......................................................................................... 11 
+6.2.2 
+Written Description of Investigation ..................................................................................... 11 
+6.3 
+Surrounding Properties Phase One Study Area ......................................................................... 11 
+7.0 
+REVIEW AND EVALUATION OF INFORMATION .............................................................................. 12 
+7.1 
+Current and Past Uses ............................................................................................................... 12 
+7.2 
+Potentially Contaminating Activities (PCAs) .............................................................................. 12 
+7.3 
+Areas of Potential Environmental Concern (APECs) .................................................................. 12 
+7.3.1 
+Uncertainties ......................................................................................................................... 12 
+8.0 
+CONCLUSIONS ................................................................................................................................ 14 
+9.0 
+STUDY LIMITATIONS ...................................................................................................................... 15 
+10.0 
+REFERENCES ................................................................................................................................... 16 
+ 
+APPENDICES 
+Appendix A: Key Plan  
+Appendix E: Correspondence 
+Appendix B: Site Plan 
+Appendix F: ERIS Report 
+Appendix C: Aerial Photographs 
+Appendix G: Qualifications of Assessor 
+Appendix D: Site Photographs 
+ 
+HIP Developments 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+    December 6, 2024 
+Phase One Environmental Site Assessment  
+ 
+ 
+ 
+ 
+    File No. / 1755 
+105 Elmira Road North, Guelph, Ontario 
+ 
+ 
+ 
+ 
+ 
+    Page 1 
+ 
+ 
+ 
+ 
+1.0  
+EXECUTIVE SUMMARY 
+ 
+CHUNG & VANDER DOELEN ENGINEERING LTD. (CVD) was retained by Mr. Wesley Hordyk of HIP 
+Developments to conduct a Phase One Environmental Site Assessment (ESA) of the property located at 
+105 Elmira Road North in Guelph, Ontario (hereinafter referred to as the “Phase One Property” and/or 
+“Site”).  
+ 
+The purpose of the Phase I ESA is to evaluate the environmental conditions of the Site and adjacent 
+properties and to identify actual or potential sources of contamination associated with the subject 
+property and surrounding properties. The Phase One ESA is part of the due diligence requirements for 
+the Site, and it is understood that a Record of Site Condition (RSC) is not intended for the property at 
+this time.  
+ 
+The Phase One Property is a rectangular-shaped vacant property, approximately 2.49 acres in area, that 
+is located on the northeast corner of Willow Road and Elmira Road North in an area of predominantly 
+residential land uses.  
+ 
+The Phase One Property was historically forested land until the late 1990s when the forest was cleared. 
+The Phase One Property has remained vacant grassed land since the early 2000s.  
+ 
+The findings of the Phase One ESA did not identify any actual or potential sources of contamination on 
+the Site or surrounding properties.  It is CVD’s professional opinion that the potential for environmental 
+liabilities associated with the Site under investigation is low, and that no further investigations are 
+required at this time. This opinion is based on the following:  
+ 
+• 
+The Site does not appear to have ever been used for any land use that may produce, store, or 
+dispose of environmentally hazardous materials.  
+ 
+• 
+The surrounding properties are not expected to pose an environmental concern for the Site. 
+Past activities on the surrounding properties in these areas are not expected to pose an 
+environmental concern for the Site. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HIP Developments 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+    December 6, 2024 
+Phase One Environmental Site Assessment  
+ 
+ 
+ 
+ 
+    File No. / 1755 
+105 Elmira Road North, Guelph, Ontario 
+ 
+ 
+ 
+ 
+ 
+    Page 2 
+ 
+ 
+ 
+ 
+2.0 
+INTRODUCTION 
+ 
+2.1 
+Phase One Property Information 
+ 
+CHUNG & VANDER DOELEN ENGINEERING LTD. (CVD) was retained by Mr. Wesley Hordyk of HIP 
+Developments to conduct a Phase One Environmental Site Assessment (ESA) of the property located at 
+105 Elmira Road North in Guelph, Ontario (hereinafter referred to as the “Phase One Property” and/or 
+“Site”).  
+ 
+The legal description of the Site are as follows:  
+ 
+• 
+BLOCK 180, PLAN 61M68, CITY OF GUELPH 
+ 
+The property PIN is 71486-0449 (LT) 
+ 
+CVD’s contact information for the Site is as follows: 
+ 
+Mr. Wesley Hordyk 
+HIP Developments 
+74 Grand Avenue South, Unit 201 
+Cambridge, Ontario  
+N1S 0B7 
+Phone: 519-496-8778 
+Email: wesley@hipdevelopments.com  
+ 
+The purpose of the Phase I ESA is to evaluate the environmental conditions of the Site and adjacent 
+properties and to identify actual or potential sources of contamination associated with the subject 
+property and surrounding properties. The Phase One ESA is part of the due diligence requirements for 
+the Site, and it is understood that a Record of Site Condition (RSC) is not intended for the property at 
+this time.  
+ 
+The Phase One Property is a rectangular-shaped vacant property, approximately 2.49 acres in area, that 
+is located on the northeast corner of Willow Road and Elmira Road North in an area of predominantly 
+residential land uses.  
+ 
+Appendix A shows the location of the Site. A Site Plan is available in Appendix B.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HIP Developments 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+    December 6, 2024 
+Phase One Environmental Site Assessment  
+ 
+ 
+ 
+ 
+    File No. / 1755 
+105 Elmira Road North, Guelph, Ontario 
+ 
+ 
+ 
+ 
+ 
+    Page 3 
+ 
+ 
+ 
+ 
+3.0  
+SCOPE OF THE INVESTIGATION 
+ 
+A Phase One Environmental Site Assessment is a thorough review of all activities that may have 
+impacted the Site from an environmental standpoint.  
+ 
+CVD conducted this Phase One Environmental Site Assessment in general accordance with the amended 
+Ontario Regulation 153/04. This report also conforms to Canadian Standards Association (CSA) Z768-01 
+(R2022).  The above-noted procedures set standards for review of information pertaining to the Site, 
+development of detailed checklists or protocols, conducting the Site inspection, and preparation of the 
+final report. 
+ 
+The scope of work for the Phase One ESA consisted of the following tasks: 
+   
+• 
+Site reconnaissance on December 5, 2024;  
+ 
+• 
+Interview discussions with the Site representative throughout the Phase One ESA process; 
+ 
+• 
+Review the current use of the Site and the practices that may have impacted the environmental 
+condition of the Site; 
+ 
+• 
+A review of available city directories, fire insurance plans (FIPs) and historical maps to determine 
+previous occupants of the Site and surrounding properties and to determine the first developed 
+use of the Site; 
+ 
+• 
+A search of available databases to identify actual or potential sources of contamination 
+associated with the Site and surrounding properties; 
+ 
+• 
+Review of the previous environmental reports conducted for the property, if available; 
+ 
+• 
+Interpretation of available aerial photographs; 
+ 
+• 
+Contact government agencies to request information for the Site, regarding environmental 
+regulatory registration or non-compliance.  Review any such information where available; 
+ 
+• 
+Interpretation of available topographic maps; 
+ 
+• 
+Prepare this report with conclusions based on the information obtained during this assessment. 
+ 
+CVD relies on information received from all parties as accurate, unless contradicted by field observations 
+or written documentation. 
+ 
+ 
+ 
+HIP Developments 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+    December 6, 2024 
+Phase One Environmental Site Assessment  
+ 
+ 
+ 
+ 
+    File No. / 1755 
+105 Elmira Road North, Guelph, Ontario 
+ 
+ 
+ 
+ 
+ 
+    Page 4 
+ 
+ 
+ 
+ 
+4.0  
+RECORDS REVIEW 
+ 
+4.1 
+General 
+    
+Available information sources, including regulatory databases were assessed in an effort to gain 
+information related to past Site activities, and to address potential environmental issues that may be 
+present at, or in the vicinity of the Site.  
+ 
+4.1.1    Phase One Study Area Determination 
+ 
+A preliminary review of the documents listed in Section 4.0 indicates that there are no obvious concerns 
+with any properties outside a 250 m radius of the Site. The study area for the Phase One ESA is therefore 
+determined to be within a 250 m radius of the Site.  
+ 
+4.1.2     First Development Use Determination  
+ 
+The Phase One Property is currently vacant land. The Phase One Property was historically forested land 
+prior to the late 1990s when the forest was cleared.  
+ 
+4.1.3     Fire Insurance Plans 
+ 
+The Canadian Fire Insurance Plans (FIPs) in Ontario Collection, 1876 to 1973 (Vol. 5) was referenced for 
+information regarding the Site and surrounding properties.  
+ 
+No coverage for the Site was identified.  
+ 
+4.1.4     Previous Environmental Reports 
+ 
+No previous environmental reports for the Site were available to CVD during the completion of the 
+Phase One ESA. 
+ 
+4.2 
+Environmental Source Information  
+ 
+A summary of information obtained from available resource documents and from regulatory agency 
+databases is provided as follows. A copy of all correspondence is included in Appendix E. 
+ 
+Inventory of Coal Gasification Plant Waste Sites in Ontario 
+ 
+A review of the Intera Technologies Ltd. Inventory of Coal Gasification Plant Waste Sites in Ontario (April 
+1987) revealed that the Site and surrounding properties within 250 m have not been used for the 
+gasification of coal.  
+ 
+HIP Developments 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+    December 6, 2024 
+Phase One Environmental Site Assessment  
+ 
+ 
+ 
+ 
+    File No. / 1755 
+105 Elmira Road North, Guelph, Ontario 
+ 
+ 
+ 
+ 
+ 
+    Page 5 
+ 
+ 
+ 
+ 
+Inventory of Industrial Sites Producing or Using Coal Tar and Related Tars in Ontario 
+ 
+A review of the Intera Technologies Ltd. Inventory of Industrial Sites Producing Coal Tars and Related 
+Tars in Ontario (July 1988) revealed that the production and use of coal or other tars has not taken place 
+at the Site or surrounding properties within 250 m. 
+ 
+Ministry of the Environment Conservation and Parks Inventory of PCB Storage Sites in Ontario 
+ 
+The 1998 Ontario Ministry of the Environment Inventory of Polychlorinated Biphenyl (PCB) Storage Sites 
+in Ontario indicated that there are no PCB storage Sites located within the Phase One Study Area.  
+ 
+Ministry of the Environment Conservation and Parks (MECP) 
+ 
+A FOI request was submitted to the MECP for information regarding any environmental concerns, 
+orders, spills, investigations/prosecutions, Waste Generator Numbers/Classes and Certificates of 
+Approval related to the Site. However, it can take several weeks to receive a response from the MECP.   
+ 
+At the time of writing this report, we have not yet received a response to this request.  Any relevant 
+information received from the MECP will be forwarded as an addendum to this report.   
+ 
+The FOI request is included in Appendix E. 
+ 
+Waste Disposal Site Inventory – Ontario MECP (1991) 
+ 
+The Site is not listed in the MECP’s Waste Disposal Inventory. In addition, there are no active or closed 
+landfill sites located within 250 m of the Site.  
+ 
+The Technical Standards and Safety Authority (TSSA), Fuels Safety Division (FSD)  
+ 
+A Customer Service Advisor at TSSA was contacted to determine if any aboveground or underground 
+storage tanks (ASTs or USTs) were listed in its database for the Site. A representative of the TSSA 
+indicated that there are no registered fuel tanks on the property.  
+ 
+A copy of the TSSA correspondence is included in Appendix E. 
+ 
+MECP Brownfields Environmental Site Registry  
+ 
+A review of the MECP’s online Brownfields Environmental Site Registry database revealed no 
+information related to environmental investigations or remedial activities at the Phase One Property 
+and the surrounding properties within 250 m.  
+ 
+ 
+ 
+ 
+ 
+ 
+HIP Developments 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+    December 6, 2024 
+Phase One Environmental Site Assessment  
+ 
+ 
+ 
+ 
+    File No. / 1755 
+105 Elmira Road North, Guelph, Ontario 
+ 
+ 
+ 
+ 
+ 
+    Page 6 
+ 
+ 
+ 
+ 
+ERIS Report 
+ 
+A request was made to Environmental Risk Information Services (ERIS) for a standard select report. The 
+standard select report provides historical environmental information for the subject property and lands 
+surrounding the Site within a 250 m radius. Selected federal, provincial and private sector databases are 
+researched to identify potential environmental concerns. The standard select report is used to aid in the 
+identification of possible environmental risk factors for commercial, industrial and residential sites.   
+ 
+The following is a list of the database searches completed by ERIS for this assignment.  
+ 
+• 
+Commercial Fuel Oil Tanks (CFOT) 
+• 
+Fuel Storage Tank (FST) 
+• 
+Fuel Storage Tank – Historic (FSTH) 
+• 
+Ontario Regulation 347 Waste Generator Summary (GEN) 
+• 
+Private and Retail Fuel Storage Tanks (PRT) 
+• 
+Retail Fuel Storage Tanks (RST) 
+• 
+Scott’s Manufacturing Directory (SCT) 
+• 
+Ontario Spills (SPL) 
+ 
+The standard select report, dated November 20, 2024, provided zero (0) listings for the Site and thirteen 
+(13) listings for properties within a 250 m radius. The listings are evaluated in section 7.2 of this report. 
+A review of the listings indicated no environmental concern to the Site.  
+ 
+A copy of the ERIS report is included in Appendix F.  
+ 
+City Directories 
+ 
+There were no city directories available for the Site or surrounding properties.  
+ 
+4.3 
+Physical Setting Sources 
+ 
+4.3.1 
+Aerial Photographs 
+ 
+Aerial photographs were reviewed for the years 1930, 1955, 1966, 1972, 1990, 2000, 2006, 2010, and 
+2024. Observations to the Site and surrounding properties are outlined in the following table.   
+ 
+Aerial photographs for the years 1930, 1966, 1972, 2000, and 2024 are enclosed in Appendix C.  
+ 
+Year 
+Observations 
+1930 
+The Site and surrounding properties are shown as forested, agricultural, and/or vacant land.  
+1955 
+No discernible changes are observed at the Site or surrounding properties.  
+ 
+HIP Developments 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+    December 6, 2024 
+Phase One Environmental Site Assessment  
+ 
+ 
+ 
+ 
+    File No. / 1755 
+105 Elmira Road North, Guelph, Ontario 
+ 
+ 
+ 
+ 
+ 
+    Page 7 
+ 
+ 
+ 
+ 
+Year 
+Observations 
+1966 
+No discernible changes are observed at the Site or surrounding properties. 
+1972 
+No discernible changes are observed at the Site.  
+Grading is observed to the northeast and southeast of the Site within the Phase I study area.  
+1990 
+No discernible changes are observed at the Site.  
+Grading continues to the northeast and southeast of the Site within the Phase I study area.  
+2000 
+The trees are removed, and grading is observed throughout the Site.  
+Single-family residential buildings and associated road infrastructure are constructed to the 
+north and east of the Site.  
+2006 
+Two (2) storage trailers are observed on the west corner of the Site. The Site is observed to be 
+vacant grass-covered land.  
+Willow Road and Elmira Road North are constructed adjacent to the south and west property 
+boundaries of the Site, respectively. Residential development and associated road 
+infrastructure are constructed to the west of the Site beyond Elmira Road North.   
+2010 
+The storage trailers are removed from the Site.  
+Grading is observed on the property adjacent to the south of the Site beyond Willow Road.  
+2024 
+No discernible changes are observed at the Site.  
+Residential development is observed on the property adjacent to the south of the Site beyond 
+Willow Road.  
+ 
+4.3.2 
+Topography, Hydrology, Geology 
+ 
+The Atlas of Canada Toporama interactive and the Grand River Conservation Authority Web-Map were 
+accessed to retrieve spatial data relevant to the Site. Map contours reveal geodetic elevations of the Site 
+to be at approximately 322.5-324 m.a.s.l. (metres above sea-level).  
+ 
+The local topography gradually slopes down in a southeasterly direction. The localized shallow 
+groundwater flow is inferred to follow the local topography and flow in a southeasterly direction 
+towards a stream located approximately 360 m southeast of the Site.  
+ 
+According to the Ministry of Northern Development and Mines (MNDM) Map 2153, “Quaternary 
+Geology, Guelph Area”, the Site is located on surficial geology that consists of the Wisconsinan 
+lacustrine, kame, and outwash sand deposit. This surficial geology shapes part of the spillways of the 
+Guelph Drumlin Field physiographic region, as indicated in the GIS-based MNDM Map MRD228, 
+“Physiography of Southern Ontario”.  
+ 
+According to the MNDM Map 2544, “Bedrock Geology of Ontario, Southern Sheet”, the bedrock in the 
+area generally consists of dolostone of the Guelph Formation.  
+HIP Developments 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+    December 6, 2024 
+Phase One Environmental Site Assessment  
+ 
+ 
+ 
+ 
+    File No. / 1755 
+105 Elmira Road North, Guelph, Ontario 
+ 
+ 
+ 
+ 
+ 
+    Page 8 
+ 
+ 
+ 
+ 
+4.3.3 
+Fill Materials 
+ 
+Fill material composition and source location are considerations in determining whether environmental 
+concerns are present. Importation of fill of unknown quality is identified as a potential contaminating 
+activity within Ontario Regulation 153/04.  
+ 
+Based on observations made during the recent Site reconnaissance and a review of the aerial 
+photographs for the Site, there are no obvious signs of soil removal or fill importation to the Site and 
+therefore CVD does not anticipate deleterious fill material to be present on the Site.  
+ 
+4.3.4 
+Water Bodies and Areas of Natural Significance 
+ 
+There are no bodies of water located in close proximity (250 m) to the Site. The nearest body of water is 
+a stream located approximately 360 m southeast of the Site. A forested wetland area (Ellis Creek 
+Wetland Trail) is located to the west of the Site beyond Elmira Road North.  
+ 
+The Grand River Source Protection Plan designates Wellhead Protection Areas (WHPAs) around each 
+municipal drinking-water supply well. The vulnerability of WHPAs is measured on a 10-point scale and 
+indicates how quickly water (and contaminants) move from the surface to the aquifer.  
+ 
+The Site is located within the WHPA-B which delineates areas found within the two (2) year time of 
+travel to a municipal drinking-water supply well. The Site is located within a WHPA Vulnerability area 
+with a score of ten (10) which indicates high vulnerability.  
+ 
+4.3.5 
+Well Records 
+ 
+A review of the MECP well record data revealed no well records within the Phase One Study Area.  
+ 
+4.4 
+Site Operating Records 
+ 
+The Phase One ESA property did not have any Site operation records for review during the Phase One 
+ESA.  
+ 
+5.0 
+INTERVIEWS 
+ 
+Relevant information gathered from the Site representative has been incorporated into various sections 
+of this report (both previous and proceeding sections). 
+ 
+The information gathered from other individuals and/or regulatory agencies has also been incorporated 
+into various sections of this report (both previous and proceeding sections).  
+ 
+ 
+HIP Developments 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+    December 6, 2024 
+Phase One Environmental Site Assessment  
+ 
+ 
+ 
+ 
+    File No. / 1755 
+105 Elmira Road North, Guelph, Ontario 
+ 
+ 
+ 
+ 
+ 
+    Page 9 
+ 
+ 
+ 
+ 
+6.0 
+SITE RECONNAISSANCE 
+ 
+6.1 
+General Requirements 
+ 
+A visual survey of the Phase One Property was completed by Ms. Jordyn Atkins of CVD on December 5, 
+2024. The qualifications of the assessor are provided in Appendix G.  
+ 
+Photographs documenting the Phase One Property and surrounding properties taken on the day of the 
+Site reconnaissance, along with written descriptions can be found in Appendix D.  
+ 
+6.2 
+Specific Observations at Phase One Property 
+ 
+The Phase One Property is currently vacant grassed land. The Site is bound to the north and east by 
+single-family residential dwellings and wooden fences. The Site is bound to the south and west by 
+sidewalks and Willow Road and Elmira Road North, respectively. Some yard waste and debris were 
+observed on the southeast corner of the Site. The Phase One Property is generally graded evenly with 
+the surrounding properties.  
+ 
+Rail Spurs 
+ 
+No indication of a rail spur was noted on the Site or surrounding properties.  
+ 
+Water Sources 
+ 
+The Phase One Property is currently vacant land, therefore no water source infrastructure is present.  
+ 
+Staining 
+ 
+No surface staining was observed on the Phase One Property.  
+ 
+Vegetation  
+ 
+No stressed vegetation was observed at the Phase One Property.  
+ 
+Underground and Aboveground Storage Tanks 
+ 
+Site inspections and interviews were conducted to assess the presence/absence and condition (if 
+present) of underground storage tanks (USTs) and aboveground storage tanks (ASTs) at the Site.  
+ 
+The Phase One Property is currently vacant land and historically been forested land. CVD did not find 
+any correspondence to support the historical presence of USTs/ASTs at the Site and did not observe any 
+evidence of historical USTs or ASTs during the recent Site reconnaissance.  
+ 
+ 
+ 
+HIP Developments 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+    December 6, 2024 
+Phase One Environmental Site Assessment  
+ 
+ 
+ 
+ 
+    File No. / 1755 
+105 Elmira Road North, Guelph, Ontario 
+ 
+ 
+ 
+ 
+ 
+    Page 10 
+ 
+ 
+ 
+ 
+The Technical Standards and Safety Authority (TSSA) were also requested to review their computer 
+database for the Site with regard to registered USTs and ASTs containing petroleum products. The TSSA 
+reported that there are no records for fuel storage at the Site.  
+ 
+A copy of the TSSA correspondence is included in Appendix E.  
+ 
+Chemical Inventory, Storage and Handling 
+ 
+No chemicals were observed during the Site visit. Based on reported history at the Site, it is unlikely that 
+historical use, storage, or disposal of potentially hazardous chemicals has occurred at the Site.  
+ 
+Solid and Liquid Waste Generation and Disposal 
+ 
+Based on the reported history of the Site, no solid or liquid wastes are currently generated or stored on 
+the Phase One Property.  
+ 
+Designated Substances 
+ 
+In Ontario, the Occupational Health and Safety Act has a list of nearly a dozen substances have been 
+classified as "designated substances" largely in response to their harmful characteristics.  
+ 
+Asbestos Containing Materials 
+ 
+Asbestos is a group of naturally occurring minerals, formerly used for thermal and acoustic insulation, as 
+well as fireproofing. The use of asbestos was common due to its strength and resistance to heat, and is 
+often found in old ceiling tiles, pipe and vessel insulation, blown into structural beams and ceilings, in 
+floor tile, linoleum, and mastic. The use of asbestos building materials was banned in Canada in the late 
+1970's.  
+ 
+Asbestos is not always an immediate hazard, though when asbestos containing materials are disturbed, 
+microscopic fibres become airborne and may be inhaled by humans, where it may cause cancer and lung 
+disease. 
+ 
+The Phase One Property is currently vacant land, therefore no ACMs are expected to be present.  
+ 
+Lead Based Paint 
+ 
+Lead is a highly toxic metal which, when present in the human body (in sufficient quantities), attacks the 
+central nervous system and can result in numerous health problems.  Lead-based paints have not been 
+used since the late 1970's, when the U.S. Department of Housing and Urban Development (HUD) 
+banned it for use in all homes and most other buildings. 
+ 
+The Phase One Property is currently vacant land, therefore no lead-based paints are expected to be 
+present.  
+ 
+ 
+HIP Developments 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+    December 6, 2024 
+Phase One Environmental Site Assessment  
+ 
+ 
+ 
+ 
+    File No. / 1755 
+105 Elmira Road North, Guelph, Ontario 
+ 
+ 
+ 
+ 
+ 
+    Page 11 
+ 
+ 
+ 
+ 
+Other Designated Substances 
+ 
+No other designated substances are expected to be present at the Site.  
+ 
+6.2.1 
+Enhanced Investigation Property 
+ 
+There are no current or historical processing or manufacturing activities related to the Phase One 
+Property. Based on current and historical land uses on the Phase One Property, in accordance with the 
+amended Ontario Regulation 153/04, subsection 13 (3), the Phase One Property is not considered to be 
+an enhanced investigation property as it is currently not being used for one of the uses described in 
+clause 32 (1) (b) of the regulation. 
+ 
+6.2.2 
+Written Description of Investigation 
+ 
+Investigation of the Phase One Property and Phase One Study Area was conducted through a Site 
+reconnaissance as described in section 6.1. Section 6.2 presents the findings of the Site reconnaissance. 
+Observations of the Phase One Study Area made during the Site reconnaissance are presented in Section 
+6.3. The physical setting of the Phase One Study Area, including water bodies and areas of natural 
+significance, is discussed in Section 4.3. 
+ 
+6.3 
+Surrounding Properties Phase One Study Area 
+ 
+Land uses currently and historically surrounding the Phase One Property are described as follows: 
+ 
+North of the Site: 
+ 
+Adjacent to the north of the Site are residential land uses.  
+ 
+According to available resources, prior to development in the late 1990s, land uses adjacent to the north 
+of the Site have historically been forested, agricultural and/or vacant land.  
+ 
+East of the Site:  
+ 
+Adjacent to the east of the are residential land uses.  
+ 
+According to available resources, prior to development in the late 1990s, land uses adjacent to the east 
+of the Site have historically been forested, agricultural and/or vacant land. 
+ 
+South of the Site: 
+ 
+Adjacent to the south of the Site is Willow Road, beyond which are residential land uses.  
+ 
+According to available resources, prior to development in the 2000s, land uses adjacent to the south of 
+the Site have historically been forested land.  
+HIP Developments 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+    December 6, 2024 
+Phase One Environmental Site Assessment  
+ 
+ 
+ 
+ 
+    File No. / 1755 
+105 Elmira Road North, Guelph, Ontario 
+ 
+ 
+ 
+ 
+ 
+    Page 12 
+ 
+ 
+ 
+ 
+West of the Site: 
+ 
+Adjacent to the west of the Site is Elmira Street North, beyond which are residential land uses, Mitchell 
+Park and a forested wetland area (Ellis Creek).  
+ 
+According to available resources, prior to development in the 2000s, land uses adjacent to the west of 
+the Site have historically been forested and vacant land.  
+ 
+7.0 
+REVIEW AND EVALUATION OF INFORMATION 
+ 
+7.1 
+Current and Past Uses 
+ 
+The Phase One Property was historically a treed property prior to the late 1990s when the forest was 
+cleared. The Site has been in its current state as a vacant grassed land since the early 2000s.  
+ 
+7.2 
+Potentially Contaminating Activities (PCAs) 
+ 
+Potentially Contaminating Activities (PCAs) are uses or activities set out in Column A of Table 2 of 
+Schedule D within Ontario Regulation 153/04 that are occurring or have occurred in the Phase One 
+Study Area.  
+ 
+No PCAs were identified on the Site or surrounding properties within the Phase One Study Area.  
+ 
+7.3 
+Areas of Potential Environmental Concern (APECs) 
+ 
+Areas of potential environmental concern (APECs) are defined within the amended Ontario Regulation 
+153/04 (amended regulation) as those on, in or under a phase one property where one or more 
+contaminants are potentially present. APECs are related to PCAs set out and numbered in Column A of 
+Table 2 of Schedule D in the amended regulation.  
+ 
+There were no APECs identified on the Site.  
+ 
+7.3.1 
+Uncertainties 
+ 
+Records Review 
+ 
+Aerial photographs provide a view of potentially-contaminating land uses or features historically present 
+on the Site.  There are uncertainties related to the use of the aerial photographs provided in historical 
+reports as the quality of some aerial photographs did not allow some features to be clearly identified.  
+Professional judgment was used to relate the historical features identified in the aerial photographs to 
+present day locations.    
+ 
+ 
+HIP Developments 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+    December 6, 2024 
+Phase One Environmental Site Assessment  
+ 
+ 
+ 
+ 
+    File No. / 1755 
+105 Elmira Road North, Guelph, Ontario 
+ 
+ 
+ 
+ 
+ 
+    Page 13 
+ 
+ 
+ 
+ 
+Universal Transverse Mercator (UTM) coordinates of the records obtained from the ERIS report are 
+provided to reduce the uncertainty about the location of the database report.  The accuracy of the 
+individual UTMs provided by ERIS cannot be verified.  When possible, the listed address was used to 
+assist in determining the correct location.   
+ 
+Municipal addresses are known to change and historical addresses may not necessarily have been in the 
+same location as a property today with the same address.  Best judgment was used to link historical 
+municipal addresses from the city directory to areas within the Phase One Study Area, however, the 
+accuracy of all addresses has not been confirmed.   Maps and information provided in historical reports, 
+as well as aerial photographs, were used in an effort to verify the current-day location of historical 
+addresses.  
+ 
+Interviews 
+ 
+The individual(s) interviewed as part of the Phase One ESA were selected based on their knowledge of 
+the current and/or past activities at the Site, and their availability.  There is uncertainty related to the 
+information provided by these individuals, as some information could be based on hearsay or personal 
+opinion.  Professional judgment was employed and information provided in the interviews was 
+evaluated and/or confirmed using other sources (for example, historical reports) wherever possible.   
+Previous information included in historical reports was used as appropriate and available. 
+ 
+Site Reconnaissance 
+ 
+There is little uncertainty related to the Site reconnaissance, as the observations were made directly by 
+CVD.  Photographs and detailed notes were taken during the Site reconnaissance to document the 
+current conditions of the Site and Phase One Study Area.  The records review was completed before the 
+Site reconnaissance to allow any identified uncertainties related to the historical information to be 
+verified in the field (where possible). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HIP Developments 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+    December 6, 2024 
+Phase One Environmental Site Assessment  
+ 
+ 
+ 
+ 
+    File No. / 1755 
+105 Elmira Road North, Guelph, Ontario 
+ 
+ 
+ 
+ 
+ 
+    Page 14 
+ 
+ 
+ 
+ 
+8.0 
+CONCLUSIONS 
+ 
+CVD was retained to conduct a Phase One ESA on the property located 105 Elmira Road North in Guelph, 
+Ontario. The purpose of the Phase One ESA is to evaluate the environmental conditions of the Site and 
+adjacent properties and to identify any actual or potential sources of contamination associated with the 
+Site and surrounding properties.  
+ 
+The findings of the Phase One ESA did not identify any actual or potential sources of contamination on 
+the Site or surrounding properties.  It is CVD’s professional opinion that the potential for environmental 
+liabilities associated with the Site under investigation is low, and that no further investigations are 
+required at this time. This opinion is based on the following:  
+ 
+• 
+The Site does not appear to have ever been used for any land use that may produce, store, or 
+dispose of environmentally hazardous materials.  
+ 
+• 
+The surrounding properties are not expected to pose an environmental concern for the Site. 
+Past activities on the surrounding properties in these areas are not expected to pose an 
+environmental concern for the Site. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HIP Developments 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+    December 6, 2024 
+Phase One Environmental Site Assessment  
+ 
+ 
+ 
+ 
+    File No. / 1755 
+105 Elmira Road North, Guelph, Ontario 
+ 
+ 
+ 
+ 
+ 
+    Page 15 
+ 
+ 
+ 
+ 
+9.0 
+STUDY LIMITATIONS 
+ 
+CVD has prepared this report for the exclusive use of HIP Developments in evaluating the environmental 
+conditions of the Site at the time of CVD’s Site visit.  CVD will not be responsible for the use of this 
+report by any third party, or reliance on or any decision to be made based on it without the prior written 
+consent of CVD.  CVD accepts no responsibility for damages, if any, by any third party as a result of 
+decisions or actions based on this report.  
+ 
+This report presents an overview of issues of environmental concern, reflecting CVD’s best judgment 
+using information reasonably available at the Site at the time of CVD’s Site visit.  CVD has prepared this 
+report using information understood to be factual and correct and shall not be responsible for 
+conditions arising from information or facts that were concealed or not fully disclosed to CVD at the 
+time of the Site visit. 
+ 
+The report identified the environmental conditions of the property at the time of the investigation, 
+pursuant to a scope agreed to by our client. The report is not intended to be exhaustive in scope or to 
+imply a risk-free property and that any parties relying on the report should consider their own 
+environmental evaluation of the property, which could include an intrusive evaluation of the soil and 
+groundwater on the property. 
+ 
+Performance of a standardized Phase I Environmental Site Assessment in accordance with Canadian 
+Standards Association (CSA) Z768-01 (2022) is intended to reduce, but not eliminate, uncertainty 
+regarding the potential for recognized environmental conditions in connection with the property, given 
+reasonable limits of time and cost.  This assessment was carried out using historical data and a Site 
+walkover.  Intrusive testing is not part of the scope of this assessment. 
+ 
+We trust that the above report is complete within our terms of reference.  If there are any questions 
+concerning this matter, please do not hesitate to contact our office. 
+ 
+Respectfully submitted, 
+ 
+CHUNG & VANDER DOELEN ENGINEERING LTD. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Jordyn Atkins, B.Sc. (Hons), M.Sc. 
+ 
+Michael J. Lefebvre, P. Geo., QPESA 
+Environmental Scientist  
+ 
+ 
+Senior Manager, Environmental Services 
+ 
+ 
+ 
+ 
+ 
+ 
+HIP Developments 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+    December 6, 2024 
+Phase One Environmental Site Assessment  
+ 
+ 
+ 
+ 
+    File No. / 1755 
+105 Elmira Road North, Guelph, Ontario 
+ 
+ 
+ 
+ 
+ 
+    Page 16 
+ 
+ 
+ 
+ 
+10.0 
+REFERENCES 
+ 
+The following documents, maps, or other publications were reviewed and data from these documents 
+was included in this Phase One ESA. 
+ 
+• 
+Intera Technologies Ltd., “Inventory of Industrial Sites Producing or Using Coal Tar and Related 
+Tars in Ontario,” July 1988. 
+ 
+• 
+Ministry of Northern Development and Mines (MNDM) Map 2153, “Quaternary Geology, 
+Guelph Area”, 1968.  
+ 
+• 
+Ontario Ministry of Northern Development and Mines Map 2544, “Bedrock Geology of Southern 
+Ontario – Southern Sheet”, 1991. 
+ 
+• 
+Ontario Ministry of the Environment, “Inventory of Industrial Sites Producing or Using Coal Tar 
+and Related Tars in Ontario,” November 1998.   
+ 
+• 
+Ontario Ministry of the Environment, “Ontario Inventory of Approved PCB Storage Sites”, 
+September 1998. 
+ 
+• 
+Ontario Ministry of the Environment, “Waste Disposal Site Inventory,” June 1991. 
+ 
+• 
+Phase I Environmental Site Assessment Canadian Standards Association (CSA) Z768-01 (R2022). 
+ 
+• 
+Technical Standards and Safety Act, 2000 (S.O. 2000, Chapter 16).  Retrieved from Government 
+of Ontario e-laws website: http://www.e-laws.gov.on.ca/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX A 
+KEY PLAN  
+LEGEND
+Date:               Dec. 2024
+Scale:                  NTS
+File No.:            1755
+ 
+Appendix:            A
+311 Victoria Street North
+Kitchener  Ontario N2H 5E1
+/
+/ 
+519-742-8979
+KEY PLAN
+105 ELMIRA ROAD NORTH
+GUELPH, ONTARIO
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX B 
+SITE PLAN  
+LEGEND
+Date:               Dec. 2024
+Scale:                  NTS
+File No.:            1755
+ 
+Appendix:            B
+311 Victoria Street North
+Kitchener  Ontario N2H 5E1
+/
+/ 
+519-742-8979
+SITE PLAN
+105 ELMIRA ROAD NORTH
+GUELPH, ONTARIO
+McLachlan Place
+McLachlan Place
+McLachlan Place
+Flaherty Drive
+Flaherty Drive
+Flaherty Drive
+Peachtree Crescent
+Peachtree Crescent
+Peachtree Crescent
+Bonar Place
+Bonar Place
+Bonar Place
+Peartree Crescent
+Peartree Crescent
+Peartree Crescent
+Willow Road
+Willow Road
+Willow Road
+Elmira Road North
+Elmira Road North
+Elmira Road North
+Tovell Drive
+Tovell Drive
+Tovell Drive
+Residential
+Residential
+Residential
+Ellis Creek
+Wetland Trail
+Mitchell 
+Park
+Residential
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX C 
+AERIAL PHOTOGRAPHS 
+ 
+LEGEND
+Date:               Dec. 2024
+Scale:                  NTS
+File No.:            1755
+ 
+Appendix:            C
+311 Victoria Street North
+Kitchener  Ontario N2H 5E1
+/
+/ 
+519-742-8979
+AERIAL PHOTOGRAPH - 1930
+105 ELMIRA ROAD NORTH
+GUELPH, ONTARIO
+LEGEND
+Date:               Dec. 2024
+Scale:                  NTS
+File No.:            1755
+ 
+Appendix:            C
+311 Victoria Street North
+Kitchener  Ontario N2H 5E1
+/
+/ 
+519-742-8979
+AERIAL PHOTOGRAPH - 1966
+105 ELMIRA ROAD NORTH
+GUELPH, ONTARIO
+LEGEND
+Date:               Dec. 2024
+Scale:                  NTS
+File No.:            1755
+ 
+Appendix:            C
+311 Victoria Street North
+Kitchener  Ontario N2H 5E1
+/
+/ 
+519-742-8979
+AERIAL PHOTOGRAPH - 1972
+105 ELMIRA ROAD NORTH
+GUELPH, ONTARIO
+LEGEND
+Date:               Dec. 2024
+Scale:                  NTS
+File No.:            1755
+ 
+Appendix:            C
+311 Victoria Street North
+Kitchener  Ontario N2H 5E1
+/
+/ 
+519-742-8979
+AERIAL PHOTOGRAPH - 2000
+105 ELMIRA ROAD NORTH
+GUELPH, ONTARIO
+LEGEND
+Date:               Dec. 2024
+Scale:                  NTS
+File No.:            1755
+ 
+Appendix:            C
+311 Victoria Street North
+Kitchener  Ontario N2H 5E1
+/
+/ 
+519-742-8979
+AERIAL PHOTOGRAPH - 2024
+105 ELMIRA ROAD NORTH
+GUELPH, ONTARIO
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX D 
+SITE PHOTOGRAPHS 
+ 
+ 
+Photograph 1: View of the Site showing the east property boundary.  
+ 
+Photograph 2: View of the Site showing the south property boundary along Willow Road.  
+ 
+ 
+Photograph 3: View of the Site showing the west property boundary along Elmira Road North.  
+ 
+Photograph 4: View of the Site showing the north property boundary.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX E 
+CORRESPONDENCE 
+ 
+Ministry of the Environment, Conservation and Parks 
+Freedom of Information Request for Property Information
+Instructions
+Use this form to:
+•
+submit and pay for a new FOI request for access to records/information about a property 
+•
+pay for a deposit or a final fee on an existing FOI request
+Fields marked with an asterisk (*) are mandatory.
+Are you: *
+Section 1 – Description of Records Requested
+Time Period for Records Requested
+Type of Record(s) *
+Select only if you are seeking access to an Approval or Registration that is not publicly available or if you are also see
+supporting documents relating to the Approval or Registration.
+Operator and vendor Pesticide Licenses from September 4, 2018, final Approvals and Registrations are publicly avail
+the Access Environment website at: 
+https://www.accessenvironment.ene.gov.on.ca/AEWeb/ae/GoSearch.action?search=basic&lang=en.
+Records of Site Condition (RSC) records are publicly available on the Brownfields Environmental Site Registry (BSER
+•
+RSC records between 2004 to June 30, 2011 are available at: 
+https://www.lrcsde.lrc.gov.on.ca/besrWebPublic/generalSearch
+•
+RSC records filed after July 2011 are available at: 
+https://www.lrcsde.lrc.gov.on.ca/BFISWebPublic/pub/earchFiledRsc_search?request_locale=en
+Type of Approval/Registration *
+Submitting a new FOI Request for Property Information
+Paying a deposit or final fee for an existing FOI Request for Property Information
+Edit Section
+From (yyyy/mm/dd) *
+1986/01/01
+To (yyyy/mm/dd) *
+2024/11/20
+All environmental records relating to the identified property/site exclusive of Environmental Approvals and Registratio
+Environmental Approvals and Registrations (e.g. Environmental Compliance Approvals; Certificate of Approval; Rene
+Energy Approvals; Environmental Activity and Sector Registry Registrations)
+Other Specific Document(s)
+Please fill the following form.
+11/20/24, 1:42 PM
+Freedom of Information Request for Property Information
+https://www.sus.gov.on.ca/lc/content/mgcs/profiles/default.html?contentRoot=repository:///Applications/012-2146/1.0/Assets&template=012-2146E.xdp…
+1/4
+Type of Approval/Registration 
+Only pesticide licenses post September 2018 are available. Prior to September 2018, only Pesticide license applicatio
+supporting documentation is available
+Section 2 – Requester Information
+Drinking Water Licenses
+Pesticide Licenses
+No Supporting Documents
+All Supporting Documents
+Some Supporting Documents
+Permits to Take Water
+Noise Vibrations Approvals/Registrations
+Air Emissions Approvals/Registrations
+Water Approvals/Registrations - Ontario Water Resources Commission, treatment, ground level, standpipes & elevate
+storage, pumping stations (local & booster), mains
+No Supporting Documents
+All Supporting Documents
+Some Supporting Documents
+Sewage – Treatment, Stormwater, Storm, Leachate & Lieachate Treatment & Sewage pump stations, Sanitary
+No Supporting Documents
+All Supporting Documents
+Some Supporting Documents
+Waste Water - Industrial discharge
+No Supporting Documents
+All Supporting Documents
+Some Supporting Documents
+Waste Sites - Disposal, Landfill sites, Transfer stations, Processing sites, Incinerator sites
+No Supporting Documents
+All Supporting Documents
+Some Supporting Documents
+Waste Management Systems - haulers: sewage, non-hazardous & hazardous waste, mobile waste processing units, 
+Polychlorinated Biphenyls (PCBs) storage, transfer or destruction, Waste Generator Systems)
+No Supporting Documents
+All Supporting Documents
+Some Supporting Documents
+Company Name
+Waste Generator Registration - number/class
+List any record(s) that should be excluded from the scope of your request (e.g. email correspondences; records originatin
+from your organization/business; records already in your possession, prior year(s) annual reports for approvals)
+Please provide any additional relevant information relating to your request. For example, does your request relate to any o
+ministry business? Please note that this information is being requested only in order to provide contextual information to th
+Access and Privacy Office and will not in any way affect or expedite the status of any related ministry business identified.
+Edit Section
+Please fill the following form.
+11/20/24, 1:42 PM
+Freedom of Information Request for Property Information
+https://www.sus.gov.on.ca/lc/content/mgcs/profiles/default.html?contentRoot=repository:///Applications/012-2146/1.0/Assets&template=012-2146E.xdp…
+2/4
+Are you submitting this request on behalf of a client? *
+Mailing Address
+Is there an alternate contact (e.g. office admin)? *
+Section 3 – Current Property Address Information 
+Is the property a:
+Are you requesting information about multiple addresses? *
+Property Address
+Section 4 – Previous Property Address Information 
+Do you want the ministry to search all prior historical addresses for this property/site for the time period of the records 
+requested? *
+Last Name *
+Leal
+First Name *
+Andres
+Middl
+Business/Organization Name (if applicable or indicate “N/A”) *
+Chung & Vander Doelen Engineering Ltd.
+Project/Reference Number (if applicable)
+1755
+Yes
+No
+Unit Number
+Street Number *
+311
+Street Name *
+Victoria Street North
+PO Box
+City/Town *
+Kitchener
+Province *
+ON
+Postal Cod
+N2H 5E1
+Telephone Number *
+519-742-8979
+ext.
+Email Address *
+andres.leal@cvdengineering.com
+Yes
+No
+Edit Section
+Park
+Lake
+First Nation Band
+Wind Farm
+Federal Land
+Island
+Unsurveyed Land
+Yes
+No
+Unit Number
+Street Number
+105
+Street Name
+Elmira Road North
+Full Lot Number
+Concession
+Geographic Township
+City/Town/Village *
+Guelph
+Closest Intersection
+Edit Section
+Please fill the following form.
+11/20/24, 1:42 PM
+Freedom of Information Request for Property Information
+https://www.sus.gov.on.ca/lc/content/mgcs/profiles/default.html?contentRoot=repository:///Applications/012-2146/1.0/Assets&template=012-2146E.xdp…
+3/4
+Section 5 – Owner Information 
+Please provide all present and previous property owner and/or tenant names for the search years requested.
+Current Property Owner/Tenant
+Section 6 – Supporting Documents
+Please upload any documents (e.g. Maps) that are relevant to your FOI request.
+The total size of all attachments must not be more than 8 MB.
+2146E (2022/10)       © King’s Printer for Ontario, 2022
+Disponible en français
+Yes
+No
+Edit Section
+105 Elmira Road North
+Guelph
+Owner Name
+HIP Developments
+Date of Ownership (yyyy/m
+Tenant Name
+Edit Section
+1.
+File Name
+Total File Size
+Edit Section
+Subm
+Please fill the following form.
+11/20/24, 1:42 PM
+Freedom of Information Request for Property Information
+https://www.sus.gov.on.ca/lc/content/mgcs/profiles/default.html?contentRoot=repository:///Applications/012-2146/1.0/Assets&template=012-2146E.xdp…
+4/4
+1
+Jordyn Atkins
+From:
+Public Information Services <publicinformationservices@tssa.org>
+Sent:
+December 6, 2024 1:07 PM
+To:
+Jordyn Atkins
+Subject:
+RE: Inquiry: 105 Elmira Road North, Guelph
+Hello , 
+ 
+NO RECORDS FOUND IN CURRENT DATABASE:  
+ 
+We confirm that there are NO fuels records in our database at the subject address(es). 
+This is not a conﬁrmation that there are no records in the archives. For a further search in our archives, 
+please go to the TSSA Client Portal to complete an Application for Release of Public Information.  
+ 
+Please refer to How to Submit a Public Information Request (tssa.org) for instructions.  
+ 
+The associated fee must be paid via credit card (Visa or MasterCard).  
+ 
+Once all steps have been successfully completed you will receive your payment receipt via email. 
+ 
+TSSA does not make any representations or warranties with respect to the accuracy or completeness of 
+any records released.  The requestor assumes all risk in using or relying on the information provided. 
+ 
+If you have any questions or concerns, please do not hesitate to contact our Public Information Release 
+team at publicinformationservices@tssa.org. 
+ 
+Kind regards, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From: Jordyn Atkins <jordyn.atkins@cvdengineering.com>  
+Sent: Friday, December 6, 2024 12:00 PM 
+To: Public Information Services <publicinformationservices@tssa.org> 
+Subject: Inquiry: 105 Elmira Road North, Guelph 
+ 
+Slavka Zahrebelny | Public Information & Records Agent 
+Public Information 
+345 Carlingview Drive 
+Toronto, Ontario M9W 6N9 
+Tel: +1 416-734-3585 |  Fax: +1 416-734-6242 | E-Mail: szahrebelny@tssa.org
+www.tssa.org 
+Winner of 2024 5-Star Safety Cultures Award  
+2
+ 
+Hello,  
+ 
+Chung & Vander Doelen Engineering Ltd. is working on a Phase one environmental assessment for the property located 
+at 105 Elmira Road North, in Guelph, Ontario – N1K 1Z1.  
+ 
+As part of my research, I would appreciate if the TSSA could provide any informaƟon regarding fuel storage tanks (past 
+or present), fuel distribuƟon, TSSA orders, or spills at the property.  
+ 
+Thank you,  
+Jordyn Atkins 
+ 
+This e-mail (and attachment(s)) is confidential, proprietary, may be subject to copyright and legal privilege and no related rights are waived. If you are not the 
+intended recipient or its agent, any review, dissemination, distribution or copying of this e-mail or any of its content is strictly prohibited and may be unlawful. 
+All messages may be monitored as permitted by applicable law and regulations and our policies to protect our business. E-mails are not secure and you are 
+deemed to have accepted any risk if you communicate with us by e-mail. If received in error, please notify us immediately and delete the e-mail (and any 
+attachments) from any computer or any storage medium without printing a copy. 
+ 
+Jordyn Atkins | M.Sc. 
+Environmental Scientist 
+jordyn.atkins@cvdengineering.com 
+311 Victoria Street North, Kitchener, ON, N2H 5E1 
+(O) 519 742 8979, Ext 2201 
+(C) 519 778 1495 
+ 
+This e-mail (and attachment(s)) is confidential, proprietary, may be subject to copyright and legal privilege and no related rights are waived. If you are not the 
+intended recipient or its agent, any review, dissemination, distribution or copying of this e-mail or any of its content is strictly prohibited and may be unlawful. 
+All messages may be monitored as permitted by applicable law and regulations and our policies to protect our business. E-mails are not secure and you are 
+deemed to have accepted any risk if you communicate with us by e-mail. If received in error, please notify us immediately and delete the e-mail (and any 
+attachments) from any computer or any storage medium without printing a copy. 
+This e-mail (and attachment(s)) is confidential, proprietary, may be subject to copyright and legal privilege and no related rights are waived. If you are not the 
+intended recipient or its agent, any review, dissemination, distribution or copying of this e-mail or any of its content is strictly prohibited and may be unlawful. 
+All messages may be monitored as permitted by applicable law and regulations and our policies to protect our business. E-mails are not secure and you are 
+deemed to have accepted any risk if you communicate with us by e-mail. If received in error, please notify us immediately and delete the e-mail (and any 
+attachments) from any computer or any storage medium without printing a copy. 
+This electronic message and any attached documents are intended only for the named recipients. This 
+communication from the Technical Standards and Safety Authority may contain information that is 
+[CAUTION]: This email originated outside the organisation. 
+Please do not click links or open attachments unless you recognise the source of this email and know the content is safe.  
+3
+privileged, confidential or otherwise protected from disclosure and it must not be disclosed, copied, 
+forwarded or distributed without authorization. If you have received this message in error, please notify 
+the sender immediately and delete the original message.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX F 
+ERIS REPORT 
+    Project Property:
+105 Elmira Road North, Guelph, Ontario
+105 Elmira Road North 
+Guelph ON N1K 1Z1
+    Project No:
+1755
+    Report Type:
+Standard Select Report
+    Order No: 
+24112000525
+    Requested by:
+Chung & Vander Doelen Engineering Ltd.
+    Date Completed: 
+November 20, 2024
+2
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+h-Table of Contents
+Notice: IMPORTANT LIMITATIONS and YOUR LIABILITY
+Reliance on information in Report: This report DOES NOT replace a full Phase I Environmental Site Assessment but is solely intended to be used as
+a database review of environmental records.
+License for use of information in Report: No page of this report can be used without this cover page, this notice and the project property identifier.
+The information in Report(s) may not be modified or re-sold.
+Your Liability for misuse: Using this Service and/or its reports in a manner contrary to this Notice or your agreement will be in breach of copyright and
+contract and ERIS may obtain damages for such mis-use, including damages caused to third parties, and gives ERIS the right to terminate your account,
+rescind your license to any previous reports and to bar you from future use of the Service.
+No warranty of Accuracy or Liability for ERIS: The information contained in this report has been produced by ERIS Information Limited Partnership
+("ERIS") using various sources of information, including information provided by Federal and Provincial government departments. The report applies
+only to the address and up to the date specified on the cover of this report, and any alterations or deviation from this description will require a new report.
+This report and the data contained herein does not purport to be and does not constitute a guarantee of the accuracy of the information contained herein
+and does not constitute a legal opinion nor medical advice. Although ERIS has endeavored to present you with information that is accurate, ERIS
+disclaims, any and all liability for any errors, omissions, or inaccuracies in such information and data, whether attributable to inadvertence, negligence or
+otherwise, and for any consequences arising therefrom. Liability on the part of ERIS is limited to the monetary value paid for this report.
+Trademark and Copyright: You may not use the ERIS trademarks or attribute any work to ERIS other than as outlined above. This Service and Report
+(s) are protected by copyright owned by ERIS Information Limited Partnership. Copyright in data used in the Service or Report(s) (the "Data") is owned
+by ERIS or its licensors. The Service, Report(s) and Data may not be copied or reproduced in whole or in any substantial part without prior written
+consent of ERIS.
+Table of Contents
+Table of Contents...........................................................................................2
+Executive Summary........................................................................................3
+       Executive Summary: Report Summary.......................................................................................................................4
+       Executive Summary: Site Report Summary - Project Property...................................................................................7
+       Executive Summary: Site Report Summary - Surrounding Properties........................................................................8
+       Executive Summary: Summary By Data Source.......................................................................................................10
+Map...............................................................................................................12
+Aerial.............................................................................................................13
+Topographic Map..........................................................................................14
+Detail Report.................................................................................................15
+Unplottable Summary...................................................................................22
+Unplottable Report........................................................................................23
+Appendix: Database Descriptions.................................................................26
+Definitions.....................................................................................................36
+3
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+h-Executive Summary
+Property Information:
+Project Property:
+105 Elmira Road North, Guelph, Ontario
+105 Elmira Road North  Guelph ON N1K 1Z1
+Project No:
+1755
+Coordinates:
+                                    Latitude:
+43.52731
+                                    Longitude:
+-80.29804
+                                    UTM Northing:
+4,819,613.70
+                                    UTM Easting:
+556,723.97
+                                    UTM Zone:
+17T
+Elevation:
+1,063 FT
+ 
+323.86 M
+Order Information:
+Order No:
+24112000525
+Date Requested:
+November 20, 2024
+Requested by:
+Chung & Vander Doelen Engineering Ltd.
+Report Type:
+Standard Select Report
+Historical/Products:
+ERIS Xplorer
+ERIS Xplorer
+Executive Summary
+4
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+h-Executive Summary: Report Summary
+Database
+ Name
+Searched
+Project 
+Property
+Within 0.25 km
+Total
+rr-AAGR-aa 
+Abandoned Aggregate Inventory
+N
+  -
+-
+   -
+rr-AGR-aa 
+Aggregate Inventory
+N
+  -
+-
+   -
+rr-AMIS-aa 
+Abandoned Mine Information System
+N
+  -
+-
+   -
+rr-ANDR-aa 
+Anderson's Waste Disposal Sites
+N
+  -
+-
+   -
+rr-AST-aa 
+Aboveground Storage Tanks
+N
+  -
+-
+   -
+rr-AUWR-aa 
+Automobile Wrecking & Supplies
+N
+  -
+-
+   -
+rr-BORE-aa 
+Borehole
+N
+  -
+-
+   -
+rr-CA-aa 
+Certificates of Approval
+N
+  -
+-
+   -
+rr-CDRY-aa 
+Dry Cleaning Facilities
+N
+  -
+-
+   -
+rr-CFOT-aa 
+Commercial Fuel Oil Tanks
+Y
+  0
+0
+   0
+rr-CHEM-aa 
+Chemical Manufacturers and Distributors
+N
+  -
+-
+   -
+rr-CHM-aa 
+Chemical Register
+N
+  -
+-
+   -
+rr-CNG-aa 
+Compressed Natural Gas Stations
+N
+  -
+-
+   -
+rr-COAL-aa 
+Inventory of Coal Gasification Plants and Coal Tar Sites
+N
+  -
+-
+   -
+rr-CONV-aa 
+Compliance and Convictions
+N
+  -
+-
+   -
+rr-CPU-aa 
+Certificates of Property Use
+N
+  -
+-
+   -
+rr-DRL-aa 
+Drill Hole Database
+N
+  -
+-
+   -
+rr-DTNK-aa 
+Delisted Fuel Tanks
+N
+  -
+-
+   -
+rr-EASR-aa 
+Environmental Activity and Sector Registry
+N
+  -
+-
+   -
+rr-EBR-aa 
+Environmental Registry
+N
+  -
+-
+   -
+rr-ECA-aa 
+Environmental Compliance Approval
+N
+  -
+-
+   -
+rr-EEM-aa 
+Environmental Effects Monitoring
+N
+  -
+-
+   -
+rr-EHS-aa 
+ERIS Historical Searches
+N
+  -
+-
+   -
+rr-EIIS-aa 
+Environmental Issues Inventory System
+N
+  -
+-
+   -
+rr-EMHE-aa 
+Emergency Management Historical Event
+N
+  -
+-
+   -
+rr-EPAR-aa 
+Environmental Penalty Annual Report
+N
+  -
+-
+   -
+rr-EXP-aa 
+List of Expired Fuels Safety Facilities
+N
+  -
+-
+   -
+rr-FCON-aa 
+Federal Convictions
+N
+  -
+-
+   -
+rr-FCS-aa 
+Contaminated Sites on Federal Land
+N
+  -
+-
+   -
+rr-FOFT-aa 
+Fisheries & Oceans Fuel Tanks
+N
+  -
+-
+   -
+rr-FRST-aa 
+Federal Identification Registry for Storage Tank Systems 
+(FIRSTS)
+N
+  -
+-
+   -
+rr-FST-aa 
+Fuel Storage Tank
+Y
+  0
+0
+   0
+rr-FSTH-aa 
+Fuel Storage Tank - Historic
+Y
+  0
+0
+   0
+rr-GEN-aa 
+Ontario Regulation 347 Waste Generators Summary
+Y
+  0
+9
+   9
+rr-GHG-aa 
+Greenhouse Gas Emissions from Large Facilities
+N
+  -
+-
+   -
+rr-HINC-aa 
+TSSA Historic Incidents
+N
+  -
+-
+   -
+rr-IAFT-aa 
+Indian & Northern Affairs Fuel Tanks
+N
+  -
+-
+   -
+AAGR
+AGR
+AMIS
+ANDR
+AST
+AUWR
+BORE
+CA
+CDRY
+CFOT
+CHEM
+CHM
+CNG
+COAL
+CONV
+CPU
+DRL
+DTNK
+EASR
+EBR
+ECA
+EEM
+EHS
+EIIS
+EMHE
+EPAR
+EXP
+FCON
+FCS
+FOFT
+FRST
+FST
+FSTH
+GEN
+GHG
+HINC
+IAFT
+Executive Summary: Report Summary
+5
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+Database
+ Name
+Searched
+Project 
+Property
+Within 0.25 km
+Total
+rr-INC-aa 
+Fuel Oil Spills and Leaks
+N
+  -
+-
+   -
+rr-LIMO-aa 
+Landfill Inventory Management Ontario
+N
+  -
+-
+   -
+rr-MINE-aa 
+Canadian Mine Locations
+N
+  -
+-
+   -
+rr-MNR-aa 
+Mineral Occurrences
+N
+  -
+-
+   -
+rr-NATE-aa 
+National Analysis of Trends in Emergencies System 
+(NATES)
+N
+  -
+-
+   -
+rr-NCPL-aa 
+Non-Compliance Reports
+N
+  -
+-
+   -
+rr-NDFT-aa 
+National Defense & Canadian Forces Fuel Tanks
+N
+  -
+-
+   -
+rr-NDSP-aa 
+National Defense & Canadian Forces Spills
+N
+  -
+-
+   -
+rr-NDWD-aa 
+National Defence & Canadian Forces Waste Disposal 
+Sites
+N
+  -
+-
+   -
+rr-NEBI-aa 
+National Energy Board Pipeline Incidents
+N
+  -
+-
+   -
+rr-NEBP-aa 
+National Energy Board Wells
+N
+  -
+-
+   -
+rr-NEES-aa 
+National Environmental Emergencies System (NEES)
+N
+  -
+-
+   -
+rr-NPCB-aa 
+National PCB Inventory
+N
+  -
+-
+   -
+rr-NPR2-aa 
+National Pollutant Release Inventory
+N
+  -
+-
+   -
+rr-NPRI-aa 
+National Pollutant Release Inventory - Historic
+N
+  -
+-
+   -
+rr-OGWE-aa 
+Oil and Gas Wells
+N
+  -
+-
+   -
+rr-OOGW-aa 
+Ontario Oil and Gas Wells
+N
+  -
+-
+   -
+rr-OPCB-aa 
+Inventory of PCB Storage Sites
+N
+  -
+-
+   -
+rr-ORD-aa 
+Orders
+N
+  -
+-
+   -
+rr-PAP-aa 
+Canadian Pulp and Paper
+N
+  -
+-
+   -
+rr-PCFT-aa 
+Parks Canada Fuel Storage Tanks
+N
+  -
+-
+   -
+rr-PES-aa 
+Pesticide Register
+N
+  -
+-
+   -
+rr-PFAS-aa 
+Ontario PFAS Spills
+N
+  -
+-
+   -
+rr-PFCH-aa 
+NPRI Reporters - PFAS Substances
+N
+  -
+-
+   -
+rr-PFHA-aa 
+Potential PFAS Handlers from NPRI
+N
+  -
+-
+   -
+rr-PINC-aa 
+Pipeline Incidents
+N
+  -
+-
+   -
+rr-PPHA-aa 
+Potential PFAS Handlers from EASR
+N
+  -
+-
+   -
+rr-PRT-aa 
+Private and Retail Fuel Storage Tanks
+Y
+  0
+0
+   0
+rr-PTTW-aa 
+Permit to Take Water
+N
+  -
+-
+   -
+rr-REC-aa 
+Ontario Regulation 347 Waste Receivers Summary
+N
+  -
+-
+   -
+rr-RSC-aa 
+Record of Site Condition
+N
+  -
+-
+   -
+rr-RST-aa 
+Retail Fuel Storage Tanks
+Y
+  0
+0
+   0
+rr-SCT-aa 
+Scott's Manufacturing Directory
+Y
+  0
+1
+   1
+rr-SPL-aa 
+Ontario Spills
+Y
+  0
+3
+   3
+rr-SRDS-aa 
+Wastewater Discharger Registration Database
+N
+  -
+-
+   -
+rr-TANK-aa 
+Anderson's Storage Tanks
+N
+  -
+-
+   -
+rr-TCFT-aa 
+Transport Canada Fuel Storage Tanks
+N
+  -
+-
+   -
+rr-VAR-aa 
+Variances for Abandonment of Underground Storage 
+Tanks
+N
+  -
+-
+   -
+rr-WDS-aa 
+Waste Disposal Sites - MOE CA Inventory
+N
+  -
+-
+   -
+rr-WDSH-aa 
+Waste Disposal Sites - MOE 1991 Historical Approval 
+Inventory
+N
+  -
+-
+   -
+rr-WWIS-aa 
+Water Well Information System
+N
+  -
+-
+   -
+INC
+LIMO
+MINE
+MNR
+NATE
+NCPL
+NDFT
+NDSP
+NDWD
+NEBI
+NEBP
+NEES
+NPCB
+NPR2
+NPRI
+OGWE
+OOGW
+OPCB
+ORD
+PAP
+PCFT
+PES
+PFAS
+PFCH
+PFHA
+PINC
+PPHA
+PRT
+PTTW
+REC
+RSC
+RST
+SCT
+SPL
+SRDS
+TANK
+TCFT
+VAR
+WDS
+WDSH
+WWIS
+6
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+Database
+ Name
+Searched
+Project 
+Property
+Within 0.25 km
+Total
+Total:
+  0
+13
+   13
+7
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+h-Executive Summary: Site Report Summary - Project Property
+Map
+Key
+DB
+ Company/Site Name 
+Address
+Dir/Dist (m)
+ Elev diff 
+(m)
+Page 
+Number
+No records found in the selected databases for the project property.
+Executive Summary: Site Report Summary - Project Property
+8
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+h-Executive Summary: Site Report Summary - Surrounding Properties
+Map
+Key 
+DB
+Company/Site Name
+ Address 
+Dir/Dist (m)
+ Elev Diff 
+(m) 
+Page 
+Number
+m1d
+dd-SCT-800678569-aa
+AMF Bakery Systems Canada 
+Ltd.
+7 Peachtree Cres 
+Guelph ON N1H 8K5
+NE/220.3
+4.39
+p-15-800678569-x 
+m2d
+dd-SPL-803076136-aa
+infront of 43 Bonar Place 
+Guelph ON N1H 8M3
+NE/224.9
+3.00
+p-15-803076136-x 
+m3d
+dd-SPL-848857835-aa
+Elmira Road @ Tovell 
+Guelph ON 
+SE/236.7
+1.00
+p-16-848857835-x 
+m4d
+dd-SPL-866685283-aa
+18 Tovell Drive 
+Guelph ON 
+S/242.0
+1.00
+p-17-866685283-x 
+m5d
+dd-GEN-814164438-aa
+UPPER GRAND DISTRICT 
+SCHOOL BOARD
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON 
+E/248.0
+0.00
+p-17-814164438-x 
+m5d
+dd-GEN-821720856-aa
+UPPER GRAND DISTRICT 
+SCHOOL BOARD
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON 
+E/248.0
+0.00
+p-18-821720856-x 
+m5d
+dd-GEN-861825633-aa
+UPPER GRAND DISTRICT 
+SCHOOL BOARD
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2
+E/248.0
+0.00
+p-18-861825633-x 
+m5d
+dd-GEN-861831675-aa
+UPPER GRAND DISTRICT 
+SCHOOL BOARD
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2
+E/248.0
+0.00
+p-19-861831675-x 
+m5d
+dd-GEN-861857223-aa
+UPPER GRAND DISTRICT 
+SCHOOL BOARD
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2
+E/248.0
+0.00
+p-19-861857223-x 
+m5d
+dd-GEN-861917111-aa
+UPPER GRAND DISTRICT 
+SCHOOL BOARD
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2
+E/248.0
+0.00
+p-19-861917111-x 
+m5d
+dd-GEN-879423784-aa
+UPPER GRAND DISTRICT 
+SCHOOL BOARD
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2
+E/248.0
+0.00
+p-20-879423784-x 
+m5d
+dd-GEN-891014552-aa
+UPPER GRAND DISTRICT 
+SCHOOL BOARD
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2
+E/248.0
+0.00
+p-20-891014552-x 
+15
+15
+16
+17
+17
+18
+18
+19
+19
+19
+20
+20
+1
+2
+3
+4
+5
+5
+5
+5
+5
+5
+5
+5
+SCT
+SPL
+SPL
+SPL
+GEN
+GEN
+GEN
+GEN
+GEN
+GEN
+GEN
+GEN
+Executive Summary: Site Report Summary - Surrounding Properties
+9
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+Map
+Key 
+DB
+Company/Site Name
+ Address 
+Dir/Dist (m)
+ Elev Diff 
+(m) 
+Page 
+Number
+m5d
+dd-GEN-898180193-aa
+UPPER GRAND DISTRICT 
+SCHOOL BOARD
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2
+E/248.0
+0.00
+p-21-898180193-x 
+21
+5
+GEN
+10
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+h-Executive Summary: Summary By Data Source 
+GEN - Ontario Regulation 347 Waste Generators Summary
+A search of the GEN database, dated 1986-Oct 31, 2022 has found that there are 9 GEN site(s) within approximately 0.25 kilometers of
+the project property. 
+Equal/Higher Elevation
+Address
+Direction
+Distance (m)
+Map Key
+UPPER GRAND DISTRICT 
+SCHOOL BOARD 
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2 
+E
+247.97
+m-5-861825633-a 
+UPPER GRAND DISTRICT 
+SCHOOL BOARD 
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2 
+E
+247.97
+m-5-891014552-a 
+UPPER GRAND DISTRICT 
+SCHOOL BOARD 
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2 
+E
+247.97
+m-5-879423784-a 
+UPPER GRAND DISTRICT 
+SCHOOL BOARD 
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2 
+E
+247.97
+m-5-861917111-a 
+UPPER GRAND DISTRICT 
+SCHOOL BOARD 
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON  
+E
+247.97
+m-5-814164438-a 
+UPPER GRAND DISTRICT 
+SCHOOL BOARD 
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON  
+E
+247.97
+m-5-821720856-a 
+UPPER GRAND DISTRICT 
+SCHOOL BOARD 
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2 
+E
+247.97
+m-5-898180193-a 
+UPPER GRAND DISTRICT 
+SCHOOL BOARD 
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2 
+E
+247.97
+m-5-861831675-a 
+UPPER GRAND DISTRICT 
+SCHOOL BOARD 
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2 
+E
+247.97
+m-5-861857223-a 
+5
+5
+5
+5
+5
+5
+5
+5
+5
+Executive Summary: Summary By Data Source
+11
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+SCT - Scott's Manufacturing Directory
+A search of the SCT database, dated 1992-Mar 2011* has found that there are 1 SCT site(s) within approximately 0.25 kilometers of 
+the project property. 
+Equal/Higher Elevation
+Address
+Direction
+Distance (m)
+Map Key
+AMF Bakery Systems Canada Ltd. 
+7 Peachtree Cres 
+Guelph ON N1H 8K5 
+NE
+220.32
+m-1-800678569-a 
+SPL - Ontario Spills
+A search of the SPL database, dated 1988-Jun 2024 has found that there are 3 SPL site(s) within approximately 0.25 kilometers of the 
+project property. 
+Equal/Higher Elevation
+Address
+Direction
+Distance (m)
+Map Key
+ 
+infront of 43 Bonar Place 
+Guelph ON N1H 8M3 
+NE
+224.94
+m-2-803076136-a 
+ 
+Elmira Road @ Tovell 
+Guelph ON  
+SE
+236.74
+m-3-848857835-a 
+ 
+18 Tovell Drive 
+Guelph ON  
+S
+241.96
+m-4-866685283-a 
+1
+2
+3
+4
+^_
+#*
+#*
+#*
+#*
+")
+m4c
+m3c
+m1c
+m2c
+m5c(9)
+80°18'W
+43°31'30"N
+43°31'30"N
+90
+0
+90
+45
+m
+Order Number: 24112000525
+Map: 0.25 Kilometer Radius
+1:3250
+Address: 105 Elmira Road North, Guelph, ON
+Source:  © 2021 ESRI StreetMap Premium.
+ 
+© ERIS Information Limited Partnership
+^_
+Project Property
+Buffer Outline
+#*
+Eris Sites with Higher Elevation
+")
+Eris Sites with Same Elevation
+#*
+Eris Sites with Lower Elevation
+(
+Eris Sites with Unknown Elevation
+Freeways; Highways
+Traffic Circle; Ramp
+Major Arterial; Minor Arterial
+Local Road
+Service Road; Traffic Circle; Ramp
+Rail
+Beach
+Airport
+Military Base
+Aircraft Roads
+Hospital
+University/College
+Cemetery; Golf Course
+Park (City/County)
+Industrial Area
+Shopping & Sports Area
+Parkt (National)
+Native Reservation
+4
+3
+1
+2
+5 (9)
+^_
+Source: Esri, Maxar, Earthstar Geographics, and the GIS User Community
+80°18'W
+43°31'30"N
+43°31'30"N
+250
+0
+250
+125
+m
+Order Number: 24112000525
+Aerial
+1:10000
+Address: 105 Elmira Road North, Guelph, ON
+© ERIS Information Limited Partnership
+Source: ESRI World Imagery
+Year: 2022
+^_
+80°16'30"W
+80°18'W
+80°19'30"W
+43°33'N
+43°33'N
+43°31'30"N
+43°31'30"N
+610
+0
+610
+305
+m
+Order Number: 24112000525
+Topographic Map
+1:24000
+Address: 105 Elmira Road North, ON
+© ERIS Information Limited Partnership
+Source: ESRI World Topographic Map
+15
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+h-Detail Report
+ Map Key
+Number of 
+Records
+Direction/
+Distance (m)
+ Elev/Diff
+ (m)
+ Site
+DB
+m-1-800678569-b 
+1 of 1
+NE/220.3
+328.2 / 4.39
+AMF Bakery Systems Canada Ltd.
+7 Peachtree Cres 
+Guelph ON N1H 8K5
+dd-SCT-800678569-bb
+p-800678569-y 
+Established:
+1994
+Plant Size (ft²):
+Employment:
+  4
+ 
+--Details--
+Description:
+Industrial Machinery, Equipment and Supplies Wholesaler-Distributors
+SIC/NAICS Code:
+417230
+ 
+m-2-803076136-b 
+1 of 1
+NE/224.9
+326.9 / 3.00
+infront of 43 Bonar Place 
+Guelph ON N1H 8M3
+dd-SPL-803076136-bb
+p-803076136-y 
+Ref No: 
+0123-65872B
+Municipality No:
+Year: 
+Nature of Damage:
+Incident Dt: 
+9/27/2004
+Discharger Report:
+Dt MOE Arvl on Scn: 
+Material Group:
+Waste
+MOE Reported Dt: 
+9/27/2004
+Impact to Health:
+Dt Document Closed: 
+Agency Involved:
+Site No:
+MOE Response:
+Site County/District:
+Site Geo Ref Meth:
+Site District Office:
+Guelph
+Nearest Watercourse:
+Site Name:
+CITY CATCHBASIN<UNOFFICIAL>
+Site Address:
+Site Region:
+West Central
+Site Municipality:
+Guelph
+Site Lot:
+Site Conc:
+Site Geo Ref Accu:
+Site Map Datum:
+Northing:
+Easting:
+Incident Cause:
+Intent - Intentional or planned occurrence
+Incident Preceding Spill:
+Environment Impact:
+Possible
+Health Env Consequence:
+Nature of Impact:
+Surface Water Pollution
+Contaminant Qty:
+Contaminant Qty 1:
+Contaminant Unit:
+Client Type:
+Source Type:
+Contaminant Code:
+41
+Contaminant Name:
+PAINT/PAINT THINNER MIXTURE
+Contaminant Limit 1:
+Contam Limit Freq 1:
+Contaminant UN No 1:
+Receiving Medium:
+Water
+1
+2
+SCT
+SPL
+Detail Report
+16
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+ Map Key
+Number of 
+Records
+Direction/
+Distance (m)
+ Elev/Diff
+ (m)
+ Site
+DB
+Incident Reason:
+Negligence (Apparent) - Caused by lack of diligence
+Incident Summary:
+43 Bonar Place-paint & thinners-catchbasin
+Activity Preceding Spill:
+Property 2nd Watershed:
+Property Tertiary Watershed:
+Sector Type:
+Unknown
+SAC Action Class:
+Spills
+Call Report Locatn Geodata:
+Time Reported:
+System Facility Address:
+Client Name:
+ 
+m-3-848857835-b 
+1 of 1
+SE/236.7
+324.9 / 1.00
+Elmira Road @ Tovell 
+Guelph ON 
+dd-SPL-848857835-bb
+p-848857835-y 
+Ref No: 
+1757-A2Q8CS
+Municipality No:
+Year: 
+Nature of Damage:
+Incident Dt: 
+9/26/2015
+Discharger Report:
+Dt MOE Arvl on Scn: 
+Material Group:
+MOE Reported Dt: 
+9/26/2015
+Impact to Health:
+Dt Document Closed: 
+9/29/2015
+Agency Involved:
+Site No:
+NA
+MOE Response:
+No
+Site County/District:
+Site Geo Ref Meth:
+Site District Office:
+Nearest Watercourse:
+Site Name:
+Intersection <UNOFFICIAL>
+Site Address:
+Elmira Road @ Tovell
+Site Region:
+Site Municipality:
+Guelph
+Site Lot:
+Site Conc:
+Site Geo Ref Accu:
+Site Map Datum:
+Northing:
+Easting:
+Incident Cause:
+Incident Preceding Spill:
+Environment Impact:
+Health Env Consequence:
+Nature of Impact:
+Contaminant Qty:
+0 other - see incident description
+Contaminant Qty 1:
+0
+Contaminant Unit:
+other - see incident description
+Client Type:
+Source Type:
+Contaminant Code:
+15
+Contaminant Name:
+MOTOR OIL
+Contaminant Limit 1:
+Contam Limit Freq 1:
+Contaminant UN No 1:
+Receiving Medium:
+Incident Reason:
+Operator/Human Error
+Incident Summary:
+City of Guelph: MVA oil to road, site access restricted
+Activity Preceding Spill:
+Property 2nd Watershed:
+Property Tertiary Watershed:
+Sector Type:
+Miscellaneous Industrial
+SAC Action Class:
+Land Spills
+Call Report Locatn Geodata:
+Time Reported:
+System Facility Address:
+Client Name:
+3
+SPL
+17
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+ Map Key
+Number of 
+Records
+Direction/
+Distance (m)
+ Elev/Diff
+ (m)
+ Site
+DB
+ 
+m-4-866685283-b 
+1 of 1
+S/242.0
+324.9 / 1.00
+18 Tovell Drive 
+Guelph ON 
+dd-SPL-866685283-bb
+p-866685283-y 
+Ref No: 
+8506-ASGK72
+Municipality No:
+Year: 
+Nature of Damage:
+Incident Dt: 
+2017/10/25
+Discharger Report:
+Dt MOE Arvl on Scn: 
+Material Group:
+MOE Reported Dt: 
+2017/10/25
+Impact to Health:
+0 - No Impact
+Dt Document Closed: 
+Agency Involved:
+Site No:
+NA
+MOE Response:
+No
+Site County/District:
+County of Wellington
+Site Geo Ref Meth:
+Site District Office:
+Guelph
+Nearest Watercourse:
+Site Name:
+City of Guelph - catch basin<UNOFFICIAL>
+Site Address:
+18 Tovell Drive
+Site Region:
+West Central
+Site Municipality:
+Guelph
+Site Lot:
+Site Conc:
+Site Geo Ref Accu:
+Site Map Datum:
+Northing:
+4819374.47
+Easting:
+556814.78
+Incident Cause:
+Incident Preceding Spill:
+Unknown / N/A
+Environment Impact:
+Health Env Consequence:
+Nature of Impact:
+Contaminant Qty:
+0 other - see incident description
+Contaminant Qty 1:
+0
+Contaminant Unit:
+other - see incident description
+Client Type:
+Source Type:
+Unknown / N/A
+Contaminant Code:
+27
+Contaminant Name:
+PAINT OR PAINT-RELATED
+Contaminant Limit 1:
+Contam Limit Freq 1:
+Contaminant UN No 1:
+n/a
+Receiving Medium:
+Land
+Incident Reason:
+Unknown / N/A
+Incident Summary:
+CIty of Guelph: white paint in catch basin
+Activity Preceding Spill:
+Property 2nd Watershed:
+Property Tertiary Watershed:
+Sector Type:
+Unknown / N/A
+SAC Action Class:
+Land Spills
+Call Report Locatn Geodata:
+Time Reported:
+System Facility Address:
+Client Name:
+ 
+m-5-814164438-b 
+1 of 9
+E/248.0
+323.9 / 0.00
+UPPER GRAND DISTRICT SCHOOL BOARD
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON 
+dd-GEN-814164438-bb
+p-814164438-y 
+Generator No:
+ON3731720
+SIC Code:
+611110
+SIC Description:
+Elementary and Secondary Schools
+Approval Years:
+2012
+4
+5
+SPL
+GEN
+18
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+ Map Key
+Number of 
+Records
+Direction/
+Distance (m)
+ Elev/Diff
+ (m)
+ Site
+DB
+PO Box No:
+Country:
+Status:
+Co Admin:
+Choice of Contact:
+Phone No Admin:
+Contaminated Facility:
+MHSW Facility:
+m-5-821720856-b 
+2 of 9
+E/248.0
+323.9 / 0.00
+UPPER GRAND DISTRICT SCHOOL BOARD
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON 
+dd-GEN-821720856-bb
+p-821720856-y 
+Generator No:
+ON3731720
+SIC Code:
+611110
+SIC Description:
+ELEMENTARY AND SECONDARY SCHOOLS
+Approval Years:
+2013
+PO Box No:
+Country:
+Status:
+Co Admin:
+Choice of Contact:
+Phone No Admin:
+Contaminated Facility:
+MHSW Facility:
+ 
+Detail(s)
+ 
+Waste Class:
+148
+Waste Class Name:
+INORGANIC LABORATORY CHEMICALS
+ 
+Waste Class:
+263
+Waste Class Name:
+ORGANIC LABORATORY CHEMICALS
+m-5-861825633-b 
+3 of 9
+E/248.0
+323.9 / 0.00
+UPPER GRAND DISTRICT SCHOOL BOARD
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2
+dd-GEN-861825633-bb
+p-861825633-y 
+Generator No:
+ON3731720
+SIC Code:
+611110
+SIC Description:
+ELEMENTARY AND SECONDARY SCHOOLS
+Approval Years:
+2016
+PO Box No:
+Country:
+Canada
+Status:
+Co Admin:
+Lorraine Millar
+Choice of Contact:
+CO_ADMIN
+Phone No Admin:
+519-822-4420 Ext.849
+Contaminated Facility:
+No
+MHSW Facility:
+No
+ 
+Detail(s)
+ 
+Waste Class:
+263
+Waste Class Name:
+ORGANIC LABORATORY CHEMICALS
+ 
+Waste Class:
+251
+Waste Class Name:
+OIL SKIMMINGS & SLUDGES
+ 
+Waste Class:
+148
+Waste Class Name:
+INORGANIC LABORATORY CHEMICALS
+ 
+Waste Class:
+150
+5
+5
+GEN
+GEN
+19
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+ Map Key
+Number of 
+Records
+Direction/
+Distance (m)
+ Elev/Diff
+ (m)
+ Site
+DB
+Waste Class Name:
+INERT INORGANIC WASTES
+m-5-861831675-b 
+4 of 9
+E/248.0
+323.9 / 0.00
+UPPER GRAND DISTRICT SCHOOL BOARD
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2
+dd-GEN-861831675-bb
+p-861831675-y 
+Generator No:
+ON3731720
+SIC Code:
+611110
+SIC Description:
+ELEMENTARY AND SECONDARY SCHOOLS
+Approval Years:
+2015
+PO Box No:
+Country:
+Canada
+Status:
+Co Admin:
+Lorraine Millar
+Choice of Contact:
+CO_ADMIN
+Phone No Admin:
+519-822-4420 Ext.849
+Contaminated Facility:
+No
+MHSW Facility:
+No
+ 
+Detail(s)
+ 
+Waste Class:
+148
+Waste Class Name:
+INORGANIC LABORATORY CHEMICALS
+ 
+Waste Class:
+263
+Waste Class Name:
+ORGANIC LABORATORY CHEMICALS
+m-5-861857223-b 
+5 of 9
+E/248.0
+323.9 / 0.00
+UPPER GRAND DISTRICT SCHOOL BOARD
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2
+dd-GEN-861857223-bb
+p-861857223-y 
+Generator No:
+ON3731720
+SIC Code:
+611110
+SIC Description:
+ELEMENTARY AND SECONDARY SCHOOLS
+Approval Years:
+2014
+PO Box No:
+Country:
+Canada
+Status:
+Co Admin:
+Lorraine Millar
+Choice of Contact:
+CO_ADMIN
+Phone No Admin:
+519-822-4420 Ext.849
+Contaminated Facility:
+No
+MHSW Facility:
+No
+ 
+Detail(s)
+ 
+Waste Class:
+148
+Waste Class Name:
+INORGANIC LABORATORY CHEMICALS
+ 
+Waste Class:
+263
+Waste Class Name:
+ORGANIC LABORATORY CHEMICALS
+m-5-861917111-b 
+6 of 9
+E/248.0
+323.9 / 0.00
+UPPER GRAND DISTRICT SCHOOL BOARD
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2
+dd-GEN-861917111-bb
+p-861917111-y 
+Generator No:
+ON3731720
+SIC Code:
+SIC Description:
+Approval Years:
+As of Jun 2017
+PO Box No:
+Country:
+Canada
+5
+5
+5
+GEN
+GEN
+GEN
+20
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+ Map Key
+Number of 
+Records
+Direction/
+Distance (m)
+ Elev/Diff
+ (m)
+ Site
+DB
+Status:
+Registered
+Co Admin:
+Choice of Contact:
+Phone No Admin:
+Contaminated Facility:
+MHSW Facility:
+ 
+Detail(s)
+ 
+Waste Class:
+148 C
+Waste Class Name:
+Misc. wastes and inorganic chemicals
+ 
+Waste Class:
+263 B
+Waste Class Name:
+Misc. waste organic chemicals
+ 
+Waste Class:
+251 L
+Waste Class Name:
+Waste oils/sludges (petroleum based)
+ 
+Waste Class:
+150 L
+Waste Class Name:
+Inert organic wastes
+m-5-879423784-b 
+7 of 9
+E/248.0
+323.9 / 0.00
+UPPER GRAND DISTRICT SCHOOL BOARD
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2
+dd-GEN-879423784-bb
+p-879423784-y 
+Generator No:
+ON3731720
+SIC Code:
+SIC Description:
+Approval Years:
+As of Jul 2020
+PO Box No:
+Country:
+Canada
+Status:
+Registered
+Co Admin:
+Choice of Contact:
+Phone No Admin:
+Contaminated Facility:
+MHSW Facility:
+ 
+Detail(s)
+ 
+Waste Class:
+150 L
+Waste Class Name:
+Inert organic wastes
+ 
+Waste Class:
+263 B
+Waste Class Name:
+Misc. waste organic chemicals
+ 
+Waste Class:
+148 C
+Waste Class Name:
+Misc. wastes and inorganic chemicals
+ 
+Waste Class:
+251 L
+Waste Class Name:
+Waste oils/sludges (petroleum based)
+m-5-891014552-b 
+8 of 9
+E/248.0
+323.9 / 0.00
+UPPER GRAND DISTRICT SCHOOL BOARD
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2
+dd-GEN-891014552-bb
+p-891014552-y 
+Generator No:
+ON3731720
+SIC Code:
+SIC Description:
+Approval Years:
+As of Nov 2021
+PO Box No:
+Country:
+Canada
+Status:
+Registered
+5
+5
+GEN
+GEN
+21
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+ Map Key
+Number of 
+Records
+Direction/
+Distance (m)
+ Elev/Diff
+ (m)
+ Site
+DB
+Co Admin:
+Choice of Contact:
+Phone No Admin:
+Contaminated Facility:
+MHSW Facility:
+ 
+Detail(s)
+ 
+Waste Class:
+150 L
+Waste Class Name:
+Inert organic wastes
+ 
+Waste Class:
+148 C
+Waste Class Name:
+Misc. wastes and inorganic chemicals
+ 
+Waste Class:
+251 L
+Waste Class Name:
+Waste oils/sludges (petroleum based)
+ 
+Waste Class:
+263 B
+Waste Class Name:
+Misc. waste organic chemicals
+m-5-898180193-b 
+9 of 9
+E/248.0
+323.9 / 0.00
+UPPER GRAND DISTRICT SCHOOL BOARD
+Mitchell Woods P.S., 670 Willow Road 
+Guelph ON N1H 8K2
+dd-GEN-898180193-bb
+p-898180193-y 
+Generator No:
+ON3731720
+SIC Code:
+SIC Description:
+Approval Years:
+As of Oct 2022
+PO Box No:
+Country:
+Canada
+Status:
+Registered
+Co Admin:
+Choice of Contact:
+Phone No Admin:
+Contaminated Facility:
+MHSW Facility:
+ 
+Detail(s)
+ 
+Waste Class:
+150 L
+Waste Class Name:
+INERT INORGANIC WASTES
+ 
+Waste Class:
+251 L
+Waste Class Name:
+OIL SKIMMINGS & SLUDGES
+ 
+Waste Class:
+148 C
+Waste Class Name:
+INORGANIC LABORATORY CHEMICALS
+ 
+Waste Class:
+263 B
+Waste Class Name:
+ORGANIC LABORATORY CHEMICALS
+5
+GEN
+22
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+h-Unplottable Summary
+Total:  3  Unplottable sites
+DB
+Company Name/Site Name        
+Address
+City
+Postal
+uu-GEN-800944079-aa 
+DOM-MERIDIAN 
+CONSTRUCTION LTD.
+LOT 6 & 7, CONCESSION 1 WILLOW ROAD
+GUELPH ON
+N1K 1E6
+uu-SPL-827317921-aa 
+The City of Guelph
+on Elmira Rd North 
+Guelph ON
+uu-SPL-827320553-aa 
+The Corporation of the City of 
+Guelph
+Elmira Street N just north of Paisley Road 
+Guelph ON
+GEN
+SPL
+SPL
+Unplottable Summary
+23
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+h-Unplottable Report
+Site:
+DOM-MERIDIAN CONSTRUCTION LTD. 
+LOT 6 & 7, CONCESSION 1 WILLOW ROAD  GUELPH ON N1K 1E6
+Database:
+uu-GEN-800944079-bb
+Generator No:
+ON9446799
+SIC Code:
+SIC Description:
+Approval Years:
+02,03,04
+PO Box No:
+Country:
+Status:
+Co Admin:
+Choice of Contact:
+Phone No Admin:
+Contaminated Facility:
+MHSW Facility:
+ 
+Detail(s)
+ 
+Waste Class:
+221
+Waste Class Name:
+LIGHT FUELS
+ 
+Waste Class:
+251
+Waste Class Name:
+OIL SKIMMINGS & SLUDGES
+Site:
+The City of Guelph 
+on Elmira Rd North   Guelph ON 
+Database:
+uu-SPL-827317921-bb
+Ref No: 
+6522-9Q9J5K
+Municipality No:
+Year: 
+Nature of Damage:
+Incident Dt: 
+2014/10/26
+Discharger Report:
+Dt MOE Arvl on Scn: 
+Material Group:
+MOE Reported Dt: 
+2014/10/26
+Impact to Health:
+Dt Document Closed: 
+2014/10/28
+Agency Involved:
+Site No:
+NA
+MOE Response:
+No Field Response
+Site County/District:
+Site Geo Ref Meth:
+Site District Office:
+Nearest Watercourse:
+Site Name:
+MVA<UNOFFICIAL>
+Site Address:
+on Elmira Rd North
+Site Region:
+Site Municipality:
+Guelph
+Site Lot:
+Site Conc:
+Site Geo Ref Accu:
+Site Map Datum:
+Northing:
+Easting:
+Incident Cause:
+Collision/Accident
+Incident Preceding Spill:
+Environment Impact:
+Confirmed
+Health Env Consequence:
+Nature of Impact:
+Surface Water Pollution
+Contaminant Qty:
+3 L
+Contaminant Qty 1:
+3
+Contaminant Unit:
+L
+Client Type:
+Source Type:
+GEN
+SPL
+Unplottable Report
+24
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+Contaminant Code:
+15
+Contaminant Name:
+MOTOR OIL
+Contaminant Limit 1:
+Contam Limit Freq 1:
+Contaminant UN No 1:
+Receiving Medium:
+Incident Reason:
+Operator/Human Error
+Incident Summary:
+MVA: oil in pond 3L
+Activity Preceding Spill:
+Property 2nd Watershed:
+Property Tertiary Watershed:
+Sector Type:
+Motor Vehicle
+SAC Action Class:
+Watercourse Spills
+Call Report Locatn Geodata:
+Time Reported:
+System Facility Address:
+Client Name:
+The City of Guelph
+ 
+Site:
+The Corporation of the City of Guelph 
+Elmira Street N just north of Paisley Road   Guelph ON 
+Database:
+uu-SPL-827320553-bb
+Ref No: 
+8485-9ULVZ4
+Municipality No:
+Year: 
+Nature of Damage:
+Incident Dt: 
+3/14/2015
+Discharger Report:
+Dt MOE Arvl on Scn: 
+Material Group:
+MOE Reported Dt: 
+3/14/2015
+Impact to Health:
+Dt Document Closed: 
+3/24/2015
+Agency Involved:
+Site No:
+NA
+MOE Response:
+N
+Site County/District:
+Site Geo Ref Meth:
+Site District Office:
+Nearest Watercourse:
+Site Name:
+City Street and CB<UNOFFICIAL>
+Site Address:
+Elmira Street N just north of Paisley Road
+Site Region:
+Site Municipality:
+Guelph
+Site Lot:
+Site Conc:
+Site Geo Ref Accu:
+Site Map Datum:
+Northing:
+Easting:
+Incident Cause:
+Leak/Break
+Incident Preceding Spill:
+Environment Impact:
+Health Env Consequence:
+Nature of Impact:
+Land
+Contaminant Qty:
+0 other - see incident description
+Contaminant Qty 1:
+0
+Contaminant Unit:
+other - see incident description
+Client Type:
+Source Type:
+Contaminant Code:
+27
+Contaminant Name:
+COOLANT (N.O.S.)
+Contaminant Limit 1:
+Contam Limit Freq 1:
+Contaminant UN No 1:
+Receiving Medium:
+Incident Reason:
+Equipment Failure
+Incident Summary:
+Guelph: rad fluid to street and CB, contained
+Activity Preceding Spill:
+Property 2nd Watershed:
+Property Tertiary Watershed:
+Sector Type:
+SAC Action Class:
+Primary Assessment of Spills
+Call Report Locatn Geodata:
+Time Reported:
+SPL
+25
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+System Facility Address:
+Client Name:
+The Corporation of the City of Guelph
+ 
+26
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+h-Appendix: Database Descriptions
+Environmental Risk Information Services (ERIS) can search the following databases. The extent of historical information varies with 
+each database and current information is determined by what is publicly available to ERIS at the time of update. Note: Databases 
+denoted with " * " indicates that the database will no longer be updated. See the individual database description for more information.
+Abandoned Aggregate Inventory:
+Provincial
+rr-AAGR-bb
+The MAAP Program maintains a database of abandoned pits and quarries.  Please note that the database is only referenced by lot and concession and 
+city/town location.  The database provides information regarding the location, type, size, land use, status and general comments.*
+Government Publication Date: Sept 2002* 
+Aggregate Inventory:
+Provincial
+rr-AGR-bb
+This database of licensed and permitted pits and quarries is maintained by the Ontario Ministry of Natural Resources and Forestry (MNRF), as regulated
+under the Aggregate Resources Act, R.S.O. 1990. Aggregate site data has been divided into active and inactive sites. Active sites may be further 
+subdivided into partial surrenders. In partial surrenders, defined areas of a site are inactive while the rest of the site remains active.
+Government Publication Date: Up to Nov 2023 
+Abandoned Mine Information System:
+Provincial
+rr-AMIS-bb
+The Abandoned Mines Information System contains data on known abandoned and inactive mines located on both Crown and privately held lands.  The
+information was provided by the Ministry of Northern Development and Mines (MNDM), with the following disclaimer: "the database provided has been 
+compiled from various sources, and the Ministry of Northern Development and Mines makes no representation and takes no responsibility that such 
+information is accurate, current or complete".  Reported information includes official mine name, status, background information, mine start/end date, 
+primary commodity, mine features, hazards and remediation.
+Government Publication Date: 1800-Apr 2024 
+Anderson's Waste Disposal Sites:
+Private
+rr-ANDR-bb
+The information provided in this database was collected by examining various historical documents which aimed to characterize the likely position of 
+former waste disposal sites from 1860 to present. The research initiative behind the creation of this database was to identify those sites that are missing 
+from the Ontario MOE Waste Disposal Site Inventory, as well as to provide revisions and corrections to the positions and descriptions of sites currently 
+listed in the MOE inventory.  In addition to historic waste disposal facilities, the database also identifies certain auto wreckers and scrap yards that have 
+been extrapolated from documentary sources.  Please note that the data is not warranted to be complete, exhaustive or authoritative. The information 
+was collected for research purposes only.
+Government Publication Date: 1860s-Present 
+Aboveground Storage Tanks:
+Provincial
+rr-AST-bb
+Historical listing of aboveground storage tanks made available by the Department of Natural Resources and Forestry. Includes tanks used to hold water 
+or petroleum. This dataset has been retired as of September 25, 2014 and will no longer be updated.
+Government Publication Date: May 31, 2014 
+Automobile Wrecking & Supplies:
+Private
+rr-AUWR-bb
+This database provides an inventory of known locations that are involved in the scrap metal, automobile wrecking/recycling, and automobile parts & 
+supplies industry. Information is provided on the company name, location and business type.
+Government Publication Date: 1999-Apr 30, 2024 
+Borehole:
+Provincial
+rr-BORE-bb
+A borehole is the generalized term for any narrow shaft drilled in the ground, either vertically or horizontally.  The information here includes geotechnical 
+investigations or environmental site assessments, mineral exploration, or as a pilot hole for installing piers or underground utilities.  Information is from 
+many sources such as the Ministry of Transportation (MTO) boreholes from engineering reports and projects from the 1950 to 1990's in Southern 
+Ontario.  Boreholes from the Ontario Geological Survey (OGS) including The Urban Geology Analysis Information System (UGAIS) and the York Peel 
+Durham Toronto (YPDT) database of the Conservation Authority Moraine Coalition.  This database will include fields such as location, stratigraphy, 
+depth, elevation, year drilled, etc. For all water well data or oil and gas well data for Ontario please refer to WWIS and OOGW.
+Government Publication Date: 1875-Jul 2018 
+AAGR
+AGR
+AMIS
+ANDR
+AST
+AUWR
+BORE
+Appendix: Database Descriptions
+27
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+Certificates of Approval:
+Provincial
+rr-CA-bb
+This database contains the following types of approvals: Air & Noise, Industrial Sewage, Municipal & Private Sewage, Waste Management Systems and
+Renewable Energy Approvals. The MOE in Ontario states that any facility that releases emissions to the atmosphere, discharges contaminants to 
+ground or surface water, provides potable water supplies, or stores, transports or disposes of waste, must have a Certificate of Approval before it can 
+operate lawfully. Fields include approval number, business name, address, approval date, approval type and status.  This database will no longer be 
+updated, as CofA's have been replaced by either Environmental Activity and Sector Registry (EASR) or Environmental Compliance Approval (ECA).  
+Please refer to those individual databases for any information after Oct.31, 2011.
+Government Publication Date: 1985-Oct 30, 2011* 
+Dry Cleaning Facilities:
+Federal
+rr-CDRY-bb
+List of dry cleaning facilities made available by Environment and Climate Change Canada. Environment and Climate Change Canada's 
+Tetrachloroethylene (Use in Dry Cleaning and Reporting Requirements) Regulations (SOR/2003-79) are intended to reduce releases of 
+tetrachloroethylene to the environment from dry cleaning facilities.
+Government Publication Date: Jan 2004-Dec 2022 
+Commercial Fuel Oil Tanks:
+Provincial
+rr-CFOT-bb
+Locations of commercial underground fuel oil tanks. This is not a comprehensive or complete inventory of commercial fuel tanks in the province; this 
+listing is a copy of records of registered commercial underground fuel oil tanks obtained under Access to Public Information.
+Note that the following types of tanks do not require registration: waste oil tanks in apartments, office buildings, residences, etc.; aboveground gas or 
+diesel tanks. Records are not verified for accuracy or completeness.
+Government Publication Date: Oct 2023 
+Chemical Manufacturers and Distributors:
+Private
+rr-CHEM-bb
+This database includes information from both a one time study conducted in 1992 and private source and is a listing of facilities that manufacture or 
+distribute chemicals.  The production of these chemical substances may involve one or more chemical reactions and/or chemical separation processes 
+(i.e. fractionation, solvent extraction, crystallization, etc.).
+Government Publication Date: 1999-Jan 31, 2020 
+Chemical Register:
+Private
+rr-CHM-bb
+This database includes a listing of locations of facilities within the Province or Territory that either manufacture and/or distributes chemicals.
+Government Publication Date: 1999-Apr 30, 2024 
+Compressed Natural Gas Stations:
+Private
+rr-CNG-bb
+Canada has a network of public access compressed natural gas (CNG) refuelling stations. These stations dispense natural gas in compressed form at 
+3,000 pounds per square inch (psi), the pressure which is allowed within the current Canadian codes and standards. The majority of natural gas 
+refuelling is located at existing retail gasoline that have a separate refuelling island for natural gas. This list of stations is made available by the 
+Canadian Natural Gas Vehicle Alliance.
+Government Publication Date: Dec 2012 -May 2024 
+Inventory of Coal Gasification Plants and Coal Tar Sites:
+Provincial
+rr-COAL-bb
+This inventory includes both the "Inventory of Coal Gasification Plant Waste Sites in Ontario-April 1987" and the Inventory of Industrial Sites Producing 
+or Using Coal Tar and Related Tars in Ontario-November 1988) collected by the MOE. It identifies industrial sites that produced and continue to produce
+or use coal tar and other related tars. Detailed information is available and includes: facility type, size, land use, information on adjoining properties, soil 
+condition, site operators/occupants, site description, potential environmental impacts and historic maps available.  This was a one-time inventory.*
+Government Publication Date: Apr 1987 and Nov 1988* 
+Compliance and Convictions:
+Provincial
+rr-CONV-bb
+This database summarizes the fines and convictions handed down by the Ontario courts beginning in 1989.  Companies and individuals named here 
+have been found guilty of environmental offenses in Ontario courts of law.
+Government Publication Date: 1989-Oct 2024 
+Certificates of Property Use:
+Provincial
+rr-CPU-bb
+This is a subset taken from Ontario's Environmental Registry (EBR) database. It will include CPU's on the registry such as (EPA s. 168.6) - Certificate of 
+Property Use.
+Government Publication Date: 1994 - Sep 30, 2024 
+CA
+CDRY
+CFOT
+CHEM
+CHM
+CNG
+COAL
+CONV
+CPU
+28
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+Drill Hole Database:
+Provincial
+rr-DRL-bb
+The Ontario Drill Hole Database (ODHD) is offered by the Province of Ontario's Ministry of Mines. The dataset contains information for over 164,000 
+percussion, overburden, sonic and diamond-drill holes. The presence of assay results with cutoff values for gold, silver, copper, zinc, lead, nickel and 
+platinum group elements is noted. Drill hole data are compiled from assessment files that have been submitted to the ministry in accordance with the 
+Ontario Mining Act (OMA). Source assessment file numbers are captured for cross reference with the Ontario Assessment File Database (OAFD). 
+Please note that limited data is available for southern Ontario, as it was the last area to be completed. The database was created when surveys 
+submitted to the Ministry were converted in the Assessment File Research Image Database (AFRI) project.  However, the degree of accuracy 
+(coordinates) as to the exact location of drill holes is dependent upon the source document submitted.  Levels of accuracy used to locate holes are: 
+centering on the mining claim; a sketch of the mining claim; a 1:50,000 map; a detailed company map; or from submitted a "Report of Work".
+Government Publication Date: 1886 - Aug 2024 
+Delisted Fuel Tanks:
+Provincial
+rr-DTNK-bb
+List of fuel storage tank sites that were once found in - and have since been removed from - the list of fuel storage tanks made available by the 
+regulatory agency under Access to Public Information.
+Government Publication Date: Oct 2023 
+Environmental Activity and Sector Registry:
+Provincial
+rr-EASR-bb
+On October 31, 2011, a smarter, faster environmental approvals system came into effect in Ontario.  The EASR allows businesses to register certain 
+activities with the ministry, rather than apply for an approval. The registry is available for common systems and processes, to which preset rules of 
+operation can be applied.  The EASR is currently available for:  heating systems, standby power systems and automotive refinishing. Businesses whose
+activities aren't subject to the EASR may apply for an ECA (Environmental Compliance Approval), Please see our ECA database.
+Government Publication Date: Oct 2011-Sep 30, 2024 
+Environmental Registry:
+Provincial
+rr-EBR-bb
+The Environmental Registry lists proposals, decisions and exceptions regarding policies, Acts, instruments, or regulations that could significantly affect 
+the environment. Through the Registry, thirteen provincial ministries notify the public of upcoming proposals and invite their comments. For example, if a
+local business is requesting a permit, license, or certificate of approval to release substances into the air or water; these are notified on the registry. Data
+includes: Approval for discharge into the natural environment other than water (i.e. Air) - EPA s. 9, Approval for sewage works - OWRA s. 53(1), and 
+EPA s. 27 - Approval for a waste disposal site.  For information regarding Permit to Take Water (PTTW), Certificate of Property Use (CPU) and (ORD) 
+Orders please refer to those individual databases.
+Government Publication Date: 1994 - Sep 30, 2024 
+Environmental Compliance Approval:
+Provincial
+rr-ECA-bb
+On October 31, 2011, a smarter, faster environmental approvals system came into effect in Ontario. In the past, a business had to apply for multiple 
+approvals (known as certificates of approval) for individual processes and pieces of equipment. Today, a business either registers itself, or applies for a 
+single approval, depending on the types of activities it conducts. Businesses whose activities aren't subject to the EASR may apply for an ECA. A single 
+ECA addresses all of a business's emissions, discharges and wastes. Separate approvals for air, noise and waste are no longer required. This database
+will also include Renewable Energy Approvals. For certificates of approval prior to Nov 1st, 2011, please refer to the CA database.  For all Waste 
+Disposal Sites please refer to the WDS database.
+Government Publication Date: Oct 2011-Sep 30, 2024 
+Environmental Effects Monitoring:
+Federal
+rr-EEM-bb
+The Environmental Effects Monitoring program assesses the effects of effluent from industrial or other sources on fish, fish habitat and human usage of 
+fisheries resources.  Since 1992, pulp and paper mills have been required to conduct EEM studies under the Pulp and Paper Effluent Regulations.  This 
+database provides information on the mill name, geographical location and sub-lethal toxicity data.
+Government Publication Date: 1992-2007* 
+ERIS Historical Searches:
+Private
+rr-EHS-bb
+ERIS has compiled a database of all environmental risk reports completed since March 1999.  Available fields for this database include: site location, 
+date of report, type of report, and search radius. As per all other databases, the ERIS database can be referenced on both the map and "Statistical 
+Profile" page.
+Government Publication Date: 1999-Aug 31, 2024 
+Environmental Issues Inventory System:
+Federal
+rr-EIIS-bb
+The Environmental Issues Inventory System was developed through the implementation of the Environmental Issues and Remediation Plan. This plan 
+was established to determine the location and severity of contaminated sites on inhabited First Nation reserves, and where necessary, to remediate 
+those that posed a risk to health and safety; and to prevent future environmental problems.  The EIIS provides information on the reserve under 
+investigation, inventory number, name of site, environmental issue, site action (Remediation, Site Assessment), and date investigation completed.
+Government Publication Date: 1992-2001* 
+DRL
+DTNK
+EASR
+EBR
+ECA
+EEM
+EHS
+EIIS
+29
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+Emergency Management Historical Event:
+Provincial
+rr-EMHE-bb
+List of locations of historical occurrences of emergency events, including those assigned to the Ministry of Natural Resources by Order-In-Council (OIC) 
+under the Emergency Management and Civil Protection Act, as well as events where MNR provided requested emergency response assistance. Many 
+of these events will have involved community evacuations, significant structural loss, and/or involvement of MNR emergency response staff. These 
+events fall into one of ten (10) type categories: Dam Failure; Drought / Low Water; Erosion; Flood; Forest Fire; Soil and Bedrock Instability; Petroleum 
+Resource Center Event, EMO Requested Assistance, Continuity of Operations Event, Other Requested Assistance. EMHE record details are 
+reproduced by ERIS under License with the Ontario Ministry of Natural Resources © Queen's Printer for Ontario, 2017.
+Government Publication Date: Apr 30, 2022 
+Environmental Penalty Annual Report:
+Provincial
+rr-EPAR-bb
+This database contains data from Ontario's annual environmental penalty report published by the Ministry of the Environment and Climate Change. 
+These reports provide information on environmental penalties for land or water violations issued to companies in one of the nine industrial sectors 
+covered by the Municipal Industrial Strategy for Abatement (MISA) regulations.
+Government Publication Date: Jan 1, 2011 - Dec 31, 2023 
+List of Expired Fuels Safety Facilities:
+Provincial
+rr-EXP-bb
+List of facilities and tanks for which there was once a fuel registration. This is not a comprehensive or complete inventory of expired tanks/tank facilities 
+in the province; this listing is a copy of previously registered tanks and facilities obtained under Access to Public Information. Includes private fuel 
+outlets, bulk plants, fuel oil tanks, gasoline stations, marinas, propane filling stations, liquid fuel tanks, piping systems, etc; includes tanks which have 
+been removed from the ground. 
+Notes: registration was not required for private fuel underground/aboveground storage tanks prior to January  1990, nor for furnace oil tanks prior to May
+1, 2002;  registration is not required for waste oil tanks in apartments, office buildings, residences, etc., or aboveground gas or diesel tanks. Records are
+not verified for accuracy or completeness.
+Government Publication Date: Oct 2023 
+Federal Convictions:
+Federal
+rr-FCON-bb
+Environment Canada maintains a database referred to as the "Environmental Registry" that details prosecutions under the Canadian Environmental 
+Protection Act (CEPA) and the Fisheries Act (FA). Information is provided on the company name, location, charge date, offence and penalty.
+Government Publication Date: 1988-Jun 2007* 
+Contaminated Sites on Federal Land:
+Federal
+rr-FCS-bb
+The Federal Contaminated Sites Inventory includes information on known federal contaminated sites under the custodianship of departments, agencies 
+and consolidated Crown corporations as well as those that are being or have been investigated to determine whether they have contamination arising 
+from past use that could pose a risk to human health or the environment. The inventory also includes non-federal contaminated sites for which the 
+Government of Canada has accepted some or all financial responsibility. It does not include sites where contamination has been caused by, and which 
+are under the control of, enterprise Crown corporations, private individuals, firms or other levels of government. Includes fire training sites and sites at 
+which Per- and Polyfluoroalkyl Substances (PFAS) are a concern.
+Government Publication Date: Jun 2000-Sep 2024 
+Fisheries & Oceans Fuel Tanks:
+Federal
+rr-FOFT-bb
+Fisheries & Oceans Canada maintains an inventory of aboveground & underground fuel storage tanks located on Fisheries & Oceans property or 
+controlled by DFO.  Our inventory provides information on the site name, location, tank owner, tank operator, facility type, storage tank location, tank 
+contents & capacity, and date of tank installation.
+Government Publication Date: 1964-Sep 2019 
+Federal Identification Registry for Storage Tank Systems (FIRSTS):
+Federal
+rr-FRST-bb
+A list of federally regulated Storage tanks from the Federal Identification Registry for Storage Tank Systems (FIRSTS). FIRSTS is Environment and 
+Climate Change Canada's database of storage tank systems subject to the Storage Tank for Petroleum Products and Allied Petroleum Products 
+Regulations. The main objective of the Regulations is to prevent soil and groundwater contamination from storage tank systems located on federal and 
+aboriginal lands. Storage tank systems that do not have a valid identification number displayed in a readily visible location on or near the storage tank 
+system may be refused product delivery.
+Government Publication Date: Oct 31, 2021 
+Fuel Storage Tank:
+Provincial
+rr-FST-bb
+List of registered private and retail fuel storage tanks. This is not a comprehensive or complete inventory of private and retail fuel storage tanks in the 
+province; this listing is a copy of registered private and retail fuel storage tanks, obtained under Access to Public Information.
+Notes: registration was not required for private fuel underground/aboveground storage tanks prior to January  1990, nor for furnace oil tanks prior to May
+1, 2002;  registration is not required for waste oil tanks in apartments, office buildings, residences, etc., or aboveground gas or diesel tanks. Records are
+not verified for accuracy or completeness.
+Government Publication Date: Oct 2023 
+EMHE
+EPAR
+EXP
+FCON
+FCS
+FOFT
+FRST
+FST
+30
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+Fuel Storage Tank - Historic:
+Provincial
+rr-FSTH-bb
+The Fuels Safety Branch of the Ontario Ministry of Consumer and Commercial Relations maintained a database of all registered private fuel storage 
+tanks. Public records of private fuel storage tanks are only available since the registration became effective in September 1989. This information is now 
+collected by the Technical Standards and Safety Authority.
+Government Publication Date: Pre-Jan 2010* 
+Ontario Regulation 347 Waste Generators Summary:
+Provincial
+rr-GEN-bb
+Regulation 347 of the Ontario EPA defines a waste generation site as any site, equipment and/or operation involved in the production, collection, 
+handling and/or storage of regulated wastes.  A generator of regulated waste is required to register the waste generation site and each waste produced, 
+collected, handled, or stored at the site.  This database contains the registration number, company name and address of registered generators including
+the types of hazardous wastes generated. It includes data on waste generating facilities such as: drycleaners, waste treatment and disposal facilities, 
+machine shops, electric power distribution etc. This information is a summary of all years from 1986 including the most currently available data.  Some 
+records may contain, within the company name, the phrase "See & Use..." followed by a series of letters and numbers.  This occurs when one company 
+is amalgamated with or taken over by another registered company.  The number listed as "See & Use", refers to the new ownership and the other 
+identification number refers to the original ownership.   This phrase serves as a link between the 2 companies until operations have been fully 
+transferred.
+Government Publication Date: 1986-Oct 31, 2022 
+Greenhouse Gas Emissions from Large Facilities:
+Federal
+rr-GHG-bb
+List of greenhouse gas emissions from large facilities made available by Environment Canada. Greenhouse gas emissions in kilotonnes of carbon 
+dioxide equivalents (kt CO2 eq).
+Government Publication Date: 2013-Dec 2022 
+TSSA Historic Incidents:
+Provincial
+rr-HINC-bb
+List of historic incidences of spills and leaks of diesel, fuel oil, gasoline, natural gas, propane, and hydrogen recorded by the TSSA in their previous 
+incident tracking system. The TSSA's Fuels Safety Program administers the Technical Standards & Safety Act 2000, providing fuel-related safety 
+services associated with the safe transportation, storage, handling and use of fuels such as gasoline, diesel, propane, natural gas and hydrogen. Under 
+this Act, the TSSA regulates fuel suppliers, storage facilities, transport trucks, pipelines, contractors and equipment or appliances that use fuels. 
+Records are not verified for accuracy or completeness. This is not a comprehensive or complete inventory of historical fuel spills and leaks in the 
+province. This listing is a copy of the data captured at one moment in time and is hence limited by the record date provided here.
+Government Publication Date: 2006-June 2009* 
+Indian & Northern Affairs Fuel Tanks:
+Federal
+rr-IAFT-bb
+The Department of Indian & Northern Affairs Canada (INAC) maintains an inventory of aboveground & underground fuel storage tanks located on both 
+federal and crown land.  Our inventory provides information on the reserve name, location, facility type, site/facility name, tank type, material & ID 
+number, tank contents & capacity, and date of tank installation.
+Government Publication Date: 1950-Aug 2003* 
+Fuel Oil Spills and Leaks:
+Provincial
+rr-INC-bb
+Listing of spills and leaks of diesel, fuel oil, gasoline, natural gas, propane, and hydrogen reported to the Spills Action Centre (SAC). This is not a 
+comprehensive or complete inventory of fuel-related leaks, spills, and incidents in the province; this listing in a copy of incidents reported to the SAC, 
+obtained under Access to Public Information. Includes incidents from fuel-related hazards such as spills, fires, and explosions. Records are not verified 
+for accuracy or completeness.
+Government Publication Date: 31 Oct, 2023 
+Landfill Inventory Management Ontario:
+Provincial
+rr-LIMO-bb
+The Landfill Inventory Management Ontario (LIMO) database is updated every year, as the Ministry of the Environment, Conservation and Parks 
+compiles new and updated information. Includes small and large landfills currently operating as well as those which are closed and historic. Operators of
+larger landfills provide landfill information for the previous operating year to the ministry for LIMO including: estimated amount of total waste received, 
+landfill capacity, estimated total remaining landfill capacity, fill rates, engineering designs, reporting and monitoring details, size of location, service area, 
+approved waste types, leachate of site treatment, contaminant attenuation zone and more. The small landfills include information such as site owner, 
+site location and certificate of approval # and status.
+Government Publication Date: Mar 31, 2022 
+Canadian Mine Locations:
+Private
+rr-MINE-bb
+This information is collected from the Canadian & American Mines Handbook.  The Mines database is a national database that provides over 290 
+listings on mines (listed as public companies) dealing primarily with precious metals and hard rocks.  Listed are mines that are currently in operation, 
+closed, suspended, or are still being developed (advanced projects).   Their locations are provided as geographic coordinates (x, y and/or longitude, 
+latitude).  As of 2002, data pertaining to Canadian smelters and refineries has been appended to this database.
+Government Publication Date: 1998-2009* 
+FSTH
+GEN
+GHG
+HINC
+IAFT
+INC
+LIMO
+MINE
+31
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+Mineral Occurrences:
+Provincial
+rr-MNR-bb
+In the early 70's, the Ministry of Northern Development and Mines created an inventory of approximately 19,000 mineral occurrences in Ontario, in 
+regard to metallic and industrial minerals, as well as some information on building stones and aggregate deposits.  Please note that the "Horizontal 
+Positional Accuracy" is approximately +/- 200 m.  Many reference elements for each record were derived from field sketches using pace or chain/tape 
+measurements against claim posts or topographic features in the area.  The primary limiting factor for the level of positional accuracy is the scale of the 
+source material. The testing of horizontal accuracy of the source materials was accomplished by comparing the plan metric (X and Y) coordinates of that
+point with the coordinates of the same point as defined from a source of higher accuracy.
+Government Publication Date: 1846-Feb 2024 
+National Analysis of Trends in Emergencies System (NATES):
+Federal
+rr-NATE-bb
+In 1974 Environment Canada established the National Analysis of Trends in Emergencies System (NATES) database, for the voluntary reporting of 
+significant spill incidents.  The data was to be used to assist in directing the work of the emergencies program. NATES ran from 1974 to 1994.  
+Extensive information is available within this database including company names, place where the spill occurred, date of spill, cause, reason and source
+of spill, damage incurred, and amount, concentration, and volume of materials released.
+Government Publication Date: 1974-1994* 
+Non-Compliance Reports:
+Provincial
+rr-NCPL-bb
+The Ministry of the Environment provides information about non-compliant discharges of contaminants to air and water that exceed legal allowable 
+limits, from regulated industrial and municipal facilities.  A reported non-compliance failure may be in regard to a Control Order, Certificate of Approval, 
+Sectoral Regulation or specific regulation/act.
+Government Publication Date: Dec 31, 2022 
+National Defense & Canadian Forces Fuel Tanks:
+Federal
+rr-NDFT-bb
+The Department of National Defense and the Canadian Forces maintains an inventory of all aboveground & underground fuel storage tanks located on 
+DND lands.  Our inventory provides information on the base name, location, tank type & capacity, tank contents, tank class, date of tank installation, 
+date tank last used, and status of tank as of May 2001.  This database will no longer be updated due to the new National Security protocols which have 
+prohibited any release of this database.
+Government Publication Date: Up to May 2001* 
+National Defense & Canadian Forces Spills:
+Federal
+rr-NDSP-bb
+The Department of National Defense and the Canadian Forces maintains an inventory of spills to land and water.  All spill sites have been classified 
+under the "Transportation of Dangerous Goods Act - 1992".  Our inventory provides information on the facility name, location, spill ID #, spill date, type 
+of spill, as well as the quantity of substance spilled & recovered.
+Government Publication Date: Mar 1999-Nov 2023 
+National Defence & Canadian Forces Waste Disposal Sites:
+Federal
+rr-NDWD-bb
+The Department of National Defence and the Canadian Forces maintains an inventory of waste disposal sites located on DND lands.  Where available, 
+our inventory provides information on the base name, location, type of waste received, area of site, depth of site, year site opened/closed and status.
+Government Publication Date: 2001-Apr 2007* 
+National Energy Board Pipeline Incidents:
+Federal
+rr-NEBI-bb
+Locations of pipeline incidents from 2008 to present, made available by the Canada Energy Regulator (CER) - previously the National Energy Board 
+(NEB). Includes incidents reported under the Onshore Pipeline Regulations and the Processing Plant Regulations related to pipelines under federal 
+jurisdiction, does not include incident data related to pipelines under provincial or territorial jurisdiction.
+Government Publication Date: 2008-Jun 30, 2021 
+National Energy Board Wells:
+Federal
+rr-NEBP-bb
+The NEBW database contains information on onshore & offshore oil and gas wells that are outside provincial jurisdiction(s) and are thereby regulated by
+the National Energy Board. Data is provided regarding the operator, well name, well ID No./UWI, status, classification, well depth, spud and release 
+date.
+Government Publication Date: 1920-Feb 2003* 
+MNR
+NATE
+NCPL
+NDFT
+NDSP
+NDWD
+NEBI
+NEBP
+32
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+National Environmental Emergencies System (NEES):
+Federal
+rr-NEES-bb
+In 2000, the Emergencies program implemented NEES, a reporting system for spills of hazardous substances.  For the most part, this system only 
+captured data from the Atlantic Provinces, some from Quebec and Ontario and a portion from British Columbia. Data for Alberta, Saskatchewan, 
+Manitoba and the Territories was not captured. However, NEES is also a repository for previous Environment Canada spill datasets.  NEES is 
+composed of the historic datasets ' or Trends ' which dates from approximately 1974 to present. NEES Trends is a compilation of historic databases, 
+which were merged and includes data from NATES (National Analysis of Trends in Emergencies System), ARTS (Atlantic Regional Trends System), 
+and NEES.  In 2001, the Emergencies Program determined that variations in reporting regimes and requirements between federal and provincial 
+agencies made national spill reporting and trend analysis difficult to achieve. As a consequence, the department has focused efforts on capturing data 
+on spills of substances which fall under its legislative authority only (CEPA and FA). As such, the NEES database will be decommissioned in December 
+2004.
+Government Publication Date: 1974-2003* 
+National PCB Inventory:
+Federal
+rr-NPCB-bb
+Environment Canada's National PCB inventory includes information on in-use PCB containing equipment in Canada including federal, provincial and 
+private facilities.  Federal out-of-service PCB containing equipment and PCB waste owned by the federal government or by federally regulated industries
+such as airlines, railway companies, broadcasting companies, telephone and telecommunications companies, pipeline companies, etc. are also listed. 
+Although it is not Environment Canada's mandate to collect data on non-federal PCB waste, the National PCB inventory includes some information on 
+provincial and private PCB waste and storage sites. Some addresses provided may be Head Office addresses and are not necessarily the location of 
+where the waste is being used or stored.
+Government Publication Date: 1988-2008* 
+National Pollutant Release Inventory:
+Federal
+rr-NPR2-bb
+The National Pollutant Release Inventory (NPRI) is Canada's public inventory of pollutant releases (to air, water and land), disposals, and transfers for 
+recycling. The inventory, managed by Environment and Climate Change Canada, tracks over 300 substances. Under the authority of the Canadian 
+Environmental Protection Act (CEPA), owners or operators of facilities that meet published reporting requirements are required to report to the NPRI.
+Government Publication Date: Feb 2024 
+National Pollutant Release Inventory - Historic:
+Federal
+rr-NPRI-bb
+Environment Canada has defined the National Pollutant Release Inventory ("NPRI") as a federal government initiative designed to collect 
+comprehensive national data regarding releases to air, water, or land, and waste transfers for recycling for more than 300 listed substances. This data 
+holds historic records; current records are found in NPR2.
+Government Publication Date: 1993-May 2017 
+Oil and Gas Wells:
+Private
+rr-OGWE-bb
+The Nickle's Energy Group (publisher of the Daily Oil Bulletin) collects information on drilling activity including operator and well statistics. The well 
+information database includes name, location, class, status and depth.  The main Nickle's database is updated on a daily basis, however, this database 
+is updated on a monthly basis.  More information is available at www.nickles.com.
+Government Publication Date: 1988-May 31, 2024 
+Ontario Oil and Gas Wells:
+Provincial
+rr-OOGW-bb
+In 1998, the Ministry of Natural Resources (MNR) handed over to the Ontario Oil, Gas and Salt Resources (OGSR) Corporation, the responsibility of 
+maintaining a database of oil and gas wells drilled in Ontario. The OGSR Library has over 20,000+ wells in their database. Information available for all 
+wells in the ERIS database includes well owner/operator, location, permit issue date, and well cap date, license number, status, depth and the primary 
+target (rock unit) of the well being drilled. All geology/stratigraphy table information, plus all water table information is also provided for each well record.
+Government Publication Date: 1800-Aug 2024 
+Inventory of PCB Storage Sites:
+Provincial
+rr-OPCB-bb
+The Ontario Ministry of Environment, Waste Management Branch, maintains an inventory of PCB storage sites within the province.  Ontario Regulation 
+11/82 (Waste Management - PCB) and Regulation 347 (Generator Waste Management) under the Ontario EPA requires the registration of inactive PCB
+storage equipment and/or disposal sites of PCB waste with the Ontario Ministry of Environment.  This database contains information on:  1) waste 
+quantities; 2) major and minor sites storing liquid or solid waste; and 3) a waste storage inventory.
+Government Publication Date: 1987-Oct 2004; 2012-Dec 2013 
+Orders:
+Provincial
+rr-ORD-bb
+This is a subset taken from Ontario's Environmental Registry (EBR) database. It will include Orders on the registry such as (EPA s. 17) - Order for 
+remedial work, (EPA s. 18) - Order for preventative measures, (EPA s. 43) - Order for removal of waste and restoration of site, (EPA s. 44) - Order for 
+conformity with Act for waste disposal sites, (EPA s. 136) - Order for performance of environmental measures.
+Government Publication Date: 1994 - Sep 30, 2024 
+NEES
+NPCB
+NPR2
+NPRI
+OGWE
+OOGW
+OPCB
+ORD
+33
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+Canadian Pulp and Paper:
+Private
+rr-PAP-bb
+This information is part of the Pulp and Paper Canada Directory. The Directory provides a comprehensive listing of the locations of pulp and paper mills 
+and the products that they produce.
+Government Publication Date: 1999, 2002, 2004, 2005, 2009-2014 
+Parks Canada Fuel Storage Tanks:
+Federal
+rr-PCFT-bb
+Canadian Heritage maintains an inventory of known fuel storage tanks operated by Parks Canada, in both National Parks and at National Historic Sites.
+The database details information on site name, location, tank install/removal date, capacity, fuel type, facility type, tank design and owner/operator.
+Government Publication Date: 1920-Jan 2005* 
+Pesticide Register:
+Provincial
+rr-PES-bb
+The Ontario Ministry of the Environment and Climate Change maintains a database of licensed operators and vendors of registered pesticides.
+Government Publication Date: Oct 2011-Sep 30, 2024 
+Ontario PFAS Spills:
+Provincial
+rr-PFAS-bb
+This specific list of spills includes those incidents where one or more of the listed contaminants are identified in the PFAS Structure List and/or PFAS 
+Chemicals Without Explicit Structure List made available by the United States Environmental Protection Agency (US EPA), is originally sourced from the
+Ministry of the Environment, Conservation and Parks spills related data. Information from 1988-2002 was part of the ORIS (Occurrence Reporting 
+Information System). The SAC (Spills Action Centre) handles all spills reported in Ontario. Regulations for spills in Ontario are part of the MOE's 
+Environmental Protection Act, Part X.
+Government Publication Date: 1988-Mar 2024; May 2024 
+NPRI Reporters - PFAS Substances:
+Federal
+rr-PFCH-bb
+The National Pollutant Release Inventory (NPRI) is Canada's public inventory of releases, disposals, and transfers, tracking over 320 pollutants. Per - 
+and polyfluoroalkyl substances (PFAS) are a group of over 4,700 human-made substances for which adverse environmental and health effects have 
+been observed. This listing of PFAS substance reporters includes those NPRI facilities that reported substances that are found in either: a) the 
+Comprehensive Global Database of PFASs compiled by the  Organisation for Economic Co-operation and Development (OECD), b) the US 
+Environmental Protection Agency (US EPA) Master List of PFAS Substances, c) the US EPA list of PFAS chemicals without explicit structures, or d) the 
+US EPA list of PFAS structures (encompassing the largest set of structures having sufficient levels of fluorination to potentially impart PFAS-type 
+properties).
+Government Publication Date: Feb 2024 
+Potential PFAS Handlers from NPRI:
+Federal
+rr-PFHA-bb
+The National Pollutant Release Inventory (NPRI) is Canada's public inventory of releases, disposals, and transfers, tracking over 320 pollutants. Per - 
+and polyfluoroalkyl substances (PFAS) are a group of over 4,700 human-made substances for which adverse environmental and health effects have 
+been observed. This list of potential PFAS handlers includes those NPRI facilities that reported business activity (NAICS code) included in the US 
+Environmental Protection Agency (US EPA) list of Potential PFAS-Handling Industry Sectors, further described as operating in industry sectors where 
+literature reviews indicate that PFAS may be handled and/or released. Inclusion of a facility in this listing does not indicate that PFAS are being 
+manufactured, processed, used, or released by the facility - these are facilities that potentially handle PFAS based on their industrial profile.
+Government Publication Date: Feb 2024 
+Pipeline Incidents:
+Provincial
+rr-PINC-bb
+List of pipeline incidents (strikes, leaks, spills). This is not a comprehensive or complete inventory of pipeline incidents in the province; this listing in an 
+historical copy of records previously obtained under Access to Public Information. Records are not verified for accuracy or completeness.
+Government Publication Date: Feb 28, 2021 
+Potential PFAS Handlers from EASR:
+Provincial
+rr-PPHA-bb
+The Ontario Environmental Activity and Sector Registry (EASR), described in Ontario Regulation 245/11, allows businesses with less complex 
+operations - and hence not requiring an Environmental Compliance Approval - to register their activities with the Ontario Ministry of the Environment, 
+Conservation and Parks (MECP). This list of potential PFAS handlers includes those EASR facilities that reported business activity (NAICS code) 
+included in the US Environmental Protection Agency (US EPA) list of Potential PFAS-Handling Industry Sectors, further described as operating in 
+industry sectors where literature reviews indicate that PFAS may be handled and/or released. Inclusion of a facility in this listing does not indicate that 
+PFAS are being manufactured, processed, used.
+Government Publication Date: Jun 30, 2024 
+Private and Retail Fuel Storage Tanks:
+Provincial
+rr-PRT-bb
+The Fuels Safety Branch of the Ontario Ministry of Consumer and Commercial Relations maintained a database of all registered private fuel storage 
+tanks and licensed retail fuel outlets. This database includes an inventory of locations that have gasoline, oil, waste oil, natural gas and/or propane 
+storage tanks on their property. The MCCR no longer collects this information. This information is now collected by the Technical Standards and Safety 
+Authority (TSSA).
+Government Publication Date: 1989-1996* 
+PAP
+PCFT
+PES
+PFAS
+PFCH
+PFHA
+PINC
+PPHA
+PRT
+34
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+Permit to Take Water:
+Provincial
+rr-PTTW-bb
+This is a subset taken from Ontario's Environmental Registry (EBR) database. It will include PTTW's on the registry such as OWRA s. 34 - Permit to 
+take water.
+Government Publication Date: 1994 - Sep 30, 2024 
+Ontario Regulation 347 Waste Receivers Summary:
+Provincial
+rr-REC-bb
+Part V of the Ontario Environmental Protection Act ("EPA") regulates the disposal of regulated waste through an operating waste management system 
+or a waste disposal site operated or used pursuant to the terms and conditions of a Certificate of Approval or a Provisional Certificate of Approval.  
+Regulation 347 of the Ontario EPA defines a waste receiving site as any site or facility to which waste is transferred by a waste carrier.  A receiver of 
+regulated waste is required to register the waste receiving facility.  This database represents registered receivers of regulated wastes, identified by 
+registration number, company name and address, and includes receivers of waste such as: landfills, incinerators, transfer stations, PCB storage sites, 
+sludge farms and water pollution control plants.  This information is a summary of all years from 1986 including the most currently available data.
+Government Publication Date: 1986-1990, 1992-2021 
+Record of Site Condition:
+Provincial
+rr-RSC-bb
+The Record of Site Condition (RSC) is part of the Ministry of the Environment's Brownfields Environmental Site Registry. Protection from environmental 
+cleanup orders for property owners is contingent upon documentation known as a record of site condition (RSC) being filed in the Environmental Site 
+Registry. In order to file an RSC, the property must have been properly assessed and shown to meet the soil, sediment and groundwater standards 
+appropriate for the use (such as residential) proposed to take place on the property. The Record of Site Condition Regulation (O. Reg. 153/04) details 
+requirements related to site assessment and clean up. RSCs filed after July 1, 2011 will also be included as part of the new (O.Reg. 511/09). The 
+Government of Ontario states that it is not responsible for the accuracy of the information in this Registry.
+Government Publication Date: 1997-Sept 2001, Oct 2004-Oct 2024 
+Retail Fuel Storage Tanks:
+Private
+rr-RST-bb
+This database includes an inventory of retail fuel outlet locations (including marinas) that have on their property gasoline, oil, waste oil, natural gas and / 
+or propane storage tanks.
+Government Publication Date: 1999-Apr 30, 2024 
+Scott's Manufacturing Directory:
+Private
+rr-SCT-bb
+Scott's Directories is a data bank containing information on over 200,000 manufacturers across Canada. Even though Scott's listings are voluntary, it is 
+the most comprehensive database of Canadian manufacturers available. Information concerning a company's address, plant size, and main products 
+are included in this database.
+Government Publication Date: 1992-Mar 2011* 
+Ontario Spills:
+Provincial
+rr-SPL-bb
+List of spills and incidents made available by the Ministry of the Environment, Conservation and Parks. This database identifies information such as 
+location (approximate), type and quantity of contaminant, date of spill, environmental impact, cause, nature of impact, etc. Information from 1988-2002 
+was part of the ORIS (Occurrence Reporting Information System). The SAC (Spills Action Centre) handles all spills reported in Ontario. Regulations for 
+spills in Ontario are part of the MOE's Environmental Protection Act, Part X.
+Government Publication Date: 1988-Jun 2024 
+Wastewater Discharger Registration Database:
+Provincial
+rr-SRDS-bb
+Facilities that report either municipal treated wastewater effluent or industrial wastewater discharges under the Effluent Monitoring and Effluent Limits 
+(EMEL) and Municipal/Industrial Strategy for Abatement Regulations. The Municipal/Industrial Strategy for Abatement (MISA) division of the Ontario 
+Ministry of Environment keeps record of direct dischargers of toxic pollutants within nine sectors including: Electric Power Generation, Mining, Petroleum
+Refining, Organic Chemicals, Inorganic Chemicals, Pulp & Paper, Metal Casting, Iron & Steel, and Quarries.
+Government Publication Date: 1990-Dec 31, 2021 
+Anderson's Storage Tanks:
+Private
+rr-TANK-bb
+The information provided in this database was collected by examining various historical documents, which identified the location of former storage tanks,
+containing substances such as fuel, water, gas, oil, and other various types of miscellaneous products.  Information is available in regard to business 
+operating at tank site, tank location, permit year, permit & installation type, no. of tanks installed & configuration and tank capacity.  Data contained 
+within this database pertains only to the city of Toronto and is not warranted to be complete, exhaustive or authoritative.  The information was collected 
+for research purposes only.
+Government Publication Date: 1915-1953* 
+Transport Canada Fuel Storage Tanks:
+Federal
+rr-TCFT-bb
+List of fuel storage tanks currently or previously owned or operated by Transport Canada.  This inventory also includes tanks on The Pickering Lands, 
+which refers to 7,530 hectares (18,600 acres) of land in Pickering, Markham, and Uxbridge owned by the Government of Canada since 1972; properties 
+on this land has been leased by the government since 1975, and falls under the Site Management Policy of Transport Canada, but is administered by 
+Public Works and Government Services Canada. This inventory provides information on the site name, location, tank age, capacity and fuel type.
+Government Publication Date: 1970 - Apr 2024 
+PTTW
+REC
+RSC
+RST
+SCT
+SPL
+SRDS
+TANK
+TCFT
+35
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+Variances for Abandonment of Underground Storage Tanks:
+Provincial
+rr-VAR-bb
+Listing of variances granted for storage tank abandonment. This is not a comprehensive or complete inventory of tank abandonment variances in the 
+province; this listing is a copy of tank abandonment variance records previously obtained under Access to Public Information. In Ontario, registered 
+underground storage tanks must be removed within two years of disuse; if removal of a tank is not feasible, an application may be sought for a variance 
+from this code requirement. 
+Records are not verified for accuracy or completeness.
+Government Publication Date: Feb 28, 2022 
+Waste Disposal Sites - MOE CA Inventory:
+Provincial
+rr-WDS-bb
+The Ontario Ministry of Environment, Waste Management Branch, maintains an inventory of known open (active or inactive) and closed disposal sites in
+the Province of Ontario. Active sites maintain a Certificate of Approval, are approved to receive and are receiving waste. Inactive sites maintain 
+Certificate(s) of Approval but are not receiving waste. Closed sites are not receiving waste. The data contained within this database was compiled from 
+the MOE's Certificate of Approval database. Locations of these sites may be cross-referenced to the Anderson database described under ERIS's Private
+Source Database section, by the CA number. All new Environmental Compliance Approvals handed out after Oct 31, 2011 for Waste Disposal Sites will 
+still be found in this database.
+Government Publication Date: Oct 2011 - Sep 30, 2024 
+Waste Disposal Sites - MOE 1991 Historical Approval Inventory:
+Provincial
+rr-WDSH-bb
+In June 1991, the Ontario Ministry of Environment, Waste Management Branch, published the "June 1991 Waste Disposal Site Inventory", of all known 
+active and closed waste disposal sites as of October 30st, 1990.  For each "active" site as of October 31st 1990, information is provided on site location, 
+site/CA number, waste type, site status and site classification.  For each "closed" site as of October 31st 1990, information is provided on site location, 
+site/CA number, closure date and site classification.  Locations of these sites may be cross-referenced to the Anderson database described under 
+ERIS's Private Source Database section, by the CA number.
+Government Publication Date: Up to Oct 1990* 
+Water Well Information System:
+Provincial
+rr-WWIS-bb
+This database describes locations and characteristics of water wells found within Ontario in accordance with Regulation 903.  It includes such 
+information as coordinates, construction date, well depth, primary and secondary use, pump rate, static water level, well status, etc.  Also included are 
+detailed stratigraphy information, approximate depth to bedrock and the approximate depth to the water table.
+Government Publication Date: Dec 31 2023 
+VAR
+WDS
+WDSH
+WWIS
+36
+erisinfo.com | Environmental Risk Information Services
+Order No: 24112000525
+h-Definitions
+Database Descriptions: This section provides a detailed explanation for each database including: source, information available, time coverage, and
+acronyms used. They are listed in alphabetic order.
+Detail Report: This is the section of the report which provides the most detail for each individual record. Records are summarized by location, starting
+with the project property followed by records in closest proximity.
+Distance: The distance value is the distance between plotted points, not necessarily the distance between the sites' boundaries. All values are an
+approximation.
+Direction:  The direction value is the compass direction of the site in respect to the project property and/or center point of the report.
+Elevation: The elevation value is taken from the location at which the records for the site address have been plotted. All values are an approximation.
+Source: Google Elevation API.
+Executive Summary: This portion of the report is divided into 3 sections:
+'Report Summary'- Displays a chart indicating how many records fall on the project property and, within the report search radii.
+'Site Report Summary'-Project Property'- This section lists all the records which fall on the project property. For more details, see the 'Detail Report'
+section.
+'Site Report Summary-Surrounding Properties'- This section summarizes all records on adjacent properties, listing them in order of proximity from the
+project property. For more details, see the 'Detail Report' section.
+Map Key: The map key number is assigned according to closest proximity from the project property. Map Key numbers always start at #1. The project
+property will always have a map key of '1' if records are available. If there is a number in brackets beside the main number, this will indicate the number
+of records on that specific property. If there is no number in brackets, there is only one record for that property.
+The symbol and colour used indicates 'elevation': the red inverted triangle will dictate 'ERIS Sites with Lower Elevation', the yellow triangle will dictate
+'ERIS Sites with Higher Elevation' and the orange square will dictate 'ERIS Sites with Same Elevation.'
+Unplottables: These are records that could not be mapped due to various reasons, including limited geographic information. These records may or
+may not be in your study area, and are included as reference.
+Definitions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX G 
+  QUALIFICATIONS OF ASSESSOR 
+ 
+ 
+      Jordyn Atkins.  B.Sc. (Hons), M.Sc. 
+ 
+ 
+ 
+Environmental 
+Site 
+Assessor 
+Ms. Atkins has over three years of experience in environmental assessment and 
+inspection, providing and overseeing site investigations for the industrial, 
+commercial and municipal sectors. 
+Ms. Atkins has specialized in the environmental inspection and assessment of 
+residential, commercial, and industrial properties for a broad range of clients in 
+the property management, insurance, and manufacturing sectors. 
+Education 
+ 
+ 
+• 
+Master of Science, Geography  
+Wilfrid Laurier University, 2021  
+ 
+• 
+Honours Bachelor of Science, Earth and Environmental Sciences,  
+Minor in Geographic Information Systems  
+McMaster University, 2016  
+Project 
+Experience 
+Ms. Atkins has conducted over 100 Phase I Environmental Site Assessments for various 
+residential, commercial, and industrial properties including but not limited to manufacturing 
+facilities, public institutions, automotive repair shops, residential developments, and vacant 
+lands.  
+ 
+Ms. Atkins has overseen and assisted with multiple Phase II Environmental Site Assessments 
+and Excess Soil sampling projects.  
+ 
+Ms. Atkins has also conducted field work for a variety of other environmental services 
+including hydrogeological investigations and excess soil management.  
+ 
+ 
+ 
+ 
+ 
+CHUNG & VANDER DOELEN ENGINEERING LTD. 
+ 
+ 
+ 
+Michael J. Lefebvre, P.Geo. 
+CHUNG & VANDER DOELEN ENGINEERING LTD. 
+ 
+Environmental 
+Site  
+Assessor 
+Mr. Lefebvre has over 25 years of experience in environmental assessment and project 
+management providing site investigation, remediation services, for the industrial, commercial 
+and municipal sectors.  Mr. Lefebvre extensive experience in environmental management, 
+environmental auditing, remedial design, project implementation, environmental clean up, and 
+site decommissioning. 
+ 
+Mr. Lefebvre has specialized in the development and implementation of environmental work 
+plans and programs for a broad range of clients in the property management, insurance, 
+automotive, chemical, manufacturing and transportation sectors.  
+ 
+ 
+ 
+Education 
+• 
+Bachelor of Environmental Studies, University of Waterloo, 1986 
+  
+ 
+ 
+Professional 
+Affiliations  
+• 
+Association of Professional Geoscientists of Ontario. 
+• 
+Mr. Lefebvre is currently registered as a “Qualified Person (ESA)” as described in  
+             the amended Ontario Regulation 153/04. 
+ 
+ 
+Project 
+Experience 
+Mr. Lefebvre has conducted over 1000 Phase I and Phase II Environmental Site Assessments 
+(ESA’s) for various commercial and industrial properties including service stations, shopping 
+plazas, apartment buildings and industrial manufacturing facilities.   
+ 
+Phase I and Phase II ESA’s have also been prepared to support the submission of a Record of 
+Site Condition (RSC) to the Ministry of the Environment. 
+ 
+ 
+Mr. Lefebvre has conducted numerous major environmental decommissioning projects.  His 
+areas of expertise include regulatory liaison, industrial plant decommissioning, spill cleanup, 
+reclamation, and site rehabilitation. 
+ 
+ 
+Mr. Lefebvre conducted compliance audits in various industrial settings over the past four 
+years and has assisted in the preparation of companies for ISO 14001 registration.  Mr. 
+Lefebvre has conducted compliance audits for the automotive, packaging sector and conducted 
+numerous pre-acquisition environmental compliance audits throughout Ontario, for the 
+insurance, property acquisition and banking industry. 
+ 
+ 
+Mr. Lefebvre has supervised over 100 underground storage tank removal projects and provided 
+direction for further remedial activities when required. 
+  
+ 

@@ -1,0 +1,5270 @@
+ 
+ 
+© 2023 Pinchin Ltd. 
+ 
+ 
+FINAL 
+Phase I Environmental 
+Site Assessment 
+Framgard Property, Regional 
+Road 25 and Britannia Road, 
+Milton, Ontario 
+Prepared for: 
+Mattamy (Milton West) Limited 
+7880 Keele Street 
+Vaughan, Ontario L4K 4G7 
+February 1, 2023 
+Pinchin File: 321145 
+ 
+Phase I Environmental Site Assessment 
+February 1, 2023
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Mattamy (Milton West) Limited 
+FINAL
+ 
+© 2023 Pinchin Ltd. 
+Page i 
+ 
+Issued To: 
+Issued On: 
+Pinchin File: 
+Issuing Office: 
+Primary Contact: 
+Mattamy (Milton West) Limited 
+February 1, 2023 
+321145 
+Mississauga, ON 
+Francesco Gagliardi  
+ 
+ 
+ 
+ 
+Author: 
+Jessica Ramos, M.Env.Sc. 
+Project Technologist  
+365.822.3524 
+jramos@pinchin.com  
+ 
+ 
+Reviewer: 
+Francesco Gagliardi, C.E.T., LET, QPESA 
+Operations Manager, RSC Practice Specialist 
+289.678.0691 
+fgagliardi@pinchin.com  
+ 
+Phase I Environmental Site Assessment 
+February 1, 2023
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Mattamy (Milton West) Limited 
+FINAL
+ 
+© 2023 Pinchin Ltd. 
+Page ii 
+EXECUTIVE SUMMARY 
+Pinchin Ltd. (Pinchin) was retained on January 17, 2023 through an Authorization to Proceed, Limitation 
+of Liability and Terms of Engagement contract form signed by a representative of Mattamy (Milton West) 
+Limited (Client) to conduct a Phase I Environmental Site Assessment (ESA) of the property located at the 
+northwest corner of the intersection between Regional Road 25 and Britannia Road, Milton, Ontario 
+(hereafter referred to as the Site). The Site is comprised of two blocks; North and South of Etheridge 
+Avenue. The Site is vacant and undeveloped, free of any permanent structures and/or buildings. 
+Pinchin was advised by the Client that the purpose of the Phase I ESA was to assess potential issues of 
+environmental concern in relation to the potential redevelopment of the Site.  
+The Phase I ESA was completed in general accordance with the Canadian Standards Association (CSA) 
+document entitled “Phase I Environmental Site Assessment, CSA Standard Z768-01” dated November 
+2001 (reaffirmed 2022), as well as in general accordance with Ontario Regulation 153/04 as amended 
+(O.Reg.153/04), including a review of readily-available historical records, a review of readily-accessible 
+regulatory records, a Site reconnaissance, interviews, an evaluation of information and reporting, subject 
+to the limitations outlined in Section 8.0 of this report.  
+Based on the results of the Phase I ESA completed by Pinchin, nothing was identified that is likely to 
+result in potential subsurface impacts at the Site. As such, no subsurface investigation work (Phase II 
+ESA) is recommended at this time. 
+This Executive Summary is subject to the same standard limitations as contained in the report and must be 
+read in conjunction with the entire report. 
+ 
+ 
+Phase I Environmental Site Assessment 
+February 1, 2023
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Mattamy (Milton West) Limited 
+FINAL
+ 
+© 2023 Pinchin Ltd. 
+Page iii 
+TABLE OF CONTENTS 
+1.0 
+INTRODUCTION .............................................................................................................................. 1 
+1.1 
+Background ........................................................................................................................... 1 
+1.2 
+Scope of Work ...................................................................................................................... 1 
+2.0 
+SITE DESCRIPTION ........................................................................................................................ 1 
+2.1 
+Site Location and Physical Description ................................................................................ 1 
+2.2 
+Topographic, Geologic and Hydrogeological Setting ........................................................... 2 
+2.3 
+Site Operations ..................................................................................................................... 3 
+3.0 
+HISTORICAL RECORDS REVIEW ................................................................................................. 3 
+3.1 
+Site Interviews and Records ................................................................................................. 3 
+3.2 
+Aerial Photographs and Satellite Imagery ............................................................................ 4 
+3.3 
+Opta Information ................................................................................................................... 5 
+3.4 
+City Directories ..................................................................................................................... 5 
+3.5 
+Previous Environmental Reports .......................................................................................... 6 
+3.6 
+Historical Summary............................................................................................................... 7 
+4.0 
+REGULATORY INFORMATION AND CORRESPONDENCE ........................................................ 7 
+4.1 
+Site Regulatory Information .................................................................................................. 7 
+4.2 
+Ministry of the Environment, Conservation and Parks ......................................................... 7 
+4.3 
+Technical Standards & Safety Authority ............................................................................... 8 
+4.4 
+ERIS ..................................................................................................................................... 8 
+4.5 
+Regulatory Information Summary ......................................................................................... 9 
+5.0 
+SITE RECONNAISSANCE .............................................................................................................. 9 
+5.1 
+Hazardous Materials ............................................................................................................. 9 
+5.2 
+Storage Tanks .................................................................................................................... 10 
+5.2.1 
+Aboveground Storage Tanks ............................................................................... 10 
+5.2.2 
+Underground Storage Tanks ................................................................................ 10 
+5.3 
+Water and Wastewater ....................................................................................................... 10 
+5.4 
+Hydraulic Equipment .......................................................................................................... 10 
+5.5 
+Polychlorinated Biphenyls .................................................................................................. 11 
+5.6 
+Asbestos-Containing Materials ........................................................................................... 11 
+5.7 
+Lead-Containing Paints ...................................................................................................... 11 
+5.8 
+Ozone-Depleting Substances ............................................................................................. 12 
+5.9 
+Radon ................................................................................................................................. 12 
+5.10 
+Mould or Microbial Contamination ...................................................................................... 12 
+5.11 
+Air Emissions ...................................................................................................................... 12 
+5.12 
+Staining and Stressed Vegetation ...................................................................................... 13 
+5.13 
+Non-Hazardous Wastes ..................................................................................................... 13 
+6.0 
+ACTIVITIES ON ADJACENT PROPERTIES ................................................................................. 13 
+7.0 
+FINDINGS AND RECOMMENDATIONS ....................................................................................... 14 
+8.0 
+TERMS AND LIMITATIONS .......................................................................................................... 14 
+9.0 
+REFERENCES ............................................................................................................................... 16 
+ 
+ 
+Phase I Environmental Site Assessment 
+February 1, 2023
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Mattamy (Milton West) Limited 
+FINAL
+ 
+© 2023 Pinchin Ltd. 
+Page iv 
+FIGURES 
+FIGURE 1  
+Key Map 
+FIGURE 2  
+Site and Surrounding Land Use Plan 
+APPENDICES 
+APPENDIX I  
+Opta Response 
+APPENDIX II  
+Correspondence with Regulatory Agencies 
+APPENDIX III  
+ERIS Report 
+APPENDIX IV  
+Qualifications of Assessor 
+APPENDIX V  
+Photographs 
+  
+ 
+ 
+Phase I Environmental Site Assessment 
+February 1, 2023
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Mattamy (Milton West) Limited 
+FINAL
+ 
+© 2023 Pinchin Ltd.  
+Page 1 of 16 
+1.0 
+INTRODUCTION  
+1.1 
+Background 
+Pinchin Ltd. (Pinchin) was retained on January 17, 2023 through an Authorization to Proceed, Limitation 
+of Liability and Terms of Engagement contract form signed by a representative of Mattamy (Milton West) 
+Limited (Client) to conduct a Phase I Environmental Site Assessment (ESA) of the property located at the 
+northwest corner of the intersection between Regional Road 25 and Britannia Road in Milton, Ontario 
+(hereafter referred to as the Site). The Site is comprised of two blocks; North and South of Etheridge 
+Avenue. The Site is vacant and undeveloped, free of any permanent structures and/or buildings. 
+Pinchin was advised by the Client that the purpose of the Phase I ESA was to assess potential issues of 
+environmental concern in relation to the potential redevelopment of the Site. In this regard, Pinchin 
+completed and filed a Record of Site Condition (RSC) with the Ontario Ministry of the Environment, 
+Conservation and Parks (MECP), registration number 114328 for the Site, which was accepted by the 
+MECP on June 30, 2011.  
+1.2 
+Scope of Work 
+The Phase I ESA was completed in general accordance with the Canadian Standards Association (CSA) 
+document entitled “Phase I Environmental Site Assessment, CSA Standard Z768-01” dated November 
+2001 (reaffirmed 2022), as well as in general accordance with Ontario Regulation 153/04 as amended 
+(O.Reg. 153/04), including a review of readily available historical and regulatory records, a Site 
+reconnaissance, interviews, an evaluation of information and reporting, all subject to the limitations 
+outlined in Section 8.0 of this report.  
+Pinchin conducted a Site reconnaissance on January 24, 2023, and was accompanied by the Senior 
+Warranty Service Manager for Mattamy Corporation. This individual has been familiar with the Site for 
+eight years and hereafter referred to as the Site Representative. 
+In addition, Pinchin reviewed the document entitled “Phase I Environmental Site Assessment, Framgard 
+Property, Regional Road 25 and Britannia Road, Milton, Ontario”, prepared by Pinchin for Mattamy 
+Developments Corp. c/o Shad & Associates Inc. and dated March 15, 2018 (2018 Pinchin Phase I ESA 
+Report).  
+2.0 
+SITE DESCRIPTION 
+2.1 
+Site Location and Physical Description  
+As indicated on Figure 1 (Key Map), the Site is located on the northwest corner of the intersection 
+between Regional Road 25 and Britannia Road West in Milton, Ontario. The Site is comprised of two 
+blocks identified as the North Block and the South Block.  
+ 
+Phase I Environmental Site Assessment 
+February 1, 2023
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Mattamy (Milton West) Limited 
+FINAL
+ 
+© 2023 Pinchin Ltd.  
+Page 2 of 16 
+The North Block is located north of Etheridge Avenue and excludes the residential property located at 
+6110 Regional Road 25 and the South Block is located south of Etheridge Avenue, as illustrated on 
+Figure 2. The Site is situated in an area that predominantly consists of residential and agricultural land 
+uses. Figure 2 illustrates the Site and surrounding area. 
+A summary of the physical description of the Site, is provided below:  
+Topic 
+Details 
+Approximate Site Area  
+4.49 hectares (11.10 acres). 
+Buildings on-Site 
+No buildings on-Site. 
+Approximate Year of 
+Construction and 
+Significant Additions or 
+Renovations 
+Not applicable. 
+Number of Floors 
+(Including ground level) 
+Not applicable. 
+Subsurface Levels 
+Not applicable. 
+Approximate Footprint 
+Area of Building 
+Not applicable. 
+Approximate Total Area 
+of Building  
+Not applicable. 
+Heating / Cooling 
+Not applicable. However, the temporary sales centre and construction 
+trailers located on-Site are heated and cooled with natural gas-fired wall 
+mounted units, electric baseboard heaters and electrically powered air 
+conditioning units. 
+Elevators 
+Not applicable. 
+Emergency Generators 
+None observed. 
+Landscaped / Grassed / 
+Bare Ground Areas 
+The Site consists of vegetation on the northwest and southeast portions. 
+Paved or Other Sealed 
+Surface Materials 
+None observed.  
+2.2 
+Topographic, Geologic and Hydrogeological Setting 
+Topic 
+Findings 
+Topography of Site and 
+Surrounding Area 
+The Site and surrounding area is generally flat with a gentle slope 
+southeast. 
+ 
+Phase I Environmental Site Assessment 
+February 1, 2023
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Mattamy (Milton West) Limited 
+FINAL
+ 
+© 2023 Pinchin Ltd.  
+Page 3 of 16 
+Topic 
+Findings 
+Site Grade Relative to 
+the Adjoining Properties 
+The Site is approximately 1-2 m lower in elevation than the surrounding 
+properties, with the exception of the land associated with the creek 
+adjoining the Site to the southwest, which is approximately 4-6 m lower than 
+the Site.  
+Subsurface Soils 
+As per previous work completed by Pinchin in the surrounding area, 
+subsurface soils consist of Halton till: clay or silt till with shallow lacustrine 
+sediments of Lake Peel. 
+Fill Materials 
+None observed. 
+Bedrock Type 
+Red shale of the Queenston Formation, as per previous work done by 
+Pinchin in the surrounding area of the Site. 
+Inferred Bedrock Depth 
+Approximately 6.0 metres below ground surface (mbgs), as per previous 
+work completed by Pinchin in the surrounding area of the Site. 
+Inferred Groundwater 
+Depth 
+Unknown based on the information reviewed.  
+Nearest Open Water 
+Body 
+A tributary of Sixteen Mile Creek is adjacent to the southwest perimeter of 
+the Site. The tributary flows southeast and discharges into Sixteen Mile 
+Creek, located approximately 3 kilometers (km) southeast of the Site. 
+Sixteen Mile Creek flows southeast and discharges into Lake Ontario, 
+located approximately 15 km southeast of the Site. 
+Inferred Groundwater 
+Flow Direction 
+Southeast based on topography and the nearest body of water. 
+2.3 
+Site Operations 
+The Site comprised of vacant and undeveloped land, free of any permanent structures. The south portion 
+of the North Block is occupied by construction trailers and a temporary sales center that is operated by 
+the Client.   
+Further details regarding on-Site operations are provided in Section 5.0. 
+3.0 
+HISTORICAL RECORDS REVIEW 
+3.1 
+Site Interviews and Records 
+The Site Representative advised Pinchin of the following with respect to the historical occupancy and 
+operations at the Site: 
+• 
+The temporary sales centre was added to the Site between approximately 2012 – 2015; 
+• 
+No dry cleaning operations have historically taken place at the Site; and 
+• 
+No retail fuel outlets (RFOs) have operated at the Site. 
+ 
+Phase I Environmental Site Assessment 
+February 1, 2023
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Mattamy (Milton West) Limited 
+FINAL
+ 
+© 2023 Pinchin Ltd.  
+Page 4 of 16 
+3.2 
+Aerial Photographs and Satellite Imagery 
+Copies of aerial photographs dated, 1934, 1951, 1954, 1960, 1962, 1969, 1974 and 1985 were obtained 
+from Pinchin’s internal collection and reviewed by Pinchin. In addition, Pinchin reviewed Google Earth™ 
+satellite imagery dated 2004, 2009, 2013 and 2016. It should be noted that accurate details could not be 
+determined from the 1934, 1951, 1954, 1960, 1962, 1969, 1974 and 1985 aerial photographs due to the 
+reference scale and the resolution of the photographs.  
+A summary of information inferred with respect to the Site is provided in the following table: 
+Year of 
+Photograph 
+Site 
+1934, 1951, 1954, 
+1960, 1962, 1969, 
+1974, 1985, 2004, 
+2009 and 2013 
+The Site appeared to consist of vacant agricultural land.  
+2016 
+The Site appeared to consist of vacant undeveloped land with areas of land 
+disturbance that likely resulted from the development that is visible on the 
+adjacent properties to the northwest and southwest. A collection of what 
+appeared to be construction trailers similar to present-day were located on the 
+south portion of the North Block. 
+A summary of information inferred with respect to the surrounding area is provided in the following table: 
+Year of 
+Photograph 
+Northwest 
+Northeast 
+Southwest 
+Southeast 
+1934, 1951, 
+1954, 1960, 
+1962, 1969, 
+1974, 1985 
+and 2004 
+Vacant 
+undeveloped/ 
+agricultural land 
+with associated 
+residential 
+dwellings. 
+A road similar in 
+location and 
+orientation to 
+present-day 
+Reginal Road 25, 
+followed by vacant 
+undeveloped/ 
+agricultural land 
+with associated 
+residential 
+dwellings. 
+A tributary of 
+Sixteen Mile 
+Creek, followed by 
+vacant 
+undeveloped/ 
+agricultural land. 
+A road similar in 
+location and 
+orientation to 
+present-day 
+Britannia Road 
+West, followed by 
+residential 
+dwellings followed 
+by vacant 
+undeveloped/ 
+agricultural and 
+forested land with 
+associated 
+residential 
+dwellings. 
+ 
+Phase I Environmental Site Assessment 
+February 1, 2023
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Mattamy (Milton West) Limited 
+FINAL
+ 
+© 2023 Pinchin Ltd.  
+Page 5 of 16 
+Year of 
+Photograph 
+Northwest 
+Northeast 
+Southwest 
+Southeast 
+2009, 2013 
+and 2016 
+Similar to 2004; 
+however, a storm 
+water management 
+pond was visible 
+north of the Site in 
+the 2016 image.  
+Similar to 2004. 
+Similar to 2004; 
+however, 
+residential 
+dwellings 
+associated with 
+English Mill Court, 
+Orr Terrace, 
+Emmet Landing, 
+Etheridge Avenue 
+and Farmstead 
+Drive are now 
+visible on the 2016 
+image reviewed.  
+Similar to 2004. 
+3.3 
+Opta Information 
+As part of the 2018 Pinchin Phase I ESA Report, Pinchin contacted Opta Information Intelligence (Opta) 
+to obtain copies of Fire Insurance Plans related to the Site and surrounding area, as well as Property 
+Underwriters’ Reports and Property Underwriters’ Plans related to the Site. Opta provided a written 
+response dated March 13, 2018, indicating there were no records on-file for the Site. A copy of Opta’s 
+response is provided in Appendix I. 
+3.4 
+City Directories 
+As part of the 2018 Pinchin Phase I ESA Report, city directories for the years 1969/1970 to 2000 were 
+reviewed by Pinchin at the Library and Archives of Canada in Ottawa, Ontario. It should be noted that no 
+city directories were available for the Town of Milton subsequent to 2000. A summary of information 
+obtained with respect to the Site is provided in the following table: 
+Year(s) 
+Occupant Listings for Site Address 
+1969/70 – 1979 
+Residential 
+1979 – 2000 
+Not listed. 
+In general, the city directories indicated that the surrounding area has historically consisted of agricultural 
+and residential land uses since 1969. No historical dry cleaning operations, RFOs or other operations of 
+potential environmental concern were identified, however, Pinchin notes the following: 
+• 
+Brower’s Machine and Tool was listed at 6003 Regional Road 25 from 1969 until 1979.  
+This property is located approximately 45 m northeast of the Site and is inferred to be 
+hydraulically transgradient of the Site relative to the inferred groundwater flow direction.   
+ 
+Phase I Environmental Site Assessment 
+February 1, 2023
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Mattamy (Milton West) Limited 
+FINAL
+ 
+© 2023 Pinchin Ltd.  
+Page 6 of 16 
+Based on the distance between the operation and the Site, as well as the inferred 
+groundwater flow direction, it is Pinchin’s opinion that this historical off-Site operation is 
+unlikely to result in potential subsurface impacts at the Site. 
+3.5 
+Previous Environmental Reports 
+2018 Pinchin Phase I ESA Report 
+The Phase I ESA completed by Pinchin in March 2018 consisted of historical reviews, a review of 
+surrounding properties, a regulatory database search, and interviews as well as an exterior assessment 
+of the Site. 
+Pinchin also reviewed the following previous reports for the Site: 
+• 
+Report entitled “Phase I Environmental Site Assessment, Northwest Corner of Regional 
+Road 25 and Britannia Road, Milton, Ontario”, prepared for Mattamy (Milton West) 
+Limited c/o Shad and dated June 9, 2011 (2011 Pinchin Phase I ESA Report);  
+• 
+Document entitled “Ontario Ministry of the Environment - Record of Site Condition 
+#114328” prepared by Pinchin and dated June 27, 2011 (2011 Pinchin RSC); and  
+• 
+Letter entitled “Acknowledgement of Filing of Record of Site Condition (RSC), RSC 
+Number 114328, IDS Filing Number 7225-8JC3PK” prepared by the Ontario Ministry of 
+the Environment (currently the Ministry of the Environment, Conservation and Parks 
+(MECP)) and dated June 30, 2011 (MECP RSC Acknowledgement Letter). 
+Based on Pinchin’s review of the 2011 Pinchin Phase I ESA Report, the following was noted: 
+• 
+The Phase I ESA completed by Pinchin in June 2011 consisted of historical reviews, a 
+review of surrounding properties, a regulatory database search, and interviews as well as 
+an exterior assessment of the Site, including parcels of land currently developed with a 
+residential subdivision located northwest and southwest of the Site. 
+• 
+The results of the 2011 Pinchin Phase I ESA Report indicated that there were no 
+significant potential environmental concerns associated with the current and historical 
+use of the Site and adjacent properties and as such, no further environmental 
+assessment work was recommended.  
+Based on Pinchin’s review of the 2011 Pinchin RSC, the following was noted: 
+• 
+Based on the findings of the 2011 Pinchin Phase I ESA Report, Pinchin prepared the 
+online forms to file an RSC with the MECP. The RSC indicated that the current property 
+use was agricultural and that the intended property use was residential. The area of the 
+lands associated with the RSC was 41.7 hectares (which includes the Site). 
+ 
+Phase I Environmental Site Assessment 
+February 1, 2023
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Mattamy (Milton West) Limited 
+FINAL
+ 
+© 2023 Pinchin Ltd.  
+Page 7 of 16 
+Based on Pinchin’s review of the MECP RSC Acknowledgement Letter, the following was noted: 
+• 
+The letter indicated that the MECP acknowledged the filing of the RSC for the property, 
+including the Site on June 30, 2011 and that the RSC was filed on the Environmental Site 
+Registry.  
+The results of the 2018 Pinchin Phase I ESA Report indicated that there were no significant potential 
+environmental concerns associated with the current and historical use of the Site and adjacent properties 
+and as such, no further environmental assessment work was recommended. 
+3.6 
+Historical Summary 
+Based on the results of the historical review, nothing was identified that is likely to result in potential 
+subsurface impacts at the Site. 
+4.0 
+REGULATORY INFORMATION AND CORRESPONDENCE 
+4.1 
+Site Regulatory Information 
+Pinchin requested copies of permits, approvals and registrations from the Client and was advised that 
+there is no regulatory information with respect to the Site. 
+4.2 
+Ministry of the Environment, Conservation and Parks 
+A Freedom of Information request was submitted to the MECP for information on file with respect to the 
+Site. Specifically, the MECP was asked what information it has regarding historical spills, orders, 
+investigations/prosecutions, waste generator numbers/classes, Certificates-of-Approval and 
+Environmental Compliance Approvals. Based on written correspondence with the MECP dated January 
+24, 2023, no information was on file with respect to the Site. A copy of the MECP’s response is provided 
+in Appendix II of this report. 
+The MECP Brownfields Environmental Site Registry was searched by ERIS as part of the database 
+searches completed. According to the ERIS report, and as noted above, a RSC has been filed for the 
+properties located northwest and southwest of the Site and including the Site. The RSC indicates the 
+following information: 
+• 
+The RSC (#114328) was issued on June 9, 2011 and permitted a change of land use 
+from agricultural/other to residential; 
+• 
+The Site was a portion of the RSC Site boundary, the total RSC Site boundary was 41.7 
+hectares; 
+• 
+The RSC was based on a Phase I ESA completed by Pinchin; and 
+• 
+No Certificate of Property Use has been issued under section 168.6 of the Act for the 
+Site. 
+ 
+Phase I Environmental Site Assessment 
+February 1, 2023
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Mattamy (Milton West) Limited 
+FINAL
+ 
+© 2023 Pinchin Ltd.  
+Page 8 of 16 
+4.3 
+Technical Standards & Safety Authority 
+The Technical Standards & Safety Authority (TSSA) was contacted to establish the status of the Site with 
+respect to its files, to identify outstanding instructions, tank registrations, incident reports, fuel/oil spills or 
+contamination records associated with the Site. Based on written correspondence with the TSSA dated 
+January 29, 2023, no information was on file with respect to the Site. Copies of Pinchin’s request 
+submitted to the TSSA and their response is provided in Appendix II of this report. 
+4.4 
+ERIS 
+Pinchin submitted a request to ERIS for a review of their available databases, as they pertain to the Site 
+and surrounding properties.  
+A copy of the ERIS report is provided in Appendix III. Based on a review of the information obtained from 
+the above-noted sources, Pinchin notes the following:  
+• 
+The Site was not listed in any the databases reviewed by Pinchin; 
+• 
+The Ontario Spills database indicated that on October 15, 2007, 15 L of biosolids spilled 
+to Britannia Road east of Regional Road 25 due to equipment failure. The ERIS report 
+indicated that environmental impact to land was confirmed. This spill occurred 
+approximately 10 m east of the Site and was situated hydraulically down/transgradient of 
+the Site relative to the inferred groundwater flow direction. Based on the limited quantity 
+of the release, as well as the nature of the spill, it is Pinchin’s opinion that the historical 
+spill is unlikely to result in subsurface impacts to the Site; 
+• 
+Dolby and Few Haulage Ltd. located at 6009 Regional Road 25, had been identified in 
+the Fuel Storage Tank, Fuel Storage Tank – Historic and the Private and Retail Fuel 
+Storage Tanks databases with one active 9,092-Litres (L) steel single wall diesel 
+underground storage tank (UST) installed in 1979. This property is located approximately 
+45 m northeast of the Site and is situated hydraulically transgradient of the Site relative to 
+the inferred groundwater flow direction.  Based on the distance between this property and 
+the Site, as well as the inferred groundwater flow direction, it is Pinchin’s opinion that the 
+historical UST is unlikely to result in subsurface impacts to the Site; and 
+• 
+Bot Engineering & Construction Ltd., located at 8066 Britannia Road East, had been 
+registered with the MECP as a generator of waste oils and lubricants as of December 
+2018. Based on a review of Pinchin’s in-house MECP Waste Generator database, no 
+wastes were generated by this operation. This property is located approximately 30 m 
+east of the Site and is situated hydraulically transgradient of the Site relative to the 
+inferred groundwater flow direction; and 
+ 
+Phase I Environmental Site Assessment 
+February 1, 2023
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Mattamy (Milton West) Limited 
+FINAL
+ 
+© 2023 Pinchin Ltd.  
+Page 9 of 16 
+• 
+Additional surrounding properties were listed in various databases reviewed; however, 
+based on the information provided within the ERIS report, the locations/distances 
+between these properties and the Site, as well as the inferred groundwater flow direction, 
+it is Pinchin’s opinion that the potential issues of concern associated with these listings 
+are unlikely to result in potential subsurface impacts at the Site. 
+4.5 
+Regulatory Information Summary 
+Based on the regulatory information reviewed, nothing was identified that is likely to result in potential 
+subsurface impacts at the Site. 
+5.0 
+SITE RECONNAISSANCE  
+Pinchin (see Appendix IV for assessor qualifications) conducted a Site reconnaissance on January 24, 
+2023, and was accompanied by the Site Representative. The Site reconnaissance included a walk-
+through of accessible areas of the construction trailers and exterior areas of the Site. At the time of the 
+Site reconnaissance, the ground surface was partially covered with snow limiting exterior observations, 
+and the weather was clear. The Site reconnaissance was documented with notes and photographs. The 
+results of the Site reconnaissance are discussed below. Photographs of some of the features noted 
+during the Site reconnaissance are attached in Appendix V. 
+5.1 
+Hazardous Materials 
+Topic 
+Findings 
+Chemicals 
+Chemicals typically used for general purpose cleaning, and building maintenance 
+(e.g., window cleaners, bleach, paints, deodorizers, etc.) were noted on-Site at the 
+time of the Site reconnaissance. Chemicals observed on-Site were stored within 
+manufacturer-supplied containers in various locations within the construction trailers. 
+Compressed 
+Gases 
+None observed and none reported by the Site Representative. 
+Hazardous 
+Waste 
+None observed and none reported by the Site Representative. 
+No spills or evidence of historical spills (i.e., staining) were observed in the chemical storage areas noted 
+above. The interior floor boards were observed to be in good condition (i.e., no cracking or pitting) and the 
+chemicals appeared to be stored in an orderly fashion. No floor drains or catch basins were present in the 
+vicinity of the chemical storage areas. 
+ 
+Phase I Environmental Site Assessment 
+February 1, 2023
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Mattamy (Milton West) Limited 
+FINAL
+ 
+© 2023 Pinchin Ltd.  
+Page 10 of 16 
+5.2 
+Storage Tanks 
+5.2.1 
+Aboveground Storage Tanks 
+No aboveground storage tanks (ASTs) were observed on-Site, and none were reported by the Site 
+Representative. No evidence of former ASTs was observed by Pinchin. 
+5.2.2 
+Underground Storage Tanks 
+No evidence of underground storage tanks (USTs) (i.e., fill/vent pipes) was observed on-Site, and none 
+were reported by the Site Representative. No evidence of former USTs was observed by Pinchin. 
+5.3 
+Water and Wastewater 
+Topic 
+Findings 
+Water Supply Source 
+Region of Halton. Water is obtained by the Region from Lake Ontario. 
+Groundwater is not used as a source of potable water. 
+Water Use 
+Water is primarily used for domestic-related activities within the construction 
+trailers. 
+Sanitary/Process 
+Wastewater Receptor 
+Municipal sanitary sewer system. No process wastewater is generated at the 
+Site. Wastewater is limited to sanitary effluent.  
+Pits, Sumps or Lagoons 
+None observed and none reported by the Site Representative.  
+Grease Traps 
+None observed and none reported by the Site Representative. 
+Oil/Water Separators 
+None observed and none reported by the Site Representative. 
+Storm Water Flow and 
+Receptor 
+Storm water would likely run overland to percolate naturally through the soil 
+or discharge into the tributary of Sixteen Mile Creek adjacent to the 
+southwest Site boundary. 
+Wells 
+Seven groundwater monitoring wells were observed on-Site at the time of 
+the Site reconnaissance, as shown on Figure 2. It is Pinchin’s understanding 
+that these groundwater monitoring wells were installed as part of a 
+geotechnical investigation completed at the Site by Shad. 
+Watercourses, Ditches 
+or Standing Water 
+None observed and none reported by the Site Representative. 
+5.4 
+Hydraulic Equipment 
+No evidence of hydraulic equipment (i.e., hydraulic hoists, elevators, compactors, dock levels, etc.) was 
+identified at the Site during the Site reconnaissance. 
+ 
+Phase I Environmental Site Assessment 
+February 1, 2023
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Mattamy (Milton West) Limited 
+FINAL
+ 
+© 2023 Pinchin Ltd.  
+Page 11 of 16 
+5.5 
+Polychlorinated Biphenyls 
+The use of polychlorinated biphenyls (PCBs) in electrical equipment such as transformers, fluorescent 
+lamp ballasts, and capacitors was common until Canada banned its use in 1980. The Federal PCB 
+Regulations, SOR/2008-273, regulate the manufacture, import, export, sale, use and processing of PCBs. 
+These regulations required the decommissioning of equipment containing high levels of PCBs (>500 
+ppm) in 2009. Additionally, the regulations require decommissioning of light ballasts, pole top 
+transformers, capacitors and electrical equipment containing greater than 50 mg/kg PCBs by December 
+31, 2025. Cables, pipelines and equipment associated with natural gas, petroleum and petroleum 
+products, and fusion sealed capacitors for use in communication equipment and electrical control 
+equipment are exempt from the decommissioning requirement. 
+Given that there are no permanent structures on-Site, PCBs are not considered an issue. 
+5.6 
+Asbestos-Containing Materials 
+Asbestos-containing materials (ACMs) are commonly found in building construction materials (particularly 
+in older buildings). Asbestos use in building products declined in use starting in the 1970s, with the 
+majority of products being phased out by circa 1990. Asbestos use in Canada was formally banned in 
+December 2018. 
+Friable asbestos (friable is defined as a material that can be crumbled, powdered or pulverized by hand 
+pressure) was widely used in sprayed fireproofing until 1973, and in decorative or finishing plasters, and 
+thermal systems insulation until the early 1980s. Non-friable or manufactured asbestos products were 
+widely used in building construction including in vinyl floor tiles, sheet flooring, ceiling tiles, pipe gaskets, 
+roofing materials, asbestos cement boards, and numerous other products until circa 1990. A limited 
+number of non-friable asbestos products remained in use until the end of 2018; examples include friction 
+materials, gaskets, cement pipes, sealants, adhesives and caulking.  
+Given that there are no permanent structures on-Site, ACMs is not considered an issue. 
+5.7 
+Lead-Containing Paints 
+Lead was commonly used as an additive in paints with no restricted level up until the mid-1970s. This 
+included architectural paints used on interior and exterior surfaces, primers and coatings for anti-corrosive 
+purposes, consumer paints, and paint on furniture and other household items. Beginning in 1976, the 
+federal government limited the amount of lead in consumer paints to 5,000 parts per million (ppm) and 
+steadily reduced the lead content, primarily in the interest of public safety. In 2005, the limit was reduced 
+to 600 ppm and in 2010, the limit was further reduced to 90 ppm, however, there is no restriction on lead 
+in paints used for anti-corrosion purposes (e.g., steel primers and exterior coatings) and road and line 
+markings. In June 2016, these exemptions were removed and as of this date, any paint sold should not 
+contain more than 90 ppm, even if sold for anti-corrosion purposes. 
+ 
+Phase I Environmental Site Assessment 
+February 1, 2023
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Mattamy (Milton West) Limited 
+FINAL
+ 
+© 2023 Pinchin Ltd.  
+Page 12 of 16 
+Given that there are no permanent structures on-Site, lead containing paints are not considered an issue. 
+5.8 
+Ozone-Depleting Substances 
+The bulk storage of ozone-depleting substances (ODSs) was not observed. The Site Representative 
+reported that the bulk storage of ODSs has not been carried out at the Site. 
+Air-conditioning units, as well as residential refrigeration units, were observed on-Site. These units may 
+include refrigerants, such as R22 or R12, that are noted within the phase-out schedules for elimination in 
+both Provincial and Federal regulations. No other sources of ODSs were observed at the time of the Site 
+reconnaissance. 
+5.9 
+Radon 
+Radon is a naturally occurring radioactive gas formed by the breakdown of uranium in soil, rocks and 
+even groundwater. Radon is invisible, odourless and colourless and as such, cannot be detected by 
+humans. Radon escapes from the ground and mixes with outdoor air forming concentrations that are too 
+low to be of concern; however, if radon enters a building the concentrations can increase to higher levels. 
+Health Canada has developed guidelines for acceptable levels of radon in dwellings and public buildings 
+and has indicated that radon levels should not exceed 200 Becquerels per cubic metre (Bq/m3). Testing 
+for radon in the Site Building was beyond the scope of this Phase I ESA. The Site Representative 
+reported that no radon surveys have been carried out at the Site. 
+5.10 
+Mould or Microbial Contamination 
+The presence of mould or other microbiological contamination in buildings has become a concern to 
+building tenants and owners due to potential health effects on occupants and users. Provincial Ministries 
+of Labour have recently issued guidelines on enforced regulations to protect the health of construction 
+workers who are exposed to mould in the course of building renovation. The presence of water leaks or 
+high humidity can cause the growth or amplification of mould within building environments. 
+Given that there are no permeant structures on-Site, mould or microbial contamination is not considered 
+to be an issue. Pinchin notes that water staining was observed in the construction trailers on-Site, 
+however, no visible mould was observed during Site reconnaissance. 
+5.11 
+Air Emissions 
+Topic 
+Findings 
+Washroom Vents 
+None observed and none reported by the Site Representative. 
+Kitchen Vents 
+None observed and none reported by the Site Representative.  
+ 
+Phase I Environmental Site Assessment 
+February 1, 2023
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Mattamy (Milton West) Limited 
+FINAL
+ 
+© 2023 Pinchin Ltd.  
+Page 13 of 16 
+Topic 
+Findings 
+Heating/Cooling 
+Not applicable. However, the temporary sales centre and construction trailers 
+located on-Site are heated and cooled with natural gas-fired wall mounted 
+units, electric baseboard heaters and electrically powered air conditioning 
+units. 
+Emergency Generators 
+None observed and none reported by the Site Representative. 
+Process Vents 
+None observed and none reported by the Site Representative. 
+Odours 
+No strong, pungent or noxious odours were identified. 
+Permits / Approvals 
+Client advised Pinchin that Site does not hold any permits/approvals for the 
+Site, as related to air emissions or discharges. 
+5.12 
+Staining and Stressed Vegetation 
+Pinchin notes that the ground surface was partially snow covered at the time of the Site reconnaissance 
+and therefore, a thorough assessment for staining/stressed vegetation could not be completed at the time 
+of the Site reconnaissance.  
+No evidence of historical chemical discharges or releases (i.e., staining or stressed vegetation) was 
+observed during the Site reconnaissance. The Site Representative reported that no known historical 
+chemical spills have occurred on-Site and no reportable spills were documented in the regulatory 
+databases searched. As such, the partially snow-covered ground surface does not represent a significant 
+gap that would affect the Qualified Person (QP) opinion regarding the Site condition. 
+5.13 
+Non-Hazardous Wastes 
+Topic 
+Findings 
+Non-hazardous 
+Wastes 
+Domestic refuse is deposited in a metal bin located west of the construction trailers 
+and is removed for off-Site disposal by GFL approximately monthly.   
+Recyclables 
+Recyclables (i.e., cans, bottles, newsprint, plastics, and cardboard) are stored in a 
+metal bin located west of the construction trailers and is removed to an off-Site 
+recycling facility by GFL approximately monthly. 
+6.0 
+ACTIVITIES ON ADJACENT PROPERTIES 
+The Site is located in an urban area that predominantly consists of residential and agricultural land uses.  
+ 
+Phase I Environmental Site Assessment 
+February 1, 2023
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Mattamy (Milton West) Limited 
+FINAL
+ 
+© 2023 Pinchin Ltd.  
+Page 14 of 16 
+A description of the adjacent properties is summarized in the following table, based on Pinchin’s 
+observations from the Site and publicly accessible locations: 
+ 
+Northwest  
+Northeast 
+Southwest 
+Southeast 
+Operation or 
+Activity 
+A storm water 
+management pond 
+and storm water 
+buffer. 
+Regional Road 25, 
+followed by a 
+single-family 
+residential 
+dwelling and 
+vacant and 
+agricultural land. 
+A tributary of 
+Sixteen Mile 
+Creek, followed by 
+residential 
+dwellings 
+associated with 
+English Mill Court, 
+Emmet Landing, 
+Etheridge Avenue, 
+Farmstead Drive, 
+and a storm water 
+retention pond. 
+Britannia Road 
+West, followed by 
+agricultural land. 
+Direction with 
+Respect to 
+Inferred 
+Groundwater Flow  
+Upgradient. 
+Transgradient. 
+Transgradient. 
+Downgradient. 
+Visible Emissions 
+None observed. 
+None observed. 
+None observed. 
+None observed. 
+Visible Outdoor 
+Storage of 
+Hazardous 
+Materials  
+None observed. 
+None observed. 
+None observed. 
+None observed. 
+Based on Pinchin’s observations of the adjacent properties, nothing was observed that is likely to result in 
+potential subsurface impacts at the Site. 
+7.0 
+FINDINGS AND RECOMMENDATIONS 
+Based on the results of the Phase I ESA completed by Pinchin, nothing was identified that is likely to 
+result in potential subsurface impacts at the Site. As such, it is the opinion of the QP that the Site 
+conditions observed at the time of filing the RSC have not changed significantly and RSC is still valid. No 
+subsurface investigation work (Phase II ESA) is recommended at this time. 
+8.0 
+TERMS AND LIMITATIONS 
+This Phase I ESA was performed in order to identify potential issues of environmental concern associated 
+with the Site located at Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario, at the 
+time of the Site reconnaissance. This Phase I ESA was performed in general compliance with currently 
+acceptable practices for environmental site investigations, and specific Client requests, as applicable to 
+this Site.  
+ 
+Phase I Environmental Site Assessment 
+February 1, 2023
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Mattamy (Milton West) Limited 
+FINAL
+ 
+© 2023 Pinchin Ltd.  
+Page 15 of 16 
+The scope of work completed by Pinchin, as part of this Phase I ESA, is not sufficient (in and of itself) to 
+meet the requirements for the submission of an RSC in accordance with Ontario Regulation 153/04 (as 
+amended). If an RSC is an intended end product of work conducted at the Site, further consultation 
+and/or work will be required. 
+This report was prepared for the exclusive use of Mattamy (Milton West) Limited (Client), subject to the 
+terms, conditions and limitations contained within the duly authorized proposal for this project. Any use 
+which a third party makes of this report, or any reliance on or decisions to be made based on it, is the 
+sole responsibility of such third parties. Pinchin accepts no responsibility for damages suffered by any 
+third party as a result of decisions made or actions conducted.  
+If additional parties require reliance on this report, written authorization from Pinchin will be required. 
+Such reliance will only be provided by Pinchin following written authorization from Client. Pinchin 
+disclaims responsibility of consequential financial effects on transactions or property values, or 
+requirements for follow-up actions and costs. No other warranties are implied or expressed. Furthermore, 
+this report should not be construed as legal advice. Pinchin will not provide results or information to any 
+party unless disclosure by Pinchin is required by law.  
+The information provided in this report is based upon analysis of available documents, records and 
+drawings, and personal interviews. In evaluating the Site, Pinchin has relied in good faith on information 
+provided by other individuals noted in this report. Pinchin has assumed that the information provided is 
+factual and accurate. In addition, the findings in this report are based, to a large degree, upon information 
+provided by the current owner/occupant. Pinchin accepts no responsibility for any deficiency, 
+misstatement or inaccuracy contained in this report as a result of omissions, misinterpretations or 
+fraudulent acts of persons interviewed or contacted, or contained in reports that were reviewed. The 
+scope of work for this Phase I ESA did not include an intrusive investigation for designated substances 
+(i.e., asbestos, mould, etc.) and, therefore, these materials may be present in concealed areas. 
+Pinchin makes no other representations whatsoever, including those concerning the legal significance of 
+its findings, or as to other legal matters touched on in this report, including, but not limited to, ownership 
+of any property, or the application of any law to the facts set forth herein. With respect to regulatory 
+compliance issues, regulatory statutes are subject to interpretation and these interpretations may change 
+over time. 
+The CSA document entitled “Phase I Environmental Site Assessment, CSA Standard Z768-01” dated 
+November 2001 (reaffirmed 2022), does not apply to environmental auditing or environmental 
+management systems. Therefore, with respect to Site operations and conditions, compliance with 
+applicable Federal, Provincial or Municipal acts, regulations, laws and/or statutes was not evaluated as 
+part of the Phase I ESA. 
+ 
+Phase I Environmental Site Assessment 
+February 1, 2023
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Mattamy (Milton West) Limited 
+FINAL
+ 
+© 2023 Pinchin Ltd.  
+Page 16 of 16 
+9.0 
+REFERENCES 
+The following documents, persons or organizations provided information used in this report: 
+1. 
+Senior Warranty Service Manager for Mattamy Corporation [Site Representative]. 
+2. 
+ERIS report entitled “25 Britannia Rd, Milton ON L9T 7G3”, dated January 23, 2023 
+(ERIS Project # 23011801076). 
+3. 
+Opta Information Intelligence “Regional Road 25 Britannia Road Milton ON”, and dated 
+March 13, 2018 (Opta Order ID: 46509). 
+4. 
+The Atlas of Canada – Surficial Materials: 
+http://atlas.nrcan.gc.ca/site/english/maps/environment/land/surficialmaterials/1 
+5. 
+The Atlas of Canada – Bedrock Geology: 
+http://atlas.gc.ca/site/english/maps/archives/3rdedition/environment/land/016?w=4&h=4&l
+=6&r=4&c=12. 
+6. 
+Toporama – Topographic Maps: http://atlas.gc.ca/site/english/maps/topo/map. 
+7. 
+Canadian Centre for Occupational Health & Safety: 
+http://www.ccohs.ca/oshanswers/phys_agents/radon.html. 
+8. 
+Canadian Standards Association (CSA) Standard. CSA Z768-01, Phase I Environmental 
+Site Assessment, Canadian Standards Association International, November 2001, 
+reaffirmed in 2022. 
+9. 
+National Air Photo Library, Ottawa, Ontario. 
+10. 
+Library and Archives of Canada, Ottawa, Ontario. 
+11. 
+Technical Standards & Safety Authority. 
+12. 
+Ministry of the Environment, Conservation and Parks. 
+13. 
+MECP Brownfields Environmental Site Registry. 
+14. 
+Google Earth™. 
+15. 
+Health Canada. “Cross-Canada Survey of Radon Concentrations in Homes – Final 
+Report”, dated March 2012. 
+16. 
+“Phase I Environmental Site Assessment, Framgard Property, Regional Road 25 and 
+Britannia Road, Milton, Ontario”, prepared by Pinchin Ltd. for Mattamy Developments 
+Corp. c/o Shad & Associates Inc. and dated March 15, 2018 
+321145 FINAL Phase I ESA Regional Road 25 & Britannia Road Milton ON Feb 1 2023.docx 
+Template:  Master Report for Phase I ESA - Ontario, EDR, June 8, 2022 
+ 
+ 
+ 
+FIGURES 
+PROJECT NAME:
+CLIENT NAME:
+PROJECT LOCATION:
+FIGURE NAME:
+SCALE:
+PROJECT NUMBER:
+DATE:
+FIGURE NUMBER
+1:8,500
+1
+JA
+KM
+321286.000
+KEY MAP
+NORTHWEST CORNER OF REGIONAL ROAD 25 & BRITANNIA ROAD, MILTON, ONTARIO
+MATTAMY (MILTON WEST)  LIMIITED
+PHASE I ENVIRONMENTAL SITE ASSESSMENT
+´
+DRAWN BY:
+REVIEWED BY:
+0
+500
+m
+JANUARY 2023
+LEGEND
+PROJECT NAME:
+CLIENT NAME:
+PROJECT LOCATION:
+FIGURE NAME:
+PROJECT NUMBER:
+DRAWN BY:
+SCALE:
+REVIEWED BY:
+DATE:
+FIGURE NUMBER:
+PHASE I ENVIRONMENTAL 
+SITE ASSESSMENT
+MATTAMY (MILTON WEST) 
+LIMITED
+NORTHWEST CORNER OF 
+REGIONAL ROAD 25 & BRITANNIA
+ROAD, MILTON, ONTARIO
+SITE AND SURROUNDING
+LAND USE PLAN
+321286.000
+AS SHOWN
+KM
+FA
+JANUARY 2023
+2
+N
+LEGEND IS COLOUR DEPENDENT.
+NON-COLOUR COPIES MAY ALTER
+INTERPRETATION.
+SITE BOUNDARY
+SITE BUILDING
+©Google Earth contributors
+INFERRED
+GROUNDWATER
+FLOW DIRECTION
+RESIDENTIAL
+RES
+MONITORING WELL LOCATION
+WATERCOURSE
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+ES
+RES
+RES
+RES
+RES
+#6110
+VACANT
+#6009
+#6045
+RES
+AGRICLTURAL
+REGIONAL ROAD 25
+ETHERIDGE AVENUE
+ENGLISH MILL COURT
+FAR
+EMMETT LANDING
+RES
+ 
+ 
+APPENDIX I 
+ 
+Opta Response 
+Regional Road 25  Britannia Road Milton ON
+ 20180302306
+46509
+Eleanor Goolab
+Ecolog ERIS
+3/13/2018 7:27:51 AM
+Anthony
+Page: 2
+Project Name: Phase I ESA
+Project #: 20180302306
+P.O. #: 0068258.001
+Search Area: Regional Road 25  Britannia Road
+Milton ON
+OPTA INFORMATION INTELLIGENCE
+ENVIROSCAN Report
+Requested by:
+Eleanor Goolab
+Date Completed: 03/13/2018 07:27:51
+Opta Historical Environmental Services Enviroscan
+TM
+Terms and Conditions
+Report
+The documents (hereinafter referred to as the "Documents") to be released as part of the report (hereinafter referred to
+as the "Report") to be delivered to the purchaser as set out above are documents in Opta’s records relating to the
+described property (hereinafter referred to as the "Property"). Opta makes no representations or warranties respecting
+the Documents whatsoever, including, without limitation, with respect to the completeness, accuracy or usefulness of
+the Documents, and does not represent or warrant that these are the only plans and reports prepared in association
+with the Property or in Opta’s possession at the time of Report delivery to the purchaser.  The Documents are current
+as of the date(s) indicated on them.  Interpretation of the Documents, if any, is by inference based upon the information
+which is apparent and obvious on the face of the Documents only.  Opta does not represent, warrant or guarantee that
+interpretations other than those referred to do not exist from other sources.  The Report will be prepared for use by the
+purchaser of the services as shown above hereof only.
+Disclaimer
+Opta disclaims responsibility for any losses or damages of any kind whatsoever, whether consequential or other,
+however caused, incurred or suffered, arising directly or indirectly as a result of the services (which services include, but
+are not limited to, the preparation of the Report provided hereunder), including but not limited to, any losses or damages
+arising directly or indirectly from any breach of contract, fundamental or otherwise, from reliance on Opta Reports or
+from any tortious acts or omissions of Opta's agents, employees or representatives.
+Entire Agreement
+The parties hereto acknowledge and agree to be bound by the terms and conditions hereof.  The request form
+constitutes the entire agreement between the parties pertaining to the subject matter hereof and supersedes all prior
+and contemporaneous agreements, negotiations and discussions, whether oral or written, and there are no
+representations or warranties, or other agreements between the parties in connection with the subject matter hereof
+except as specifically set forth herein.  No supplement, modification, waiver, or termination of the request shall be
+binding, unless confirmed in writing by the parties hereto.
+Governing Document
+In the event of any conflicts or inconsistencies between the provisions hereof and the Reports, the rights and
+obligations of the parties shall be deemed to be governed by the request form, which shall be the paramount document.
+Law
+This agreement shall be governed by and construed in accordance with the laws of the Province of Ontario and the
+laws of Canada applicable therein.
+Page: 3
+Opta Historical Environmental Services Enviroscan
+Terms and Conditions
+OPTA INFORMATION INTELLIGENCE
+ENVIROSCAN Report
+Requested by:
+Eleanor Goolab
+Date Completed: 03/13/2018 07:27:51
+175 Commerce Valley Drive W
+Markham, Ontario
+L3T 7Z3
+T: 905.882.6300
+Toll Free: 905.882.6300
+F: 905.882.6300
+An SCM Company
+www.optaintel.ca
+Project Name: Phase I ESA
+Project #: 20180302306
+P.O. #: 0068258.001
+No Records Found
+Page: 4
+No Records Found
+OPTA INFORMATION INTELLIGENCE
+ENVIROSCAN Report
+Requested by:
+Eleanor Goolab
+Date Completed: 03/13/2018 07:27:51
+Project Name: Phase I ESA
+Project #: 20180302306
+P.O. #: 0068258.001
+ 
+ 
+APPENDIX II 
+ 
+Correspondence with Regulatory Agencies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ministry of the Environment,
+Conservation and Parks
+ 
+Corporate Management Division
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ministère de l'Environnement, de la
+Protection de la nature et des Parcs
+ 
+Division de la gestion ministérielle
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  January 24, 2023
+ 
+Irene Hutchison
+PINCHIN LTD.
+ 
+Dear Irene Hutchison
+RE: Request #: EPI-2023-2000001843
+Requestor provided Client Reference: 321145
+Site address: 6096 Regional 25 Road, Milton
+ 
+This letter confirms that, after conducting a thorough search of its source system
+applications, the ministry was not able to find any records related to your environmental
+property-related information request.
+ 
+If you have any questions regarding the matter, please contact the ministry at
+eproperty@ontario.ca.
+ 
+ 
+Sincerely,
+ 
+Environmental Property Information (EPI) Program
+ 
+ 
+Disclaimer
+ 
+This search result is provided for informational purposes only and is not intended to provide
+specific advice or recommendations. The Ministry of the Environment, Conservation and Parks
+(MECP) cannot and does not guarantee that the information provided is current, accurate,
+complete, or free of errors. Any reliance upon this information is solely at the risk of the user.
+ 
+ 
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ministry of the Environment,
+Conservation and Parks
+ 
+Corporate Management Division
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ministère de l'Environnement, de la
+Protection de la nature et des Parcs
+ 
+Division de la gestion ministérielle
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         Le 24 janvier 2023
+ 
+Irene Hutchison
+PINCHIN LTD.
+ 
+Madame,
+Monsieur, Irene Hutchison
+Objet : No de demande : EPI-2023-2000001843
+Le demandeur a fourni une référence client: 321145
+Adresse du site: 6096 Regional 25 Road, Milton
+ 
+La présente lettre confirme que, après avoir effectué une recherche exhaustive
+dans ces applications de système source, le ministère n’a pu trouver aucun dossier
+concernant à votre demande pour des données environnementales relatives aux biens
+immobiliers.
+ 
+Si vous avez des questions concernant votre demande, nous vous invitons
+à communiquer avec le ministère à l’adresse électronique suivante:
+eproperty@ontario.ca.
+ 
+ 
+Veuillez recevoir mes salutations les plus sincères,
+ 
+Programme d’Information Environnementale de la propriété
+ 
+ 
+Avertissement
+ 
+Ce résultat de recherche est fourni uniquement à titre informatif et n’a aucunement pour but de
+donner des conseils particuliers ou des recommandations. Le ministère de l’Environnement de
+la Protection de la nature et des Parcs (MEPP) ne peut pas garantir que les renseignements
+fournis sont à jour, exacts, complets et exempts d’erreurs. L’utilisateur qui se fie à ces
+renseignements le fait à ses seuls risques.
+ 
+2
+ 
+Page 1 of 3 
+ 
+ 
+29 January 2023 
+ 
+Irene Hutchison 
+PINCHIN LTD. 
+2470 Milltower Court 
+Mississauga  ON  L5N 7W5 
+ 
+Subject: 
+6096 REGIONAL ROAD 25, MILTON ON 
+Your File No.: 
+321145 
+SR No.: 
+3261412 
+ 
+ 
+Dear Madam/Sir: 
+We are in receipt of your correspondence wherein you requested the release of information regarding the 
+above noted address. 
+A search of TSSA public records did not locate any records relating to the following Program(s): 
+Program 
+No Record 
+Fuels Safety 
+☒ 
+Boiler/Pressure Vessel 
+☐ 
+Elevating & Amusement Devices 
+☐ 
+Requested records relating to the following Program(s) were located: 
+Program 
+Record 
+Documents Attached 
+Fuels Safety 
+☐ 
+☐ 
+Boiler/Pressure Vessel** 
+☐ 
+☐ 
+Elevating & Amusement Devices 
+☐ 
+☐ 
+Other 
+☐ 
+☐ 
+**For BPV, if it has been indicated that records have been located but are not attached, it is likely that 
+TSSA may not be the keeper of the records you are looking for, see note below.  
+TSSA does not make any representations or warranties with respect to the accuracy or completeness of 
+any records released.  The requestor assumes all risk in using or relying on the information provided. 
+Should you have any questions, please contact Public Information at publicinformationservices@tssa.org. 
+Yours truly, 
+S. Thompson 
+Sherees Thompson  
+Public Information Services 
+Page 2 of 3 
+Limitations and Notices: 
+TSSA Fuels Safety: 
+If you have environmental concerns regarding this property, you should consider hiring an 
+environmental consultant to conduct an environmental assessment of the property in question. 
+ Sites that have not been licensed since 1987 may not be in TSSA records. 
+ Be advised, TSSA Fuels Safety Division did not register: 
+• 
+private fuel underground/ aboveground storage tanks prior to January of 1990; and 
+•  furnace oil tanks prior to May 1, 2002.  
+ 
+ Fuels Safety Division does not register  
+• 
+private waste oil tanks in apartments, office buildings, residences etc.; and 
+• 
+aboveground gas or diesel tanks. 
+ 
+ The Technical Standards and Safety Act and associated regulations do not require the 
+registration of private fuel outlets, nor does it require that any documentation on these facilities be 
+submitted to or reviewed or approved by TSSA.  As a result, TSSA has limited information on 
+these facilities.  TSSA cautions that any information provided may be inaccurate, incomplete or 
+out of date. 
+TSSA Elevating & Amusement Devices Program Notice: 
+ All orders and/or directions issued by the TSSA Inspector have a compliance date and the owner or 
+designated contractor are required to comply within the specified time limit. Compliance is the 
+responsibility of the owner or operator of the device. 
+ All written declarations of compliance (where eligible) should be sent to TSSA. Once a declaration of 
+compliance has been received, the outstanding order will be resolved. 
+ Each report shows the details and date of the inspection conducted by TSSA at the requested 
+location. 
+ The Ontario Amusement Devices Regulation (O. Reg. 221/01) was adopted in 2001. Since that time, 
+TSSA retains copies of technical dossiers of new amusement devices in Ontario (as per TSSA’s 
+retention policy). However, for rides that existed prior to the adoption of the Regulation, which were 
+subject to a “grandfathering-in” clause, technical dossiers were not required to be filed with the TSSA. 
+However, if the amusement ride remains in operation, as per ASTM requirements, the owner/licensee 
+must possess an operations document for the device in question. 
+Federal Elevators 
+ Please be advised that without the express written consent of the owner, the TSSA does not release 
+any information with respect to federal elevators or federal elevating equipment. The TSSA is a 
+provincial regulator for the province of Ontario and federal elevators do not fall within the scope of 
+TSSA’s provincial mandate and the Technical Standards and Safety Act and associated Regulations. 
+Further, the TSSA’s Access and Privacy Code only applies to information collected, used, or disclosed 
+by the TSSA in the course of TSSA’s administration of the Act. Therefore, information with respect to 
+federal elevators or federal elevator equipment is outside of the administration of the Act, and outside 
+of the scope of the TSSA’s Access and Privacy Codes. 
+Indigenous Lands 
+ 
+Please be advised that the TSSA does not release any information with respect to indigenous lands, 
+which are outside of the TSSA’s mandate, without the express written permission from the Band. The 
+Technical Standards and Safety Act, associated regulations, and TSSA’s Access and Privacy Code 
+does not apply to indigenous lands. 
+Page 3 of 3 
+TSSA Boilers and Pressure Vessels (BPVs) Program Notice: 
+ Be advised, TSSA does not typically periodically inspect BPVs. These inspections are usually 
+performed by insurance companies.  
+ **Inspection reports may not be submitted to TSSA by insurance companies; therefore, while TSSA 
+may have some evidence of a BPV at a location on file, there may be no inspection records pertaining 
+to BPVs located at the address provided. 
+ As of July 1, 2018, BPVs in Ontario may not be operated unless the Director has issued a current 
+certificate of inspection (COI) to the owner or operator.  A COI will be issued to the owner or operator 
+of the BPV by TSSA after TSSA has received a Record of Inspection (ROI) from the insurer/third-party 
+inspector, the associated fees have been paid and the BPV has passed a periodic inspection. 
+ Please note that if the BPV in question is insured, the insurance company may have additional 
+inspection records.  Please contact the insurer directly should you wish to obtain further information. 
+ 		
+			
+	
+
+	
+			
+ 
+	
+		 !	
+
+"		#	$%&''% &(%&''(	
+)*#	$ %+,-.,/01
+2"#34"
+5
+%	
+%
+%	
+67789:;<9=>	@=A	BC8C;DC	=@	EFG89:	H>@=AI;<9=>	
+HDDFCJ	F>JCA	<KC	6::CDD	;>J	EA9L;:M	N=JC	
+OPQRS	UVWXYZ
+6[B\]^\_`aB	HbcaBd6`Habe
+f)ghi
+gj	!#	
+
+#	kkkkkkkkkkkkkkkkkkkkkkkkkkk	
+c=Aa@@9:C^DCa>8M
+lmnopqrstnrpu	wpx
+
+!%
+	j!%
+h%y!#
+z[ {\`6H|_	ac	B\]^\_`	}3	
+		
+	
+	"
+		~
+ E|\6_\	6b_\B	6||	`6`	6EE|						e
+j~
+!"#
+
+
+	
+g
+!#
+	
+
+!#
+	
+
+!"#
+
+#
+h#
+h
+#
+h"h#
+	h#
+2"#
+)*#
+ ¡O¢¡£¤¥¡¦§
+¨©ª«¬­¯ª°±²³´¶··­¬¸¸¹¬­­¬º»¬¸«¼¬½¾½¿Àª±Á«­¬¬«Â
+ÃÄÅÅÆÇ
+ÈÉÊËÉÌÍÅÏÐÄÑÄÃ
+Ä
+ÄÃÒÑ
+ÓÔÉÕÖ×ØÙÊÔÚÖËÛÔÜÉÌÕ
+ÓÙÝÝÙÝÝÉËÞÉ
+ßà
+áÇàÒâÄ
+ÄÏãäãåÅäÑÒÅÏ
+ÙæËçèæÙÝÖÊéØÙÊèæÙÊäèÖê
+ëÊèÙÕÔÊçÝìßèèËÌÌÔÊèÔíÔØÖÌçÝÐîËÔÛïÉÊðÝñòÊÜÙÌÖÊêÔÊçÉÛíÔØÖÌçÝ
+óôõöõ øùúûüýþÿö
+ ýöûüýö ú
+
+
+
+
+ÒÑãÒíÔÞÙÖÊÉÛíÖÉÕÄÇ
+ÓÙÛçÖÊ
+ßà
+ 		
+			
+	
+
+	
+			
+ 
+	
+		 !	
+"#$	% &'()*(+,-
+
+.		$	%&/00& /1&/001	
+2.$34.
+5
+&	
+&
+&	
+67 89:;<=	?<8	89@A9;B	C3	#3	
+				D
+E
+F7B98G;:=H	I<=HJBJ<=;K
+L	
+	
+	M					L				L	&3&	N	
+	D
+	
+				3	.
+	 		
+D	
+	.	
+	
+	3
+&
+33
+	
+
+
+
+O7?99;PQ:RG9=BK
+STVWXYZZ[\]]^]_\Y`Z	^Y	[Z_Zab^Y^Yc	_dZ	eX\Y_^_V	\Y[	]Zaf^`Z	_VgZh	giZ\]Z	`WY_\`_	X]	\_j	gXki^`^YTWab\_^WY]Zaf^`Z]l_]]\mWac	kZTWaZ	
+`WbgiZ_^Yc_d^]	TWabm	 				3			D
+		.
+3		D
+		.
+	4	33	4	
+	33
+	4			
+..&	"					3	noo	qorst	su	uovou	ws	sxu	4
+	"		&3
+yz{|~
+ ¡¢£¤
+¦ §¨©ª«­®¯ª°±©ª°³´µ¶·¸¹ªº»±¼ª±¹½¨©¾»¾±¿¾À¿ªÁ¨ºÂÃÀ¿±¼Ä½Á¨ºÅ¾©±¨½ºªÆÃª¹©¹Ç
+:ÈÈÉÊËÌÍÊÎÏ	ÐÎÑ	8ÒÉÒÌÓÒ	ÎÐ	QÔÕÉÊË	JÏÐÎÑÖÌÍÊÎÏ	
+JÓÓÔÒ×	ÔÏ×ÒÑ	ÍØÒ	:ËËÒÓÓ	ÌÏ×	QÑÊÙÌËÚ	IÎ×Ò	
+ÛÜÝÞß	áâãäåæ
+çèéê	ìíîïðñòóñïôõ	öô÷	øùúúûúûüùý
+þÿ ÿ  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 	
+	
+
+
+	
+
+
+
+
+	 !"#$$%$%&#
+'()*+,-/0-12,34
+56789:5<68=5>9?@>9A@B7>CD
+EFFGF76H9?7I67J<KL7A:IC6:<>
+MNOPQORTUVWXYUZ[\Y]\VO^_Y`OYabU^UcdO[\eOfNVgfUdh[UV`UY`iUV`hUZO[^jQ[N\Yg[^k
+lmnoqrsttuvwmxyz{|}mxv~myvqx
+ouotqxolq
+nmvus|o
+
+¡¢£¤¥¦§¥¨©¦ª«§¡¢§¬¢§­®¡¡«¦§¥¦§¯
+±²²³´²µ¶´·±¸¸¶¹´²º»³¸³µ¼½¾¿³
+À³¸Á´µ¸½¿Â²½´Ã½ÄÃº½´ÃÂ½Å³²Æ±¹²Á¶Äµ²Æ
+ÇÈÉÊ½Ä¿µ´Ë¼µ³ÌÍÄµ¼³
+À¶Ä¶´²¶ÎÏ´²½Äµ¶ÐÑÒÓÔÑ
+ÕÖ×ØÙÚÛÝÚÞÛßàáÛÝâÚÞ
+ãäæçèéêèäëìíæééîïçæëïèðïñðèëñòóôïëëíõöïëìêèò÷éæêôíðëøëìïñöïîîõíîæêëìíé÷èçíññïðùèäëìíæééîïçæëïèðú
+ûïñìèðè÷íõüæêôíðëñýþÿ æõôïðïñë÷æëïèðäííöïîîæééîêäè÷íæçì÷íëò÷ðíõïëíô
+	
+	
+ !"# 
+$%&'())'"(*'())*
++$	%,-./0123.2345,2.6/..78039
+''
+:;;<=>??@ABC=D;==EDABF?GEHCIJ;=?KIBLMNIOGBI<EHCIJ;OGAB;EP
+Q
+RSTUVSRWXYZ[RYVSRY\VX]
+ 
+ 
+APPENDIX III 
+ 
+ERIS Report 
+    Project Property:
+Phase I ESA
+25 Britannia Rd 
+Milton ON L9T 7G3
+    Project No:
+321145
+    Report Type:
+Quote - Custom-Build Your Own Report
+    Order No: 
+23011801076
+    Requested by:
+Pinchin Ltd.
+    Date Completed: 
+January 23, 2023
+2
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+h-Table of Contents
+Notice: IMPORTANT LIMITATIONS and YOUR LIABILITY
+Reliance on information in Report: This report DOES NOT replace a full Phase I Environmental Site Assessment but is solely intended to be used as
+a database review of environmental records.
+License for use of information in Report: No page of this report can be used without this cover page, this notice and the project property identifier.
+The information in Report(s) may not be modified or re-sold.
+Your Liability for misuse: Using this Service and/or its reports in a manner contrary to this Notice or your agreement will be in breach of copyright and
+contract and ERIS may obtain damages for such mis-use, including damages caused to third parties, and gives ERIS the right to terminate your account,
+rescind your license to any previous reports and to bar you from future use of the Service.
+No warranty of Accuracy or Liability for ERIS: The information contained in this report has been produced by ERIS Information Limited Partnership
+("ERIS") using various sources of information, including information provided by Federal and Provincial government departments. The report applies
+only to the address and up to the date specified on the cover of this report, and any alterations or deviation from this description will require a new report.
+This report and the data contained herein does not purport to be and does not constitute a guarantee of the accuracy of the information contained herein
+and does not constitute a legal opinion nor medical advice. Although ERIS has endeavored to present you with information that is accurate, ERIS
+disclaims, any and all liability for any errors, omissions, or inaccuracies in such information and data, whether attributable to inadvertence, negligence or
+otherwise, and for any consequences arising therefrom. Liability on the part of ERIS is limited to the monetary value paid for this report.
+Trademark and Copyright: You may not use the ERIS trademarks or attribute any work to ERIS other than as outlined above. This Service and Report
+(s) are protected by copyright owned by ERIS Information Limited Partnership. Copyright in data used in the Service or Report(s) (the "Data") is owned
+by ERIS or its licensors. The Service, Report(s) and Data may not be copied or reproduced in whole or in any substantial part without prior written
+consent of ERIS.
+Table of Contents
+Table of Contents...........................................................................................2
+Executive Summary........................................................................................3
+       Executive Summary: Report Summary.......................................................................................................................4
+       Executive Summary: Site Report Summary - Project Property...................................................................................6
+       Executive Summary: Site Report Summary - Surrounding Properties........................................................................7
+       Executive Summary: Summary By Data Source.........................................................................................................8
+Map...............................................................................................................10
+Aerial.............................................................................................................11
+Topographic Map..........................................................................................12
+Detail Report.................................................................................................13
+Unplottable Summary...................................................................................16
+Unplottable Report........................................................................................18
+Appendix: Database Descriptions.................................................................29
+Definitions.....................................................................................................38
+3
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+h-Executive Summary
+Property Information:
+Project Property:
+Phase I ESA
+25 Britannia Rd  Milton ON L9T 7G3
+Project No:
+321145
+Order Information:
+Order No:
+23011801076
+Date Requested:
+January 18, 2023
+Requested by:
+Pinchin Ltd.
+Report Type:
+Quote - Custom-Build Your Own Report
+Historical/Products:
+Executive Summary
+4
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+h-Executive Summary: Report Summary
+Database
+ Name
+Searched
+Project 
+Property
+Boundary
+to 0.25km
+Total
+rr-AAGR-aa 
+Abandoned Aggregate Inventory
+N
+  -
+-
+-
+rr-AGR-aa 
+Aggregate Inventory
+N
+  -
+-
+-
+rr-AMIS-aa 
+Abandoned Mine Information System
+N
+  -
+-
+-
+rr-ANDR-aa 
+Anderson's Waste Disposal Sites
+N
+  -
+-
+-
+rr-AST-aa 
+Aboveground Storage Tanks
+N
+  -
+-
+-
+rr-AUWR-aa 
+Automobile Wrecking & Supplies
+N
+  -
+-
+-
+rr-BORE-aa 
+Borehole
+N
+  -
+-
+-
+rr-CA-aa 
+Certificates of Approval
+N
+  -
+-
+-
+rr-CDRY-aa 
+Dry Cleaning Facilities
+N
+  -
+-
+-
+rr-CFOT-aa 
+Commercial Fuel Oil Tanks
+Y
+  0
+0
+0
+rr-CHEM-aa 
+Chemical Manufacturers and Distributors
+N
+  -
+-
+-
+rr-CHM-aa 
+Chemical Register
+N
+  -
+-
+-
+rr-CNG-aa 
+Compressed Natural Gas Stations
+N
+  -
+-
+-
+rr-COAL-aa 
+Inventory of Coal Gasification Plants and Coal Tar 
+Sites
+N
+  -
+-
+-
+rr-CONV-aa 
+Compliance and Convictions
+N
+  -
+-
+-
+rr-CPU-aa 
+Certificates of Property Use
+N
+  -
+-
+-
+rr-DRL-aa 
+Drill Hole Database
+N
+  -
+-
+-
+rr-DTNK-aa 
+Delisted Fuel Tanks
+Y
+  0
+0
+0
+rr-EASR-aa 
+Environmental Activity and Sector Registry
+N
+  -
+-
+-
+rr-EBR-aa 
+Environmental Registry
+N
+  -
+-
+-
+rr-ECA-aa 
+Environmental Compliance Approval
+N
+  -
+-
+-
+rr-EEM-aa 
+Environmental Effects Monitoring
+N
+  -
+-
+-
+rr-EHS-aa 
+ERIS Historical Searches
+N
+  -
+-
+-
+rr-EIIS-aa 
+Environmental Issues Inventory System
+N
+  -
+-
+-
+rr-EMHE-aa 
+Emergency Management Historical Event
+N
+  -
+-
+-
+rr-EPAR-aa 
+Environmental Penalty Annual Report
+N
+  -
+-
+-
+rr-EXP-aa 
+List of Expired Fuels Safety Facilities
+Y
+  0
+0
+0
+rr-FCON-aa 
+Federal Convictions
+N
+  -
+-
+-
+rr-FCS-aa 
+Contaminated Sites on Federal Land
+N
+  -
+-
+-
+rr-FOFT-aa 
+Fisheries & Oceans Fuel Tanks
+N
+  -
+-
+-
+rr-FRST-aa 
+Federal Identification Registry for Storage Tank 
+Systems (FIRSTS)
+N
+  -
+-
+-
+rr-FST-aa 
+Fuel Storage Tank
+Y
+  0
+1
+1
+rr-FSTH-aa 
+Fuel Storage Tank - Historic
+Y
+  0
+2
+2
+rr-GEN-aa 
+Ontario Regulation 347 Waste Generators Summary
+Y
+  0
+1
+1
+rr-GHG-aa 
+Greenhouse Gas Emissions from Large Facilities
+N
+  -
+-
+-
+rr-HINC-aa 
+TSSA Historic Incidents
+Y
+  0
+0
+0
+AAGR
+AGR
+AMIS
+ANDR
+AST
+AUWR
+BORE
+CA
+CDRY
+CFOT
+CHEM
+CHM
+CNG
+COAL
+CONV
+CPU
+DRL
+DTNK
+EASR
+EBR
+ECA
+EEM
+EHS
+EIIS
+EMHE
+EPAR
+EXP
+FCON
+FCS
+FOFT
+FRST
+FST
+FSTH
+GEN
+GHG
+HINC
+Executive Summary: Report Summary
+5
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+Database
+ Name
+Searched
+Project 
+Property
+Boundary
+to 0.25km
+Total
+rr-IAFT-aa 
+Indian & Northern Affairs Fuel Tanks
+N
+  -
+-
+-
+rr-INC-aa 
+Fuel Oil Spills and Leaks
+Y
+  0
+0
+0
+rr-LIMO-aa 
+Landfill Inventory Management Ontario
+N
+  -
+-
+-
+rr-MINE-aa 
+Canadian Mine Locations
+N
+  -
+-
+-
+rr-MNR-aa 
+Mineral Occurrences
+N
+  -
+-
+-
+rr-NATE-aa 
+National Analysis of Trends in Emergencies System 
+(NATES)
+N
+  -
+-
+-
+rr-NCPL-aa 
+Non-Compliance Reports
+N
+  -
+-
+-
+rr-NDFT-aa 
+National Defense & Canadian Forces Fuel Tanks
+N
+  -
+-
+-
+rr-NDSP-aa 
+National Defense & Canadian Forces Spills
+N
+  -
+-
+-
+rr-NDWD-aa 
+National Defence & Canadian Forces Waste Disposal 
+Sites
+N
+  -
+-
+-
+rr-NEBI-aa 
+National Energy Board Pipeline Incidents
+N
+  -
+-
+-
+rr-NEBP-aa 
+National Energy Board Wells
+N
+  -
+-
+-
+rr-NEES-aa 
+National Environmental Emergencies System (NEES)
+N
+  -
+-
+-
+rr-NPCB-aa 
+National PCB Inventory
+N
+  -
+-
+-
+rr-NPRI-aa 
+National Pollutant Release Inventory
+N
+  -
+-
+-
+rr-OGWE-aa 
+Oil and Gas Wells
+N
+  -
+-
+-
+rr-OOGW-aa 
+Ontario Oil and Gas Wells
+N
+  -
+-
+-
+rr-OPCB-aa 
+Inventory of PCB Storage Sites
+Y
+  0
+0
+0
+rr-ORD-aa 
+Orders
+N
+  -
+-
+-
+rr-PAP-aa 
+Canadian Pulp and Paper
+N
+  -
+-
+-
+rr-PCFT-aa 
+Parks Canada Fuel Storage Tanks
+N
+  -
+-
+-
+rr-PES-aa 
+Pesticide Register
+N
+  -
+-
+-
+rr-PINC-aa 
+Pipeline Incidents
+Y
+  0
+0
+0
+rr-PRT-aa 
+Private and Retail Fuel Storage Tanks
+Y
+  0
+1
+1
+rr-PTTW-aa 
+Permit to Take Water
+N
+  -
+-
+-
+rr-REC-aa 
+Ontario Regulation 347 Waste Receivers Summary
+N
+  -
+-
+-
+rr-RSC-aa 
+Record of Site Condition
+N
+  -
+-
+-
+rr-RST-aa 
+Retail Fuel Storage Tanks
+Y
+  0
+0
+0
+rr-SCT-aa 
+Scott's Manufacturing Directory
+N
+  -
+-
+-
+rr-SPL-aa 
+Ontario Spills
+Y
+  0
+1
+1
+rr-SRDS-aa 
+Wastewater Discharger Registration Database
+N
+  -
+-
+-
+rr-TANK-aa 
+Anderson's Storage Tanks
+Y
+  0
+0
+0
+rr-TCFT-aa 
+Transport Canada Fuel Storage Tanks
+N
+  -
+-
+-
+rr-VAR-aa 
+Variances for Abandonment of Underground Storage 
+Tanks
+Y
+  0
+0
+0
+rr-WDS-aa 
+Waste Disposal Sites - MOE CA Inventory
+Y
+  0
+0
+0
+rr-WDSH-aa 
+Waste Disposal Sites - MOE 1991 Historical Approval 
+Inventory
+Y
+  0
+0
+0
+rr-WWIS-aa 
+Water Well Information System
+N
+  -
+-
+-
+Total:
+  0
+6
+6
+IAFT
+INC
+LIMO
+MINE
+MNR
+NATE
+NCPL
+NDFT
+NDSP
+NDWD
+NEBI
+NEBP
+NEES
+NPCB
+NPRI
+OGWE
+OOGW
+OPCB
+ORD
+PAP
+PCFT
+PES
+PINC
+PRT
+PTTW
+REC
+RSC
+RST
+SCT
+SPL
+SRDS
+TANK
+TCFT
+VAR
+WDS
+WDSH
+WWIS
+6
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+h-Executive Summary: Site Report Summary - Project Property
+Map
+Key
+DB
+ Company/Site Name 
+Address
+Dir/Dist (m)
+ Elev diff 
+(m)
+Page 
+Number
+No records found in the selected databases for the project property.
+Executive Summary: Site Report Summary - Project Property
+7
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+h-Executive Summary: Site Report Summary - Surrounding Properties
+Map
+Key 
+DB
+Company/Site Name
+ Address 
+Dir/Dist (m)
+ Elev Diff 
+(m) 
+Page 
+Number
+m1d
+dd-SPL-803092360-aa
+East of Hwy 25, Britannia 
+Rd<UNOFFICIAL> 
+Milton ON 
+ESE/40.8
+1.22
+p-13-803092360-x 
+m2d
+dd-PRT-193652-aa
+DOLBY AND FEW HAULAGE 
+LTD ATTN CHARLES FEW
+6009 HWY 25 
+MILT ON L9T 2X5
+ESE/65.4
+1.22
+p-13-193652-x 
+m2d
+dd-FSTH-802688088-aa
+DOLBY AND FEW HAULAGE 
+LTD ATTN CHARLES FEW
+6009 HWY 25 
+MILTON ON 
+ESE/65.4
+1.22
+p-13-802688088-x 
+m2d
+dd-FSTH-803316314-aa
+DOLBY AND FEW HAULAGE 
+LTD ATTN CHARLES FEW
+6009 HWY 25 
+MILTON ON 
+ESE/65.4
+1.22
+p-14-803316314-x 
+m2d
+dd-FST-813088970-aa
+DOLBY AND FEW HAULAGE 
+LTD ATTN CHARLES FEW
+6009 HWY 25 MILTON L9E 0L1 ON CA 
+ ON 
+ESE/65.4
+1.22
+p-14-813088970-x 
+m3d
+dd-GEN-870890423-aa
+Bot Engineering & Construction 
+Ltd
+8066 Britannia Road East 
+Milton ON L9T 7E6
+ESE/89.3
+1.22
+p-14-870890423-x 
+13
+13
+13
+14
+14
+14
+1
+2
+2
+2
+2
+3
+SPL
+PRT
+FSTH
+FSTH
+FST
+GEN
+Executive Summary: Site Report Summary - Surrounding Properties
+8
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+h-Executive Summary: Summary By Data Source 
+FST - Fuel Storage Tank
+A search of the FST database, dated Feb 28, 2022 has found that there are 1 FST site(s) within approximately 0.25 kilometers of the 
+project property. 
+Site
+Address
+Distance (m)
+Map Key
+DOLBY AND FEW HAULAGE LTD 
+ATTN CHARLES FEW 
+6009 HWY 25 MILTON L9E 0L1 ON CA 
+ ON   
+65.4
+m-2-813088970-a 
+FSTH - Fuel Storage Tank - Historic
+A search of the FSTH database, dated Pre-Jan 2010* has found that there are 2 FSTH site(s) within approximately 0.25 kilometers of 
+the project property. 
+Site
+Address
+Distance (m)
+Map Key
+DOLBY AND FEW HAULAGE LTD 
+ATTN CHARLES FEW 
+6009 HWY 25 
+MILTON ON   
+65.4
+m-2-802688088-a 
+DOLBY AND FEW HAULAGE LTD 
+ATTN CHARLES FEW 
+6009 HWY 25 
+MILTON ON   
+65.4
+m-2-803316314-a 
+GEN - Ontario Regulation 347 Waste Generators Summary
+A search of the GEN database, dated 1986-Oct 31, 2022 has found that there are 1 GEN site(s) within approximately 0.25 kilometers of
+the project property. 
+Site
+Address
+Distance (m)
+Map Key
+Bot Engineering & Construction Ltd 
+8066 Britannia Road East 
+Milton ON L9T 7E6  
+89.3
+m-3-870890423-a 
+PRT - Private and Retail Fuel Storage Tanks
+A search of the PRT database, dated 1989-1996* has found that there are 1 PRT site(s) within approximately 0.25 kilometers of the 
+project property. 
+2
+2
+2
+3
+Executive Summary: Summary By Data Source
+9
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+Site
+Address
+Distance (m)
+Map Key
+DOLBY AND FEW HAULAGE LTD 
+ATTN CHARLES FEW 
+6009 HWY 25 
+MILT ON L9T 2X5  
+65.4
+m-2-193652-a 
+SPL - Ontario Spills
+A search of the SPL database, dated 1988-Sep 2020; Dec 2020-Mar 2021 has found that there are 1 SPL site(s) within approximately 
+0.25 kilometers of the project property. 
+Site
+Address
+Distance (m)
+Map Key
+ 
+East of Hwy 25, Britannia Rd<UNOFFICIAL> 
+Milton ON   
+40.8
+m-1-803092360-a 
+2
+1
+#*
+#*
+#*
+Boyne
+Boyne
+HWY-25
+Britannia Rd W
+Etheridge Ave
+Whitlock Ave
+Hamman Way
+Leger Way
+Rose Way
+Parent Pl
+Da
+y
+Te
+r
+Farmstead Dr
+Orr Ter
+Wh
+itn
+e
+y
+T
+er
+Fir Ct
+Eves Gate
+Reis Pl
+Clarkson Gate
+Grey Lndg
+Clitherow St
+Clarriage Ct
+Belmore Ct
+Chee Chee Lndg
+Be
+a
+m
+Ct
+Good
+i
+n
+g
+Cres
+Casson Pt
+Emmett Lndg
+McPhe
+dran Pt
+English Mill Ct
+Rae Cre
+s
+Bowell
+Cres
+Argall
+Ct
+Bu
+ckeye Ct
+C
+o
+n
+nau
+g
+ht Ter
+Etheridge Ave
+Farm
+st
+e
+a
+d
+D
+r
+S
+i
+xt
+e
+e
+n M
+i
+le Creek
+RR-25
+RR-6
+RR-6
+ÄÄ
+25
+79°50'W
+79°50'30"W
+43°29'30"N
+43°29'30"N
+43°29'N
+43°29'N
+220
+0
+220
+110
+m
+Order Number: 23011801076
+Map: 0.25 Kilometer Radius
+1:7705
+Address: 25 Britannia Rd, Milton, ON
+Source:  © 2021 ESRI StreetMap Premium.
+ 
+© ERIS Information Limited Partnership
+Project Property
+Buffer Outline
+#*
+Eris Sites with Higher Elevation
+")
+Eris Sites with Same Elevation
+#*
+Eris Sites with Lower Elevation
+(
+Eris Sites with Unknown Elevation
+Freeways; Highways
+Traffic Circle; Ramp
+Major Arterial; Minor Arterial
+Local Road
+Service Road; Traffic Circle; Ramp
+Rail
+Beach
+Airport
+Military Base
+Aircraft Roads
+Hospital
+University/College
+Cemetery; Golf Course
+Park (City/County)
+Industrial Area
+Shopping & Sports Area
+Parkt (National)
+Native Reservation
+3
+1
+2 (4)
+Source: Esri, Maxar, Earthstar Geographics, and the GIS User Community
+250
+0
+250
+125
+m
+Order Number: 23011801076
+Aerial
+1:10000
+Address: 25 Britannia Rd, Milton, ON
+© ERIS Information Limited Partnership
+Source: ESRI World Imagery
+Year: 2021
+Sources: Esri, HERE, Garmin, Intermap, increment P Corp., GEBCO, USGS,
+FAO, NPS, NRCAN, GeoBase, IGN, Kadaster NL, Ordnance Survey, Esri
+Japan, METI, Esri China (Hong Kong), (c) OpenStreetMap contributors, and
+the GIS User Community
+79°49'30"W
+79°51'W
+43°30'N
+43°30'N
+43°28'30"N
+43°28'30"N
+610
+0
+610
+305
+m
+Order Number: 23011801076
+Topographic Map
+1:24000
+Address: 25 Britannia Rd, ON
+© ERIS Information Limited Partnership
+Source: ESRI World Topographic Map
+13
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+h-Detail Report
+ Map Key
+Number of 
+Records
+Direction/
+Distance (m)
+ Elev/Diff
+ (m)
+ Site
+DB
+m-1-803092360-b 
+1 of 1
+ESE/40.8
+185.8 / 1.22
+East of Hwy 25, Britannia Rd<UNOFFICIAL> 
+Milton ON 
+dd-SPL-803092360-bb
+p-803092360-y 
+Ref No: 
+8573-77ZNTY
+Discharger Report:
+Site No: 
+Material Group:
+Waste
+Incident Dt: 
+Health/Env Conseq:
+Year: 
+Client Type:
+Incident Cause: 
+Other Discharges
+Sector Type:
+Manure/Nutrient hauling Equipment
+Incident Event: 
+Agency Involved:
+Contaminant Code: 
+45
+Nearest Watercourse:
+Contaminant Name: 
+BIO-SOLIDS (N.O.S.)
+Site Address:
+Contaminant Limit 1: 
+Site District Office:
+Contam Limit Freq 1: 
+Site Postal Code:
+Contaminant UN No 1:
+Site Region:
+Environment Impact: 
+Confirmed
+Site Municipality:
+Milton
+Nature of Impact: 
+Other Impact(s)
+Site Lot:
+Receiving Medium: 
+Land
+Site Conc:
+Receiving Env: 
+Northing:
+MOE Response: 
+No Field Response
+Easting:
+Dt MOE Arvl on Scn: 
+Site Geo Ref Accu:
+MOE Reported Dt: 
+10/15/2007
+Site Map Datum:
+Dt Document Closed: 
+11/21/2007
+SAC Action Class:
+Incident Reason: 
+Equipment Failure
+Source Type:
+Site Name:
+East of Hwy 25, Britannia Rd<UNOFFICIAL>
+Site County/District:
+Site Geo Ref Meth:
+Incident Summary:
+Britannia Rd - 15 L biosolids to road
+Contaminant Qty:
+15 L
+ 
+m-2-193652-b 
+1 of 4
+ESE/65.4
+185.8 / 1.22
+DOLBY AND FEW HAULAGE LTD ATTN 
+CHARLES FEW
+6009 HWY 25 
+MILT ON L9T 2X5
+dd-PRT-193652-bb
+p-193652-y 
+Location ID:
+19924
+Type:
+private
+Expiry Date:
+Capacity (L):
+9092.00
+Licence #:
+0076358258
+ 
+m-2-802688088-b 
+2 of 4
+ESE/65.4
+185.8 / 1.22
+DOLBY AND FEW HAULAGE LTD ATTN 
+CHARLES FEW
+6009 HWY 25 
+MILTON ON 
+dd-FSTH-802688088-bb
+p-802688088-y 
+License Issue Date:
+2/27/1992
+Tank Status:
+Licensed
+Tank Status As Of:
+August 2007
+Operation Type:
+Private Fuel Outlet
+Facility Type:
+Gasoline Station - Self Serve
+ 
+--Details--
+1
+2
+2
+SPL
+PRT
+FSTH
+Detail Report
+14
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+ Map Key
+Number of 
+Records
+Direction/
+Distance (m)
+ Elev/Diff
+ (m)
+ Site
+DB
+Status:
+Active
+Year of Installation:
+1979
+Corrosion Protection:
+Capacity:
+9092
+Tank Fuel Type:
+Liquid Fuel Single Wall UST - Diesel
+ 
+m-2-803316314-b 
+3 of 4
+ESE/65.4
+185.8 / 1.22
+DOLBY AND FEW HAULAGE LTD ATTN 
+CHARLES FEW
+6009 HWY 25 
+MILTON ON 
+dd-FSTH-803316314-bb
+p-803316314-y 
+License Issue Date:
+2/27/1992
+Tank Status:
+Licensed
+Tank Status As Of:
+December 2008
+Operation Type:
+Private Fuel Outlet
+Facility Type:
+Gasoline Station - Self Serve
+ 
+--Details--
+Status:
+Active
+Year of Installation:
+1979
+Corrosion Protection:
+Capacity:
+9092
+Tank Fuel Type:
+Liquid Fuel Single Wall UST - Diesel
+ 
+m-2-813088970-b 
+4 of 4
+ESE/65.4
+185.8 / 1.22
+DOLBY AND FEW HAULAGE LTD ATTN 
+CHARLES FEW
+6009 HWY 25 MILTON L9E 0L1 ON CA 
+ ON 
+dd-FST-813088970-bb
+p-813088970-y 
+Instance No: 
+11110582
+Manufacturer:
+Status: 
+Serial No:
+Cont Name: 
+Ulc Standard:
+Instance Type: 
+FS Liquid Fuel Tank
+Quantity:
+Item: 
+Unit of Measure:
+Item Description: 
+FS Liquid Fuel Tank
+Fuel Type:
+Diesel
+Tank Type: 
+Single Wall UST
+Fuel Type2:
+NULL
+Install Date: 
+10/2/1989
+Fuel Type3:
+NULL
+Install Year: 
+1979
+Piping Steel:
+Years in Service: 
+Piping Galvanized:
+Model: 
+NULL
+Tanks Single Wall St:
+Description: 
+Piping Underground:
+Capacity: 
+9092
+No Underground:
+Tank Material: 
+Steel
+Panam Related:
+Corrosion Protect: 
+Impressed Current
+Panam Venue:
+Overfill Protect: 
+Facility Type:
+FS Liquid Fuel Tank
+Parent Facility Type:
+Fuels Safety Private Fuel Outlet - Self Serve
+Facility Location:
+Device Installed Location:
+6009 HWY 25 MILTON L9E 0L1 ON CA
+ 
+Liquid Fuel Tank Details
+ 
+Overfill Protection: 
+Owner Account Name:
+DOLBY AND FEW HAULAGE LTD ATTN CHARLES FEW
+Item:
+FS LIQUID FUEL TANK
+m-3-870890423-b 
+1 of 1
+ESE/89.3
+185.8 / 1.22
+Bot Engineering & Construction Ltd
+8066 Britannia Road East 
+Milton ON L9T 7E6
+dd-GEN-870890423-bb
+p-870890423-y 
+2
+2
+3
+FSTH
+FST
+GEN
+15
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+ Map Key
+Number of 
+Records
+Direction/
+Distance (m)
+ Elev/Diff
+ (m)
+ Site
+DB
+Generator No:
+ON4410079
+SIC Code:
+SIC Description:
+Approval Years:
+As of Dec 2018
+PO Box No:
+Country:
+Canada
+Status:
+Registered
+Co Admin:
+Choice of Contact:
+Phone No Admin:
+Contaminated Facility:
+MHSW Facility:
+ 
+Detail(s)
+ 
+Waste Class:
+252 L
+Waste Class Name:
+Waste crankcase oils and lubricants
+16
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+h-Unplottable Summary
+Total:  27  Unplottable sites
+DB
+Company Name/Site Name        
+Address
+City
+Postal
+uu-DTNK-821956344-aa 
+CATION EXCAVATING LTD
+LOT 5 CON 2 MILTON L9T 2X7 ON CA 
+ ON
+uu-DTNK-821956343-aa 
+CATION EXCAVATING LTD
+LOT 5 CON 2 MILTON L9T 2X7 ON CA 
+ ON
+uu-DTNK-804022267-aa 
+CATION EXCAVATING LTD
+LOT 5 CON 2 
+MILTON ON
+uu-DTNK-804022707-aa 
+CATION EXCAVATING LTD
+LOT 5 CON 2 
+MILTON ON
+uu-DTNK-803982806-aa 
+CATION EXCAVATING LTD
+LOT 5 CON 2 
+MILTON ON
+uu-FST-884546528-aa 
+CATION EXCAVATING LTD
+LOT 5 CON 2 MILTON L9T 2X7 ON CA 
+ ON
+uu-FST-884536029-aa 
+CATION EXCAVATING LTD
+LOT 5 CON 2 MILTON L9T 2X7 ON CA 
+ ON
+uu-GEN-804071546-aa 
+MILTON AUTO WRECKERS 
+LIMITED
+R.R. #6 
+MILTON ON
+uu-GEN-808965606-aa 
+MILTON AUTO WRECKERS 
+LIMITED
+R.R. #6 
+MILTON ON
+uu-GEN-800853161-aa 
+FRANKEL STEEL LTD.
+ RR #3, HWY. 25 NORTH
+MILTON ON
+L9T 2X7
+uu-GEN-800853162-aa 
+MARSHALL STEEL LIMITED
+RR #3, HWY. 25 NORTH C/O P.O. BOX 1014
+MILTON ON
+L9T 4B6
+uu-GEN-800853164-aa 
+MARSHALL STEEL LIMITED 15-
+053
+RR #3, HWY. 25 NORTH C/O P.O. BOX 1014
+MILTON ON
+L9T 4B6
+uu-GEN-800939381-aa 
+MILTON AUTO WRECKERS 
+LIMITED
+R.R. #6 
+MILTON ON
+L9T 2Y1
+uu-GEN-801803786-aa 
+John Tarnawsky Farm
+R. R, #3 Hwy # 25 North of 401 
+Milton ON
+L9T 2X5
+uu-GEN-814156185-aa 
+MILTON AUTO WRECKERS 
+LIMITED
+R.R. #6 
+MILTON ON
+L9T 2Y1
+uu-GEN-808996650-aa 
+MILTON AUTO WRECKERS 
+LIMITED
+R.R. #6 
+MILTON ON
+uu-PRT-193649-aa 
+M DURANTE ENTERPRISES 
+LTD
+HWY 25   1 KM NORTH OF 401 
+MILTON ON
+DTNK
+DTNK
+DTNK
+DTNK
+DTNK
+FST
+FST
+GEN
+GEN
+GEN
+GEN
+GEN
+GEN
+GEN
+GEN
+GEN
+PRT
+Unplottable Summary
+17
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+uu-PRT-193648-aa 
+M DURANTE ENTERPRISES 
+LTD
+HWY 25   1 KM NORTH OF 401 
+MILTON ON
+uu-PRT-206155-aa 
+CATION EXCAVATING LTD
+LOT 5 CON 2 
+MILTON ON
+uu-PRT-212556-aa 
+999870 ONTARIO LIMITED 
+RAYS TEXACO SERVICE
+HWY 25 
+MILTON ON
+uu-RST-800368279-aa 
+DURANTE AUTO SERVICE & 
+TOWING INC
+REGIONAL ROAD 25 
+MILTON ON
+L2T 2X7
+uu-SPL-804330914-aa 
+adjacent to Hwy. 25, 500 metres south of Brittania
+Rd. 
+Milton ON
+uu-SPL-152068-aa 
+PHILIP ENTERPRISES
+HWY 25 AT THE ESCARPMENT HAMILTON 
+WASTE DISPOSAL SITE.
+MILTON TOWN ON
+uu-SPL-317658-aa 
+UNKNOWN
+BELL CANADA MANHOLE ON HWY 25, 100 
+YARDS N OF JAMES SNOW PKWY. WEST 
+SIDE. 
+MILTON TOWN ON
+uu-SPL-803074374-aa 
+Buff-Mar Cartage Limited
+Eastbound lane, 4km east of hwy 6 
+Milton ON
+uu-SPL-803085041-aa 
+Hwy 25, north of 5th sideroad 2017369 ONTARIO
+INC<UNOFFICIAL>
+Milton ON
+uu-SPL-803092768-aa 
+Highpoint Plaza and Highway 25 
+North<UNOFFICIAL> 
+Milton ON
+PRT
+PRT
+PRT
+RST
+SPL
+SPL
+SPL
+SPL
+SPL
+SPL
+18
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+h-Unplottable Report
+Site:
+CATION EXCAVATING LTD 
+LOT 5 CON 2 MILTON L9T 2X7 ON CA    ON 
+Database:
+uu-DTNK-821956344-bb
+ 
+Delisted Expired Fuel Safety 
+Facilities
+ 
+Instance No: 
+10849880
+Expired Date:
+Status: 
+EXPIRED
+Max Hazard Rank:
+NULL
+Instance ID: 
+Facility Location:
+LOT 5 CON 2 MILTON L9T 2X7 ON CA
+Instance Type: 
+Facility Type:
+FS LIQUID FUEL TANK
+Instance Creation Dt: 
+1/4/1990
+Fuel Type 2:
+NULL
+Instance Install Dt: 
+1/4/1990
+Fuel Type 3:
+NULL
+Item Description: 
+FS Liquid Fuel Tank
+Panam Related:
+NULL
+Manufacturer: 
+NULL
+Panam Venue Nm:
+NULL
+Model: 
+NULL
+External Identifier:
+NULL
+Serial No: 
+NULL
+Item:
+ULC Standard: 
+NULL
+Piping Steel:
+Quantity: 
+1
+Piping Galvanized:
+Unit of Measure: 
+EA
+Tank Single Wall St:
+Overfill Prot Type: 
+NULL
+Piping Underground:
+Creation Date: 
+7/5/2009 1:21:34 AM
+Tank Underground:
+Next Periodic Str DT: 
+NULL
+Source:
+FS Liquid Fuel Tank
+TSSA Base Sched Cycle 2:
+NULL
+TSSAMax Hazard Rank 1:
+NULL
+TSSA Risk Based Periodic Yn:
+NULL
+TSSA Volume of Directives:
+NULL
+TSSA Periodic Exempt:
+NULL
+TSSA Statutory Interval:
+NULL
+TSSA Recd Insp Interva:
+NULL
+TSSA Recd Tolerance:
+NULL
+TSSA Program Area:
+NULL
+TSSA Program Area 2:
+NULL
+Description:
+UNDERGROUND TANK
+Original Source:
+EXP
+Record Date:
+31-JUL-2020
+Site:
+CATION EXCAVATING LTD 
+LOT 5 CON 2 MILTON L9T 2X7 ON CA    ON 
+Database:
+uu-DTNK-821956343-bb
+ 
+Delisted Expired Fuel Safety 
+Facilities
+ 
+Instance No: 
+10849898
+Expired Date:
+Status: 
+EXPIRED
+Max Hazard Rank:
+NULL
+Instance ID: 
+Facility Location:
+LOT 5 CON 2 MILTON L9T 2X7 ON CA
+Instance Type: 
+Facility Type:
+FS LIQUID FUEL TANK
+Instance Creation Dt: 
+1/4/1990
+Fuel Type 2:
+NULL
+Instance Install Dt: 
+1/4/1990
+Fuel Type 3:
+NULL
+Item Description: 
+FS Liquid Fuel Tank
+Panam Related:
+NULL
+Manufacturer: 
+NULL
+Panam Venue Nm:
+NULL
+Model: 
+NULL
+External Identifier:
+NULL
+Serial No: 
+NULL
+Item:
+ULC Standard: 
+NULL
+Piping Steel:
+Quantity: 
+1
+Piping Galvanized:
+Unit of Measure: 
+EA
+Tank Single Wall St:
+DTNK
+DTNK
+Unplottable Report
+19
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+Overfill Prot Type: 
+NULL
+Piping Underground:
+Creation Date: 
+7/5/2009 1:21:33 AM
+Tank Underground:
+Next Periodic Str DT: 
+NULL
+Source:
+FS Liquid Fuel Tank
+TSSA Base Sched Cycle 2:
+NULL
+TSSAMax Hazard Rank 1:
+NULL
+TSSA Risk Based Periodic Yn:
+NULL
+TSSA Volume of Directives:
+NULL
+TSSA Periodic Exempt:
+NULL
+TSSA Statutory Interval:
+NULL
+TSSA Recd Insp Interva:
+NULL
+TSSA Recd Tolerance:
+NULL
+TSSA Program Area:
+NULL
+TSSA Program Area 2:
+NULL
+Description:
+UNDERGROUND TANK
+Original Source:
+EXP
+Record Date:
+31-JUL-2020
+Site:
+CATION EXCAVATING LTD 
+LOT 5 CON 2   MILTON ON 
+Database:
+uu-DTNK-804022267-bb
+ 
+Delisted Expired Fuel Safety 
+Facilities
+ 
+Instance No: 
+10849905
+Expired Date:
+Status: 
+EXPIRED
+Max Hazard Rank:
+Instance ID: 
+45940
+Facility Location:
+Instance Type: 
+FS Piping
+Facility Type:
+Instance Creation Dt: 
+Fuel Type 2:
+Instance Install Dt: 
+Fuel Type 3:
+Item Description: 
+Panam Related:
+Manufacturer: 
+Panam Venue Nm:
+Model: 
+External Identifier:
+Serial No: 
+Item:
+ULC Standard: 
+Piping Steel:
+Quantity: 
+Piping Galvanized:
+Unit of Measure: 
+Tank Single Wall St:
+Overfill Prot Type: 
+Piping Underground:
+Creation Date: 
+Tank Underground:
+Next Periodic Str DT: 
+Source:
+TSSA Base Sched Cycle 2:
+TSSAMax Hazard Rank 1:
+TSSA Risk Based Periodic Yn:
+TSSA Volume of Directives:
+TSSA Periodic Exempt:
+TSSA Statutory Interval:
+TSSA Recd Insp Interva:
+TSSA Recd Tolerance:
+TSSA Program Area:
+TSSA Program Area 2:
+Description:
+FS Piping
+Original Source:
+EXP
+Record Date:
+Up to Mar 2012
+Site:
+CATION EXCAVATING LTD 
+LOT 5 CON 2   MILTON ON 
+Database:
+uu-DTNK-804022707-bb
+ 
+Delisted Expired Fuel Safety 
+Facilities
+ 
+Instance No: 
+10849889
+Expired Date:
+Status: 
+EXPIRED
+Max Hazard Rank:
+Instance ID: 
+46005
+Facility Location:
+Instance Type: 
+FS Piping
+Facility Type:
+Instance Creation Dt: 
+Fuel Type 2:
+DTNK
+DTNK
+20
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+Instance Install Dt: 
+Fuel Type 3:
+Item Description: 
+Panam Related:
+Manufacturer: 
+Panam Venue Nm:
+Model: 
+External Identifier:
+Serial No: 
+Item:
+ULC Standard: 
+Piping Steel:
+Quantity: 
+Piping Galvanized:
+Unit of Measure: 
+Tank Single Wall St:
+Overfill Prot Type: 
+Piping Underground:
+Creation Date: 
+Tank Underground:
+Next Periodic Str DT: 
+Source:
+TSSA Base Sched Cycle 2:
+TSSAMax Hazard Rank 1:
+TSSA Risk Based Periodic Yn:
+TSSA Volume of Directives:
+TSSA Periodic Exempt:
+TSSA Statutory Interval:
+TSSA Recd Insp Interva:
+TSSA Recd Tolerance:
+TSSA Program Area:
+TSSA Program Area 2:
+Description:
+FS Piping
+Original Source:
+EXP
+Record Date:
+Up to Mar 2012
+Site:
+CATION EXCAVATING LTD 
+LOT 5 CON 2   MILTON ON 
+Database:
+uu-DTNK-803982806-bb
+ 
+Delisted Expired Fuel Safety 
+Facilities
+ 
+Instance No: 
+9231858
+Expired Date:
+Status: 
+EXPIRED
+Max Hazard Rank:
+Instance ID: 
+379555
+Facility Location:
+Instance Type: 
+FS Facility
+Facility Type:
+Instance Creation Dt: 
+Fuel Type 2:
+Instance Install Dt: 
+Fuel Type 3:
+Item Description: 
+Panam Related:
+Manufacturer: 
+Panam Venue Nm:
+Model: 
+External Identifier:
+Serial No: 
+Item:
+ULC Standard: 
+Piping Steel:
+Quantity: 
+Piping Galvanized:
+Unit of Measure: 
+Tank Single Wall St:
+Overfill Prot Type: 
+Piping Underground:
+Creation Date: 
+Tank Underground:
+Next Periodic Str DT: 
+Source:
+TSSA Base Sched Cycle 2:
+TSSAMax Hazard Rank 1:
+TSSA Risk Based Periodic Yn:
+TSSA Volume of Directives:
+TSSA Periodic Exempt:
+TSSA Statutory Interval:
+TSSA Recd Insp Interva:
+TSSA Recd Tolerance:
+TSSA Program Area:
+TSSA Program Area 2:
+Description:
+Fuels Safety Private Fuel Outlet - Self Serve
+Original Source:
+EXP
+Record Date:
+Up to Mar 2012
+Site:
+CATION EXCAVATING LTD 
+LOT 5 CON 2 MILTON L9T 2X7 ON CA    ON 
+Database:
+uu-FST-884546528-bb
+Instance No: 
+10849898
+Manufacturer:
+Status: 
+Serial No:
+DTNK
+FST
+21
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+Cont Name: 
+Ulc Standard:
+Instance Type: 
+Quantity:
+Item: 
+Unit of Measure:
+Item Description: 
+FS Liquid Fuel Tank
+Fuel Type:
+Diesel
+Tank Type: 
+Liquid Fuel Single Wall UST
+Fuel Type2:
+NULL
+Install Date: 
+1/4/1990
+Fuel Type3:
+NULL
+Install Year: 
+1979
+Piping Steel:
+Years in Service: 
+Piping Galvanized:
+Model: 
+NULL
+Tanks Single Wall St:
+Description: 
+Piping Underground:
+Capacity: 
+2273
+No Underground:
+Tank Material: 
+Steel
+Panam Related:
+Corrosion Protect: 
+Coating
+Panam Venue:
+Overfill Protect: 
+Facility Type:
+FS Liquid Fuel Tank
+Parent Facility Type:
+Facility Location:
+Device Installed Location:
+LOT 5 CON 2 MILTON L9T 2X7 ON CA
+ 
+Liquid Fuel Tank Details
+ 
+Overfill Protection: 
+Owner Account Name:
+CATION EXCAVATING LTD
+Item:
+FS LIQUID FUEL TANK
+Site:
+CATION EXCAVATING LTD 
+LOT 5 CON 2 MILTON L9T 2X7 ON CA    ON 
+Database:
+uu-FST-884536029-bb
+Instance No: 
+10849880
+Manufacturer:
+Status: 
+Serial No:
+Cont Name: 
+Ulc Standard:
+Instance Type: 
+Quantity:
+Item: 
+Unit of Measure:
+Item Description: 
+FS Liquid Fuel Tank
+Fuel Type:
+Diesel
+Tank Type: 
+Liquid Fuel Single Wall UST
+Fuel Type2:
+NULL
+Install Date: 
+1/4/1990
+Fuel Type3:
+NULL
+Install Year: 
+1981
+Piping Steel:
+Years in Service: 
+Piping Galvanized:
+Model: 
+NULL
+Tanks Single Wall St:
+Description: 
+Piping Underground:
+Capacity: 
+2273
+No Underground:
+Tank Material: 
+Steel
+Panam Related:
+Corrosion Protect: 
+Coating
+Panam Venue:
+Overfill Protect: 
+Facility Type:
+FS Liquid Fuel Tank
+Parent Facility Type:
+Facility Location:
+Device Installed Location:
+LOT 5 CON 2 MILTON L9T 2X7 ON CA
+ 
+Liquid Fuel Tank Details
+ 
+Overfill Protection: 
+Owner Account Name:
+CATION EXCAVATING LTD
+Item:
+FS LIQUID FUEL TANK
+Site:
+MILTON AUTO WRECKERS LIMITED 
+R.R. #6   MILTON ON 
+Database:
+uu-GEN-804071546-bb
+Generator No:
+ON2224400
+SIC Code:
+415310
+SIC Description:
+Used Motor Vehicle Parts and Accessories Wholesaler-Distributors
+Approval Years:
+2009
+PO Box No:
+Country:
+Status:
+Co Admin:
+FST
+GEN
+22
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+Choice of Contact:
+Phone No Admin:
+Contaminated Facility:
+MHSW Facility:
+ 
+Detail(s)
+ 
+Waste Class:
+252
+Waste Class Name:
+WASTE OILS & LUBRICANTS
+Site:
+MILTON AUTO WRECKERS LIMITED 
+R.R. #6   MILTON ON 
+Database:
+uu-GEN-808965606-bb
+Generator No:
+ON2224400
+SIC Code:
+415310
+SIC Description:
+Used Motor Vehicle Parts and Accessories Wholesaler-Distributors
+Approval Years:
+2010
+PO Box No:
+Country:
+Status:
+Co Admin:
+Choice of Contact:
+Phone No Admin:
+Contaminated Facility:
+MHSW Facility:
+ 
+Detail(s)
+ 
+Waste Class:
+252
+Waste Class Name:
+WASTE OILS & LUBRICANTS
+Site:
+FRANKEL STEEL LTD. 
+ RR #3, HWY. 25 NORTH  MILTON ON L9T 2X7
+Database:
+uu-GEN-800853161-bb
+Generator No:
+ON0354500
+SIC Code:
+3029
+SIC Description:
+OTHER FAB. STRUCTURES
+Approval Years:
+86,87
+PO Box No:
+Country:
+Status:
+Co Admin:
+Choice of Contact:
+Phone No Admin:
+Contaminated Facility:
+MHSW Facility:
+ 
+Detail(s)
+ 
+Waste Class:
+213
+Waste Class Name:
+PETROLEUM DISTILLATES
+ 
+Waste Class:
+252
+Waste Class Name:
+WASTE OILS & LUBRICANTS
+Site:
+MARSHALL STEEL LIMITED 
+RR #3, HWY. 25 NORTH C/O P.O. BOX 1014  MILTON ON L9T 4B6
+Database:
+uu-GEN-800853162-bb
+Generator No:
+ON0354500
+SIC Code:
+3029
+SIC Description:
+OTHER FAB. STRUCTURE
+Approval Years:
+88,89,90
+PO Box No:
+Country:
+GEN
+GEN
+GEN
+23
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+Status:
+Co Admin:
+Choice of Contact:
+Phone No Admin:
+Contaminated Facility:
+MHSW Facility:
+ 
+Detail(s)
+ 
+Waste Class:
+145
+Waste Class Name:
+PAINT/PIGMENT/COATING RESIDUES
+ 
+Waste Class:
+211
+Waste Class Name:
+AROMATIC SOLVENTS
+ 
+Waste Class:
+213
+Waste Class Name:
+PETROLEUM DISTILLATES
+ 
+Waste Class:
+252
+Waste Class Name:
+WASTE OILS & LUBRICANTS
+Site:
+MARSHALL STEEL LIMITED 15-053 
+RR #3, HWY. 25 NORTH C/O P.O. BOX 1014  MILTON ON L9T 4B6
+Database:
+uu-GEN-800853164-bb
+Generator No:
+ON0354500
+SIC Code:
+3029
+SIC Description:
+OTHER FAB. STRUCTURE
+Approval Years:
+94,95,96
+PO Box No:
+Country:
+Status:
+Co Admin:
+Choice of Contact:
+Phone No Admin:
+Contaminated Facility:
+MHSW Facility:
+ 
+Detail(s)
+ 
+Waste Class:
+145
+Waste Class Name:
+PAINT/PIGMENT/COATING RESIDUES
+ 
+Waste Class:
+211
+Waste Class Name:
+AROMATIC SOLVENTS
+ 
+Waste Class:
+213
+Waste Class Name:
+PETROLEUM DISTILLATES
+ 
+Waste Class:
+252
+Waste Class Name:
+WASTE OILS & LUBRICANTS
+Site:
+MILTON AUTO WRECKERS LIMITED 
+R.R. #6   MILTON ON L9T 2Y1
+Database:
+uu-GEN-800939381-bb
+Generator No:
+ON2224400
+SIC Code:
+SIC Description:
+Approval Years:
+02,03,04,05,06,07,08
+PO Box No:
+Country:
+Status:
+Co Admin:
+Choice of Contact:
+Phone No Admin:
+Contaminated Facility:
+MHSW Facility:
+GEN
+GEN
+24
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+ 
+Detail(s)
+ 
+Waste Class:
+212
+Waste Class Name:
+ALIPHATIC SOLVENTS
+ 
+Waste Class:
+252
+Waste Class Name:
+WASTE OILS & LUBRICANTS
+Site:
+John Tarnawsky Farm 
+R. R, #3 Hwy # 25 North of 401   Milton ON L9T 2X5
+Database:
+uu-GEN-801803786-bb
+Generator No:
+ON7240877
+SIC Code:
+111999
+SIC Description:
+All Other Miscellaneous Crop Farming
+Approval Years:
+04
+PO Box No:
+Country:
+Status:
+Co Admin:
+Choice of Contact:
+Phone No Admin:
+Contaminated Facility:
+MHSW Facility:
+Site:
+MILTON AUTO WRECKERS LIMITED 
+R.R. #6   MILTON ON L9T 2Y1
+Database:
+uu-GEN-814156185-bb
+Generator No:
+ON2224400
+SIC Code:
+415310
+SIC Description:
+Used Motor Vehicle Parts and Accessories Wholesaler-Distributors
+Approval Years:
+2012
+PO Box No:
+Country:
+Status:
+Co Admin:
+Choice of Contact:
+Phone No Admin:
+Contaminated Facility:
+MHSW Facility:
+ 
+Detail(s)
+ 
+Waste Class:
+252
+Waste Class Name:
+WASTE OILS & LUBRICANTS
+Site:
+MILTON AUTO WRECKERS LIMITED 
+R.R. #6   MILTON ON 
+Database:
+uu-GEN-808996650-bb
+Generator No:
+ON2224400
+SIC Code:
+415310
+SIC Description:
+Used Motor Vehicle Parts and Accessories Wholesaler-Distributors
+Approval Years:
+2011
+PO Box No:
+Country:
+Status:
+Co Admin:
+Choice of Contact:
+Phone No Admin:
+Contaminated Facility:
+MHSW Facility:
+ 
+Detail(s)
+ 
+GEN
+GEN
+GEN
+25
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+Waste Class:
+252
+Waste Class Name:
+WASTE OILS & LUBRICANTS
+Site:
+M DURANTE ENTERPRISES LTD 
+HWY 25   1 KM NORTH OF 401   MILTON ON 
+Database:
+uu-PRT-193649-bb
+Location ID:
+8835
+Type:
+retail
+Expiry Date:
+1994-12-31
+Capacity (L):
+0
+Licence #:
+0051518001
+ 
+Site:
+M DURANTE ENTERPRISES LTD 
+HWY 25   1 KM NORTH OF 401   MILTON ON 
+Database:
+uu-PRT-193648-bb
+Location ID:
+8835
+Type:
+private
+Expiry Date:
+Capacity (L):
+209090.00
+Licence #:
+0001041011
+ 
+Site:
+CATION EXCAVATING LTD 
+LOT 5 CON 2   MILTON ON 
+Database:
+uu-PRT-206155-bb
+Location ID:
+8864
+Type:
+private
+Expiry Date:
+Capacity (L):
+4546.00
+Licence #:
+0001007281
+ 
+Site:
+999870 ONTARIO LIMITED RAYS TEXACO SERVICE 
+HWY 25   MILTON ON 
+Database:
+uu-PRT-212556-bb
+Location ID:
+8834
+Type:
+retail
+Expiry Date:
+1995-09-30
+Capacity (L):
+0
+Licence #:
+0076372051
+ 
+Site:
+DURANTE AUTO SERVICE & TOWING INC 
+REGIONAL ROAD 25   MILTON ON L2T 2X7
+Database:
+uu-RST-800368279-bb
+Headcode:
+1186800
+Headcode Desc:
+Service Stations-Gasoline, Oil & Natural Gas
+Phone:
+9058787200
+List Name:
+Description:
+ 
+Site:
+ 
+adjacent to Hwy. 25, 500 metres south of Brittania Rd.   Milton ON 
+Database:
+uu-SPL-804330914-bb
+Ref No: 
+3730-8SJRH6
+Discharger Report:
+Site No: 
+Material Group:
+Incident Dt: 
+19-MAR-12
+Health/Env Conseq:
+Year: 
+Client Type:
+Incident Cause: 
+Unknown
+Sector Type:
+Pipeline
+Incident Event: 
+Agency Involved:
+Contaminant Code: 
+12
+Nearest Watercourse:
+Contaminant Name: 
+GASOLINE
+Site Address:
+adjacent to Hwy. 25, 500 metres south of 
+Brittania Rd.
+PRT
+PRT
+PRT
+PRT
+RST
+SPL
+26
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+Contaminant Limit 1: 
+Site District Office:
+Contam Limit Freq 1: 
+Site Postal Code:
+Contaminant UN No 1:
+Site Region:
+Environment Impact: 
+Confirmed
+Site Municipality:
+Milton
+Nature of Impact: 
+Soil Contamination
+Site Lot:
+Receiving Medium: 
+Sewage - Municipal/Private and Commercial
+Site Conc:
+Receiving Env: 
+Northing:
+MOE Response: 
+Planned Field Response
+Easting:
+Dt MOE Arvl on Scn: 
+20-MAR-12
+Site Geo Ref Accu:
+MOE Reported Dt: 
+19-MAR-12
+Site Map Datum:
+Dt Document Closed: 
+29-MAY-12
+SAC Action Class:
+Land Spills
+Incident Reason: 
+Unknown - Reason not determined
+Source Type:
+Site Name:
+buried pipeline <UNOFFICIAL>
+Site County/District:
+Site Geo Ref Meth:
+Incident Summary:
+Sun Canadian Pipeline- <50 L of gasoline to ground.
+Contaminant Qty:
+ 
+Site:
+PHILIP ENTERPRISES 
+HWY 25 AT THE ESCARPMENT HAMILTON WASTE DISPOSAL SITE.  MILTON TOWN ON 
+Database:
+uu-SPL-152068-bb
+Ref No: 
+19000
+Discharger Report:
+Site No: 
+Material Group:
+Incident Dt: 
+5/20/1989
+Health/Env Conseq:
+Year: 
+Client Type:
+Incident Cause: 
+UNKNOWN
+Sector Type:
+Incident Event: 
+Agency Involved:
+Contaminant Code: 
+Nearest Watercourse:
+Contaminant Name: 
+Site Address:
+Contaminant Limit 1: 
+Site District Office:
+Contam Limit Freq 1: 
+Site Postal Code:
+Contaminant UN No 1:
+Site Region:
+Environment Impact: 
+NOT ANTICIPATED
+Site Municipality:
+14402
+Nature of Impact: 
+Site Lot:
+Receiving Medium: 
+LAND
+Site Conc:
+Receiving Env: 
+Northing:
+4780000.00
+MOE Response: 
+Easting:
+593500.00
+Dt MOE Arvl on Scn: 
+Site Geo Ref Accu:
+MOE Reported Dt: 
+5/23/1989
+Site Map Datum:
+Dt Document Closed: 
+SAC Action Class:
+Incident Reason: 
+UNKNOWN
+Source Type:
+Site Name:
+Site County/District:
+Site Geo Ref Meth:
+Incident Summary:
+F.A.W. OIL - UNKNOWN AMT.CALCIUM CHLORIDE TO ROAD ON SATURDAY.
+Contaminant Qty:
+ 
+Site:
+UNKNOWN 
+BELL CANADA MANHOLE ON HWY 25, 100 YARDS N OF JAMES SNOW PKWY. WEST SIDE.   MILTON TOWN ON 
+Database:
+uu-SPL-317658-bb
+Ref No: 
+146035
+Discharger Report:
+Site No: 
+Material Group:
+Incident Dt: 
+//
+Health/Env Conseq:
+Year: 
+Client Type:
+Incident Cause: 
+UNKNOWN
+Sector Type:
+Incident Event: 
+Agency Involved:
+Contaminant Code: 
+Nearest Watercourse:
+Contaminant Name: 
+Site Address:
+Contaminant Limit 1: 
+Site District Office:
+Contam Limit Freq 1: 
+Site Postal Code:
+Contaminant UN No 1:
+Site Region:
+Environment Impact: 
+POSSIBLE
+Site Municipality:
+14402
+Nature of Impact: 
+Soil contamination
+Site Lot:
+Receiving Medium: 
+LAND
+Site Conc:
+Receiving Env: 
+Northing:
+MOE Response: 
+Easting:
+SPL
+SPL
+27
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+Dt MOE Arvl on Scn: 
+Site Geo Ref Accu:
+MOE Reported Dt: 
+9/4/1997
+Site Map Datum:
+Dt Document Closed: 
+SAC Action Class:
+Incident Reason: 
+UNKNOWN
+Source Type:
+Site Name:
+Site County/District:
+Site Geo Ref Meth:
+Incident Summary:
+UNKNOWN SOURCE:DIESEL FUEL FOUND IN BELL CANADA MANHOLE.
+Contaminant Qty:
+ 
+Site:
+Buff-Mar Cartage Limited 
+Eastbound lane, 4km east of hwy 6   Milton ON 
+Database:
+uu-SPL-803074374-bb
+Ref No: 
+4788-5KRRTW
+Discharger Report:
+Site No: 
+Material Group:
+Chemical
+Incident Dt: 
+3/18/2003
+Health/Env Conseq:
+Year: 
+Client Type:
+Incident Cause: 
+Other Discharges
+Sector Type:
+Transport Truck
+Incident Event: 
+Agency Involved:
+Contaminant Code: 
+27
+Nearest Watercourse:
+Contaminant Name: 
+ADHESIVES (N.O.S.)
+Site Address:
+Contaminant Limit 1: 
+Site District Office:
+Halton-Peel
+Contam Limit Freq 1: 
+Site Postal Code:
+Contaminant UN No 1:
+Site Region:
+Central
+Environment Impact: 
+Possible
+Site Municipality:
+Milton
+Nature of Impact: 
+Soil Contamination
+Site Lot:
+Receiving Medium: 
+Land
+Site Conc:
+Receiving Env: 
+Northing:
+MOE Response: 
+Easting:
+Dt MOE Arvl on Scn: 
+Site Geo Ref Accu:
+MOE Reported Dt: 
+3/18/2003
+Site Map Datum:
+Dt Document Closed: 
+SAC Action Class:
+Spill to Land
+Incident Reason: 
+Other - Reason not otherwise defined
+Source Type:
+Site Name:
+HWY 401 IN MILTON<UNOFFICIAL>
+Site County/District:
+Site Geo Ref Meth:
+Incident Summary:
+200L adhesive to hwy/shoulder fm leaky drum
+Contaminant Qty:
+200 L
+ 
+Site:
+ 
+Hwy 25, north of 5th sideroad 2017369 ONTARIO INC<UNOFFICIAL>  Milton ON 
+Database:
+uu-SPL-803085041-bb
+Ref No: 
+1576-6RZKT9
+Discharger Report:
+Site No: 
+Material Group:
+Oils
+Incident Dt: 
+7/24/2006
+Health/Env Conseq:
+Year: 
+Client Type:
+Incident Cause: 
+Other Transport Accident
+Sector Type:
+Transport Truck
+Incident Event: 
+Agency Involved:
+Contaminant Code: 
+13
+Nearest Watercourse:
+Contaminant Name: 
+DIESEL FUEL
+Site Address:
+HWY 25, NORTH OF 5TH SIDEROAD
+Contaminant Limit 1: 
+Site District Office:
+Halton-Peel
+Contam Limit Freq 1: 
+Site Postal Code:
+Contaminant UN No 1:
+Site Region:
+Environment Impact: 
+Possible
+Site Municipality:
+Milton
+Nature of Impact: 
+Multi-Media Pollution
+Site Lot:
+Receiving Medium: 
+Land & Water
+Site Conc:
+Receiving Env: 
+Northing:
+MOE Response: 
+Easting:
+Dt MOE Arvl on Scn: 
+Site Geo Ref Accu:
+MOE Reported Dt: 
+7/24/2006
+Site Map Datum:
+Dt Document Closed: 
+SAC Action Class:
+Incident Reason: 
+Negligence (Apparent) - Caused by lack of 
+diligence
+Source Type:
+Site Name:
+HWY 25, NORTH OF 5TH SIDEROAD
+Site County/District:
+Site Geo Ref Meth:
+SPL
+SPL
+28
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+Incident Summary:
+Diamond Towing: 20 L diesel to
+Contaminant Qty:
+20 L
+ 
+Site:
+ 
+Highpoint Plaza and Highway 25 North<UNOFFICIAL>   Milton ON 
+Database:
+uu-SPL-803092768-bb
+Ref No: 
+7872-6ZAK9N
+Discharger Report:
+Site No: 
+Material Group:
+Oil
+Incident Dt: 
+Health/Env Conseq:
+Year: 
+Client Type:
+Incident Cause: 
+Other Discharges
+Sector Type:
+Other Motor Vehicle
+Incident Event: 
+Agency Involved:
+Contaminant Code: 
+13
+Nearest Watercourse:
+Contaminant Name: 
+DIESEL FUEL
+Site Address:
+Contaminant Limit 1: 
+Site District Office:
+Contam Limit Freq 1: 
+Site Postal Code:
+Contaminant UN No 1:
+Site Region:
+Environment Impact: 
+Confirmed
+Site Municipality:
+Milton
+Nature of Impact: 
+Soil Contamination; Surface Water Pollution
+Site Lot:
+Receiving Medium: 
+Land & Water
+Site Conc:
+Receiving Env: 
+Northing:
+MOE Response: 
+No Field Response
+Easting:
+Dt MOE Arvl on Scn: 
+Site Geo Ref Accu:
+MOE Reported Dt: 
+3/14/2007
+Site Map Datum:
+Dt Document Closed: 
+5/22/2007
+SAC Action Class:
+Incident Reason: 
+Source Type:
+Site Name:
+Highpoint Plaza and Highway 25 North<UNOFFICIAL>
+Site County/District:
+Site Geo Ref Meth:
+Incident Summary:
+Canada Cartage: 25 L diesel to parking lot and catchbasin
+Contaminant Qty:
+25 L
+ 
+SPL
+29
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+h-Appendix: Database Descriptions
+Environmental Risk Information Services (ERIS) can search the following databases. The extent of historical information varies with 
+each database and current information is determined by what is publicly available to ERIS at the time of update. Note: Databases 
+denoted with " * " indicates that the database will no longer be updated. See the individual database description for more information.
+Abandoned Aggregate Inventory:
+Provincial
+rr-AAGR-bb
+The MAAP Program maintains a database of abandoned pits and quarries.  Please note that the database is only referenced by lot and concession and 
+city/town location.  The database provides information regarding the location, type, size, land use, status and general comments.*
+Government Publication Date: Sept 2002* 
+Aggregate Inventory:
+Provincial
+rr-AGR-bb
+The Ontario Ministry of Northern Development, Mines, Natural Resources and Forestry (ONDMNRF) maintains this database of pits and quarries. The 
+database provides information regarding the registered owner/operator, location name, operation type, approval type, and maximum annual tonnage.
+Government Publication Date: Up to Oct 2022 
+Abandoned Mine Information System:
+Provincial
+rr-AMIS-bb
+The Abandoned Mines Information System contains data on known abandoned and inactive mines located on both Crown and privately held lands.  The
+information was provided by the Ministry of Northern Development and Mines (MNDM), with the following disclaimer: "the database provided has been 
+compiled from various sources, and the Ministry of Northern Development and Mines makes no representation and takes no responsibility that such 
+information is accurate, current or complete".  Reported information includes official mine name, status, background information, mine start/end date, 
+primary commodity, mine features, hazards and remediation.
+Government Publication Date: 1800-Mar 2022 
+Anderson's Waste Disposal Sites:
+Private
+rr-ANDR-bb
+The information provided in this database was collected by examining various historical documents which aimed to characterize the likely position of 
+former waste disposal sites from 1860 to present.  The research initiative behind the creation of this database was to identify those sites that are missing
+from the Ontario MOE Waste Disposal Site Inventory, as well as to provide revisions and corrections to the positions and descriptions of sites currently 
+listed in the MOE inventory.  In addition to historic waste disposal facilities, the database also identifies certain auto wreckers and scrap yards that have 
+been extrapolated from documentary sources.  Please note that the data is not warranted to be complete, exhaustive or authoritative.  The information 
+was collected for research purposes only.
+Government Publication Date: 1860s-Present 
+Aboveground Storage Tanks:
+Provincial
+rr-AST-bb
+Historical listing of aboveground storage tanks made available by the Department of Natural Resources and Forestry. Includes tanks used to hold water 
+or petroleum. This dataset has been retired as of September 25, 2014 and will no longer be updated.
+Government Publication Date: May 31, 2014 
+Automobile Wrecking & Supplies:
+Private
+rr-AUWR-bb
+This database provides an inventory of known locations that are involved in the scrap metal, automobile wrecking/recycling, and automobile parts & 
+supplies industry. Information is provided on the company name, location and business type.
+Government Publication Date: 1999-May 31, 2022 
+Borehole:
+Provincial
+rr-BORE-bb
+A borehole is the generalized term for any narrow shaft drilled in the ground, either vertically or horizontally.  The information here includes geotechnical 
+investigations or environmental site assessments, mineral exploration, or as a pilot hole for installing piers or underground utilities.  Information is from 
+many sources such as the Ministry of Transportation (MTO) boreholes from engineering reports and projects from the 1950 to 1990's in Southern 
+Ontario.  Boreholes from the Ontario Geological Survey (OGS) including The Urban Geology Analysis Information System (UGAIS) and the York Peel 
+Durham Toronto (YPDT) database of the Conservation Authority Moraine Coalition.  This database will include fields such as location, stratigraphy, 
+depth, elevation, year drilled, etc. For all water well data or oil and gas well data for Ontario please refer to WWIS and OOGW.
+Government Publication Date: 1875-Jul 2018 
+AAGR
+AGR
+AMIS
+ANDR
+AST
+AUWR
+BORE
+Appendix: Database Descriptions
+30
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+Certificates of Approval:
+Provincial
+rr-CA-bb
+This database contains the following types of approvals: Air & Noise, Industrial Sewage, Municipal & Private Sewage, Waste Management Systems and
+Renewable Energy Approvals. The MOE in Ontario states that any facility that releases emissions to the atmosphere, discharges contaminants to 
+ground or surface water, provides potable water supplies, or stores, transports or disposes of waste, must have a Certificate of Approval before it can 
+operate lawfully. Fields include approval number, business name, address, approval date, approval type and status.  This database will no longer be 
+updated, as CofA's have been replaced by either Environmental Activity and Sector Registry (EASR) or Environmental Compliance Approval (ECA).  
+Please refer to those individual databases for any information after Oct.31, 2011.
+Government Publication Date: 1985-Oct 30, 2011* 
+Dry Cleaning Facilities:
+Federal
+rr-CDRY-bb
+List of dry cleaning facilities made available by Environment and Climate Change Canada. Environment and Climate Change Canada's 
+Tetrachloroethylene (Use in Dry Cleaning and Reporting Requirements) Regulations (SOR/2003-79) are intended to reduce releases of 
+tetrachloroethylene to the environment from dry cleaning facilities.
+Government Publication Date: Jan 2004-Dec 2020 
+Commercial Fuel Oil Tanks:
+Provincial
+rr-CFOT-bb
+Locations of commercial underground fuel oil tanks. This is not a comprehensive or complete inventory of commercial fuel tanks in the province; this 
+listing is a copy of records of registered commercial underground fuel oil tanks obtained under Access to Public Information.
+Note that the following types of tanks do not require registration: waste oil tanks in apartments, office buildings, residences, etc.; aboveground gas or 
+diesel tanks. Records are not verified for accuracy or completeness.
+Government Publication Date: Feb 28, 2022 
+Chemical Manufacturers and Distributors:
+Private
+rr-CHEM-bb
+This database includes information from both a one time study conducted in 1992 and private source and is a listing of facilities that manufacture or 
+distribute chemicals.  The production of these chemical substances may involve one or more chemical reactions and/or chemical separation processes 
+(i.e. fractionation, solvent extraction, crystallization, etc.).
+Government Publication Date: 1999-Jan 31, 2020 
+Chemical Register:
+Private
+rr-CHM-bb
+This database includes a listing of locations of facilities within the Province or Territory that either manufacture and/or distributes chemicals.
+Government Publication Date: 1999-May 31, 2022 
+Compressed Natural Gas Stations:
+Private
+rr-CNG-bb
+Canada has a network of public access compressed natural gas (CNG) refuelling stations. These stations dispense natural gas in compressed form at 
+3,000 pounds per square inch (psi), the pressure which is allowed within the current Canadian codes and standards. The majority of natural gas 
+refuelling is located at existing retail gasoline that have a separate refuelling island for natural gas. This list of stations is made available by the 
+Canadian Natural Gas Vehicle Alliance.
+Government Publication Date: Dec 2012 -Sep 2022 
+Inventory of Coal Gasification Plants and Coal Tar Sites:
+Provincial
+rr-COAL-bb
+This inventory includes both the "Inventory of Coal Gasification Plant Waste Sites in Ontario-April 1987" and the Inventory of Industrial Sites Producing 
+or Using Coal Tar and Related Tars in Ontario-November 1988) collected by the MOE. It identifies industrial sites that produced and continue to produce
+or use coal tar and other related tars. Detailed information is available and includes: facility type, size, land use, information on adjoining properties, soil 
+condition, site operators/occupants, site description, potential environmental impacts and historic maps available.  This was a one-time inventory.*
+Government Publication Date: Apr 1987 and Nov 1988* 
+Compliance and Convictions:
+Provincial
+rr-CONV-bb
+This database summarizes the fines and convictions handed down by the Ontario courts beginning in 1989.  Companies and individuals named here 
+have been found guilty of environmental offenses in Ontario courts of law.
+Government Publication Date: 1989-Nov 2022 
+Certificates of Property Use:
+Provincial
+rr-CPU-bb
+This is a subset taken from Ontario's Environmental Registry (EBR) database. It will include CPU's on the registry such as (EPA s. 168.6) - Certificate of 
+Property Use.
+Government Publication Date: 1994 - Dec 31, 2022 
+CA
+CDRY
+CFOT
+CHEM
+CHM
+CNG
+COAL
+CONV
+CPU
+31
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+Drill Hole Database:
+Provincial
+rr-DRL-bb
+The Ontario Drill Hole Database contains information on more than 113,000 percussion, overburden, sonic and diamond drill holes from assessment 
+files on record with the department of Mines and Minerals.  Please note that limited data is available for southern Ontario, as it was the last area to be 
+completed.  The database was created when surveys submitted to the Ministry were converted in the Assessment File Research Image Database 
+(AFRI) project.  However, the degree of accuracy (coordinates) as to the exact location of drill holes is dependent upon the source document submitted 
+to the MNDM.  Levels  of accuracy used to locate holes are: centering on the mining claim; a sketch of the mining claim; a 1:50,000 map; a detailed 
+company map; or from submitted a "Report of Work".
+Government Publication Date: 1886 - Oct 2022 
+Delisted Fuel Tanks:
+Provincial
+rr-DTNK-bb
+List of fuel storage tank sites that were once found in - and have since been removed from - the list of fuel storage tanks made available by the 
+regulatory agency under Access to Public Information.
+Government Publication Date: Feb 28, 2022 
+Environmental Activity and Sector Registry:
+Provincial
+rr-EASR-bb
+On October 31, 2011, a smarter, faster environmental approvals system came into effect in Ontario.  The EASR allows businesses to register certain 
+activities with the ministry, rather than apply for an approval. The registry is available for common systems and processes, to which preset rules of 
+operation can be applied.  The EASR is currently available for:  heating systems, standby power systems and automotive refinishing. Businesses whose
+activities aren't subject to the EASR may apply for an ECA (Environmental Compliance Approval), Please see our ECA database.
+Government Publication Date: Oct 2011- Dec 31, 2022 
+Environmental Registry:
+Provincial
+rr-EBR-bb
+The Environmental Registry lists proposals, decisions and exceptions regarding policies, Acts, instruments, or regulations that could significantly affect 
+the environment. Through the Registry, thirteen provincial ministries notify the public of upcoming proposals and invite their comments. For example, if a
+local business is requesting a permit, license, or certificate of approval to release substances into the air or water; these are notified on the registry. Data
+includes: Approval for discharge into the natural environment other than water (i.e. Air) - EPA s. 9, Approval for sewage works - OWRA s. 53(1), and 
+EPA s. 27 - Approval for a waste disposal site.  For information regarding Permit to Take Water (PTTW), Certificate of Property Use (CPU) and (ORD) 
+Orders please refer to those individual databases.
+Government Publication Date: 1994 - Dec 31, 2022 
+Environmental Compliance Approval:
+Provincial
+rr-ECA-bb
+On October 31, 2011, a smarter, faster environmental approvals system came into effect in Ontario. In the past, a business had to apply for multiple 
+approvals (known as certificates of approval) for individual processes and pieces of equipment. Today, a business either registers itself, or applies for a 
+single approval, depending on the types of activities it conducts. Businesses whose activities aren't subject to the EASR may apply for an ECA. A single 
+ECA addresses all of a business's emissions, discharges and wastes. Separate approvals for air, noise and waste are no longer required. This database
+will also include Renewable Energy Approvals. For certificates of approval prior to Nov 1st, 2011, please refer to the CA database.  For all Waste 
+Disposal Sites please refer to the WDS database.
+Government Publication Date: Oct 2011- Dec 31, 2022 
+Environmental Effects Monitoring:
+Federal
+rr-EEM-bb
+The Environmental Effects Monitoring program assesses the effects of effluent from industrial or other sources on fish, fish habitat and human usage of 
+fisheries resources.  Since 1992, pulp and paper mills have been required to conduct EEM studies under the Pulp and Paper Effluent Regulations.  This 
+database provides information on the mill name, geographical location and sub-lethal toxicity data.
+Government Publication Date: 1992-2007* 
+ERIS Historical Searches:
+Private
+rr-EHS-bb
+ERIS has compiled a database of all environmental risk reports completed since March 1999.  Available fields for this database include: site location, 
+date of report, type of report, and search radius. As per all other databases, the ERIS database can be referenced on both the map and "Statistical 
+Profile" page.
+Government Publication Date: 1999-Jul 31, 2022 
+Environmental Issues Inventory System:
+Federal
+rr-EIIS-bb
+The Environmental Issues Inventory System was developed through the implementation of the Environmental Issues and Remediation Plan. This plan 
+was established to determine the location and severity of contaminated sites on inhabited First Nation reserves, and where necessary, to remediate 
+those that posed a risk to health and safety; and to prevent future environmental problems.  The EIIS provides information on the reserve under 
+investigation, inventory number, name of site, environmental issue, site action (Remediation, Site Assessment), and date investigation completed.
+Government Publication Date: 1992-2001* 
+DRL
+DTNK
+EASR
+EBR
+ECA
+EEM
+EHS
+EIIS
+32
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+Emergency Management Historical Event:
+Provincial
+rr-EMHE-bb
+List of locations of historical occurrences of emergency events, including those assigned to the Ministry of Natural Resources by Order-In-Council (OIC) 
+under the Emergency Management and Civil Protection Act, as well as events where MNR provided requested emergency response assistance. Many 
+of these events will have involved community evacuations, significant structural loss, and/or involvement of MNR emergency response staff. These 
+events fall into one of ten (10) type categories: Dam Failure; Drought / Low Water; Erosion; Flood; Forest Fire; Soil and Bedrock Instability; Petroleum 
+Resource Center Event, EMO Requested Assistance, Continuity of Operations Event, Other Requested Assistance. EMHE record details are 
+reproduced by ERIS under License with the Ontario Ministry of Natural Resources © Queen's Printer for Ontario, 2017.
+Government Publication Date: Apr 30, 2022 
+Environmental Penalty Annual Report:
+Provincial
+rr-EPAR-bb
+This database contains data from Ontario's annual environmental penalty report published by the Ministry of the Environment and Climate Change. 
+These reports provide information on environmental penalties for land or water violations issued to companies in one of the nine industrial sectors 
+covered by the Municipal Industrial Strategy for Abatement (MISA) regulations.
+Government Publication Date: Jan 1, 2011 - Dec 31, 2021 
+List of Expired Fuels Safety Facilities:
+Provincial
+rr-EXP-bb
+List of facilities and tanks for which there was once a fuel registration. This is not a comprehensive or complete inventory of expired tanks/tank facilities 
+in the province; this listing is a copy of previously registered tanks and facilities obtained under Access to Public Information. Includes private fuel 
+outlets, bulk plants, fuel oil tanks, gasoline stations, marinas, propane filling stations, liquid fuel tanks, piping systems, etc; includes tanks which have 
+been removed from the ground. 
+Notes: registration was not required for private fuel underground/aboveground storage tanks prior to January  1990, nor for furnace oil tanks prior to May
+1, 2002;  registration is not required for waste oil tanks in apartments, office buildings, residences, etc., or aboveground gas or diesel tanks. Records are
+not verified for accuracy or completeness.
+Government Publication Date: Feb 28, 2022 
+Federal Convictions:
+Federal
+rr-FCON-bb
+Environment Canada maintains a database referred to as the "Environmental Registry" that details prosecutions under the Canadian Environmental 
+Protection Act (CEPA) and the Fisheries Act (FA). Information is provided on the company name, location, charge date, offence and penalty.
+Government Publication Date: 1988-Jun 2007* 
+Contaminated Sites on Federal Land:
+Federal
+rr-FCS-bb
+The Federal Contaminated Sites Inventory includes information on known federal contaminated sites under the custodianship of departments, agencies 
+and consolidated Crown corporations as well as those that are being or have been investigated to determine whether they have contamination arising 
+from past use that could pose a risk to human health or the environment. The inventory also includes non-federal contaminated sites for which the 
+Government of Canada has accepted some or all financial responsibility. It does not include sites where contamination has been caused by, and which 
+are under the control of, enterprise Crown corporations, private individuals, firms or other levels of government. Includes fire training sites and sites at 
+which Per- and Polyfluoroalkyl Substances (PFAS) are a concern.
+Government Publication Date: Jun 2000-Sep 2022 
+Fisheries & Oceans Fuel Tanks:
+Federal
+rr-FOFT-bb
+Fisheries & Oceans Canada maintains an inventory of aboveground & underground fuel storage tanks located on Fisheries & Oceans property or 
+controlled by DFO.  Our inventory provides information on the site name, location, tank owner, tank operator, facility type, storage tank location, tank 
+contents & capacity, and date of tank installation.
+Government Publication Date: 1964-Sep 2019 
+Federal Identification Registry for Storage Tank Systems (FIRSTS):
+Federal
+rr-FRST-bb
+A list of federally regulated Storage tanks from the Federal Identification Registry for Storage Tank Systems (FIRSTS). FIRSTS is Environment and 
+Climate Change Canada's database of storage tank systems subject to the Storage Tank for Petroleum Products and Allied Petroleum Products 
+Regulations. The main objective of the Regulations is to prevent soil and groundwater contamination from storage tank systems located on federal and 
+aboriginal lands. Storage tank systems that do not have a valid identification number displayed in a readily visible location on or near the storage tank 
+system may be refused product delivery.
+Government Publication Date: May 31, 2018 
+Fuel Storage Tank:
+Provincial
+rr-FST-bb
+List of registered private and retail fuel storage tanks. This is not a comprehensive or complete inventory of private and retail fuel storage tanks in the 
+province; this listing is a copy of registered private and retail fuel storage tanks, obtained under Access to Public Information.
+Notes: registration was not required for private fuel underground/aboveground storage tanks prior to January  1990, nor for furnace oil tanks prior to May
+1, 2002;  registration is not required for waste oil tanks in apartments, office buildings, residences, etc., or aboveground gas or diesel tanks. Records are
+not verified for accuracy or completeness.
+Government Publication Date: Feb 28, 2022 
+EMHE
+EPAR
+EXP
+FCON
+FCS
+FOFT
+FRST
+FST
+33
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+Fuel Storage Tank - Historic:
+Provincial
+rr-FSTH-bb
+The Fuels Safety Branch of the Ontario Ministry of Consumer and Commercial Relations maintained a database of all registered private fuel storage 
+tanks. Public records of private fuel storage tanks are only available since the registration became effective in September 1989. This information is now 
+collected by the Technical Standards and Safety Authority.
+Government Publication Date: Pre-Jan 2010* 
+Ontario Regulation 347 Waste Generators Summary:
+Provincial
+rr-GEN-bb
+Regulation 347 of the Ontario EPA defines a waste generation site as any site, equipment and/or operation involved in the production, collection, 
+handling and/or storage of regulated wastes.  A generator of regulated waste is required to register the waste generation site and each waste produced, 
+collected, handled, or stored at the site.  This database contains the registration number, company name and address of registered generators including
+the types of hazardous wastes generated. It includes data on waste generating facilities such as: drycleaners, waste treatment and disposal facilities, 
+machine shops, electric power distribution etc. This information is a summary of all years from 1986 including the most currently available data.  Some 
+records may contain, within the company name, the phrase "See & Use..." followed by a series of letters and numbers.  This occurs when one company 
+is amalgamated with or taken over by another registered company.  The number listed as "See & Use", refers to the new ownership and the other 
+identification number refers to the original ownership.   This phrase serves as a link between the 2 companies until operations have been fully 
+transferred.
+Government Publication Date: 1986-Oct 31, 2022 
+Greenhouse Gas Emissions from Large Facilities:
+Federal
+rr-GHG-bb
+List of greenhouse gas emissions from large facilities made available by Environment Canada. Greenhouse gas emissions in kilotonnes of carbon 
+dioxide equivalents (kt CO2 eq).
+Government Publication Date: 2013-Dec 2019 
+TSSA Historic Incidents:
+Provincial
+rr-HINC-bb
+List of historic incidences of spills and leaks of diesel, fuel oil, gasoline, natural gas, propane, and hydrogen recorded by the TSSA in their previous 
+incident tracking system. The TSSA's Fuels Safety Program administers the Technical Standards & Safety Act 2000, providing fuel-related safety 
+services associated with the safe transportation, storage, handling and use of fuels such as gasoline, diesel, propane, natural gas and hydrogen. Under 
+this Act, the TSSA regulates fuel suppliers, storage facilities, transport trucks, pipelines, contractors and equipment or appliances that use fuels. 
+Records are not verified for accuracy or completeness. This is not a comprehensive or complete inventory of historical fuel spills and leaks in the 
+province. This listing is a copy of the data captured at one moment in time and is hence limited by the record date provided here.
+Government Publication Date: 2006-June 2009* 
+Indian & Northern Affairs Fuel Tanks:
+Federal
+rr-IAFT-bb
+The Department of Indian & Northern Affairs Canada (INAC) maintains an inventory of aboveground & underground fuel storage tanks located on both 
+federal and crown land.  Our inventory provides information on the reserve name, location, facility type, site/facility name, tank type, material & ID 
+number, tank contents & capacity, and date of tank installation.
+Government Publication Date: 1950-Aug 2003* 
+Fuel Oil Spills and Leaks:
+Provincial
+rr-INC-bb
+Listing of spills and leaks of diesel, fuel oil, gasoline, natural gas, propane, and hydrogen reported to the Spills Action Centre (SAC). This is not a 
+comprehensive or complete inventory of fuel-related leaks, spills, and incidents in the province; this listing in a copy of incidents reported to the SAC, 
+obtained under Access to Public Information. Includes incidents from fuel-related hazards such as spills, fires, and explosions. Records are not verified 
+for accuracy or completeness.
+Government Publication Date: Feb 28, 2022 
+Landfill Inventory Management Ontario:
+Provincial
+rr-LIMO-bb
+The Landfill Inventory Management Ontario (LIMO) database is updated every year, as the Ministry of the Environment, Conservation and Parks 
+compiles new and updated information. Includes small and large landfills currently operating as well as those which are closed and historic. Operators of
+larger landfills provide landfill information for the previous operating year to the ministry for LIMO including: estimated amount of total waste received, 
+landfill capacity, estimated total remaining landfill capacity, fill rates, engineering designs, reporting and monitoring details, size of location, service area, 
+approved waste types, leachate of site treatment, contaminant attenuation zone and more. The small landfills include information such as site owner, 
+site location and certificate of approval # and status.
+Government Publication Date: Mar 21, 2022 
+Canadian Mine Locations:
+Private
+rr-MINE-bb
+This information is collected from the Canadian & American Mines Handbook.  The Mines database is a national database that provides over 290 
+listings on mines (listed as public companies) dealing primarily with precious metals and hard rocks.  Listed are mines that are currently in operation, 
+closed, suspended, or are still being developed (advanced projects).   Their locations are provided as geographic coordinates (x, y and/or longitude, 
+latitude).  As of 2002, data pertaining to Canadian smelters and refineries has been appended to this database.
+Government Publication Date: 1998-2009* 
+FSTH
+GEN
+GHG
+HINC
+IAFT
+INC
+LIMO
+MINE
+34
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+Mineral Occurrences:
+Provincial
+rr-MNR-bb
+In the early 70's, the Ministry of Northern Development and Mines created an inventory of approximately 19,000 mineral occurrences in Ontario, in 
+regard to metallic and industrial minerals, as well as some information on building stones and aggregate deposits.  Please note that the "Horizontal 
+Positional Accuracy" is approximately +/- 200 m.  Many reference elements for each record were derived from field sketches using pace or chain/tape 
+measurements against claim posts or topographic features in the area.  The primary limiting factor for the level of positional accuracy is the scale of the 
+source material. The testing of horizontal accuracy of the source materials was accomplished by comparing the plan metric (X and Y) coordinates of that
+point with the coordinates of the same point as defined from a source of higher accuracy.
+Government Publication Date: 1846-Feb 2022 
+National Analysis of Trends in Emergencies System (NATES):
+Federal
+rr-NATE-bb
+In 1974 Environment Canada established the National Analysis of Trends in Emergencies System (NATES) database, for the voluntary reporting of 
+significant spill incidents.  The data was to be used to assist in directing the work of the emergencies program. NATES ran from 1974 to 1994.  
+Extensive information is available within this database including company names, place where the spill occurred, date of spill, cause, reason and source
+of spill, damage incurred, and amount, concentration, and volume of materials released.
+Government Publication Date: 1974-1994* 
+Non-Compliance Reports:
+Provincial
+rr-NCPL-bb
+The Ministry of the Environment provides information about non-compliant discharges of contaminants to air and water that exceed legal allowable 
+limits, from regulated industrial and municipal facilities.  A reported non-compliance failure may be in regard to a Control Order, Certificate of Approval, 
+Sectoral Regulation or specific regulation/act.
+Government Publication Date: Dec 31, 2021 
+National Defense & Canadian Forces Fuel Tanks:
+Federal
+rr-NDFT-bb
+The Department of National Defense and the Canadian Forces maintains an inventory of all aboveground & underground fuel storage tanks located on 
+DND lands.  Our inventory provides information on the base name, location, tank type & capacity, tank contents, tank class, date of tank installation, 
+date tank last used, and status of tank as of May 2001.  This database will no longer be updated due to the new National Security protocols which have 
+prohibited any release of this database.
+Government Publication Date: Up to May 2001* 
+National Defense & Canadian Forces Spills:
+Federal
+rr-NDSP-bb
+The Department of National Defense and the Canadian Forces maintains an inventory of spills to land and water.  All spill sites have been classified 
+under the "Transportation of Dangerous Goods Act - 1992".  Our inventory provides information on the facility name, location, spill ID #, spill date, type 
+of spill, as well as the quantity of substance spilled & recovered.
+Government Publication Date: Mar 1999-Apr 2018 
+National Defence & Canadian Forces Waste Disposal Sites:
+Federal
+rr-NDWD-bb
+The Department of National Defence and the Canadian Forces maintains an inventory of waste disposal sites located on DND lands.  Where available, 
+our inventory provides information on the base name, location, type of waste received, area of site, depth of site, year site opened/closed and status.
+Government Publication Date: 2001-Apr 2007* 
+National Energy Board Pipeline Incidents:
+Federal
+rr-NEBI-bb
+Locations of pipeline incidents from 2008 to present, made available by the Canada Energy Regulator (CER) - previously the National Energy Board 
+(NEB). Includes incidents reported under the Onshore Pipeline Regulations and the Processing Plant Regulations related to pipelines under federal 
+jurisdiction, does not include incident data related to pipelines under provincial or territorial jurisdiction.
+Government Publication Date: 2008-Jun 30, 2021 
+National Energy Board Wells:
+Federal
+rr-NEBP-bb
+The NEBW database contains information on onshore & offshore oil and gas wells that are outside provincial jurisdiction(s) and are thereby regulated by
+the National Energy Board. Data is provided regarding the operator, well name, well ID No./UWI, status, classification, well depth, spud and release 
+date.
+Government Publication Date: 1920-Feb 2003* 
+MNR
+NATE
+NCPL
+NDFT
+NDSP
+NDWD
+NEBI
+NEBP
+35
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+National Environmental Emergencies System (NEES):
+Federal
+rr-NEES-bb
+In 2000, the Emergencies program implemented NEES, a reporting system for spills of hazardous substances.  For the most part, this system only 
+captured data from the Atlantic Provinces, some from Quebec and Ontario and a portion from British Columbia. Data for Alberta, Saskatchewan, 
+Manitoba and the Territories was not captured. However, NEES is also a repository for previous Environment Canada spill datasets.  NEES is 
+composed of the historic datasets ' or Trends ' which dates from approximately 1974 to present. NEES Trends is a compilation of historic databases, 
+which were merged and includes data from NATES (National Analysis of Trends in Emergencies System), ARTS (Atlantic Regional Trends System), 
+and NEES.  In 2001, the Emergencies Program determined that variations in reporting regimes and requirements between federal and provincial 
+agencies made national spill reporting and trend analysis difficult to achieve. As a consequence, the department has focused efforts on capturing data 
+on spills of substances which fall under its legislative authority only (CEPA and FA). As such, the NEES database will be decommissioned in December 
+2004.
+Government Publication Date: 1974-2003* 
+National PCB Inventory:
+Federal
+rr-NPCB-bb
+Environment Canada's National PCB inventory includes information on in-use PCB containing equipment in Canada including federal, provincial and 
+private facilities.  Federal out-of-service PCB containing equipment and PCB waste owned by the federal government or by federally regulated industries
+such as airlines, railway companies, broadcasting companies, telephone and telecommunications companies, pipeline companies, etc. are also listed. 
+Although it is not Environment Canada's mandate to collect data on non-federal PCB waste, the National PCB inventory includes some information on 
+provincial and private PCB waste and storage sites. Some addresses provided may be Head Office addresses and are not necessarily the location of 
+where the waste is being used or stored.
+Government Publication Date: 1988-2008* 
+National Pollutant Release Inventory:
+Federal
+rr-NPRI-bb
+Environment Canada has defined the National Pollutant Release Inventory ("NPRI") as a federal government initiative designed to collect 
+comprehensive national data regarding releases to air, water, or land, and waste transfers for recycling for more than 300 listed substances.
+Government Publication Date: 1993-May 2017 
+Oil and Gas Wells:
+Private
+rr-OGWE-bb
+The Nickle's Energy Group (publisher of the Daily Oil Bulletin) collects information on drilling activity including operator and well statistics. The well 
+information database includes name, location, class, status and depth.  The main Nickle's database is updated on a daily basis, however, this database 
+is updated on a monthly basis.  More information is available at www.nickles.com.
+Government Publication Date: 1988-Nov 30, 2022 
+Ontario Oil and Gas Wells:
+Provincial
+rr-OOGW-bb
+In 1998, the MNR handed over to the Ontario Oil, Gas and Salt Resources Corporation, the responsibility of maintaining a database of oil and gas wells 
+drilled in Ontario. The OGSR Library has over 20,000+ wells in their database. Information available for all wells in the ERIS database include well 
+owner/operator, location, permit issue date, and well cap date, license No., status, depth and the primary target (rock unit) of the well being drilled.  All 
+geology/stratigraphy table information, plus all water table information is also provide for each well record.
+Government Publication Date: 1800-Aug 2021 
+Inventory of PCB Storage Sites:
+Provincial
+rr-OPCB-bb
+The Ontario Ministry of Environment, Waste Management Branch, maintains an inventory of PCB storage sites within the province.  Ontario Regulation 
+11/82 (Waste Management - PCB) and Regulation 347 (Generator Waste Management) under the Ontario EPA requires the registration of inactive PCB
+storage equipment and/or disposal sites of PCB waste with the Ontario Ministry of Environment.  This database contains information on:  1) waste 
+quantities; 2) major and minor sites storing liquid or solid waste; and 3) a waste storage inventory.
+Government Publication Date: 1987-Oct 2004; 2012-Dec 2013 
+Orders:
+Provincial
+rr-ORD-bb
+This is a subset taken from Ontario's Environmental Registry (EBR) database. It will include Orders on the registry such as (EPA s. 17) - Order for 
+remedial work, (EPA s. 18) - Order for preventative measures, (EPA s. 43) - Order for removal of waste and restoration of site, (EPA s. 44) - Order for 
+conformity with Act for waste disposal sites, (EPA s. 136) - Order for performance of environmental measures.
+Government Publication Date: 1994 - Dec 31, 2022 
+Canadian Pulp and Paper:
+Private
+rr-PAP-bb
+This information is part of the Pulp and Paper Canada Directory. The Directory provides a comprehensive listing of the locations of pulp and paper mills 
+and the products that they produce.
+Government Publication Date: 1999, 2002, 2004, 2005, 2009-2014 
+Parks Canada Fuel Storage Tanks:
+Federal
+rr-PCFT-bb
+Canadian Heritage maintains an inventory of known fuel storage tanks operated by Parks Canada, in both National Parks and at National Historic Sites.
+The database details information on site name, location, tank install/removal date, capacity, fuel type, facility type, tank design and owner/operator.
+Government Publication Date: 1920-Jan 2005* 
+NEES
+NPCB
+NPRI
+OGWE
+OOGW
+OPCB
+ORD
+PAP
+PCFT
+36
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+Pesticide Register:
+Provincial
+rr-PES-bb
+The Ontario Ministry of the Environment and Climate Change maintains a database of licensed operators and vendors of registered pesticides.
+Government Publication Date: Oct 2011- Dec 31, 2022 
+Pipeline Incidents:
+Provincial
+rr-PINC-bb
+List of pipeline incidents (strikes, leaks, spills). This is not a comprehensive or complete inventory of pipeline incidents in the province; this listing in an 
+historical copy of records previously obtained under Access to Public Information. Records are not verified for accuracy or completeness.
+Government Publication Date: Feb 28, 2021 
+Private and Retail Fuel Storage Tanks:
+Provincial
+rr-PRT-bb
+The Fuels Safety Branch of the Ontario Ministry of Consumer and Commercial Relations maintained a database of all registered private fuel storage 
+tanks and licensed retail fuel outlets. This database includes an inventory of locations that have gasoline, oil, waste oil, natural gas and/or propane 
+storage tanks on their property. The MCCR no longer collects this information. This information is now collected by the Technical Standards and Safety 
+Authority (TSSA).
+Government Publication Date: 1989-1996* 
+Permit to Take Water:
+Provincial
+rr-PTTW-bb
+This is a subset taken from Ontario's Environmental Registry (EBR) database. It will include PTTW's on the registry such as OWRA s. 34 - Permit to 
+take water.
+Government Publication Date: 1994 - Dec 31, 2022 
+Ontario Regulation 347 Waste Receivers Summary:
+Provincial
+rr-REC-bb
+Part V of the Ontario Environmental Protection Act ("EPA") regulates the disposal of regulated waste through an operating waste management system 
+or a waste disposal site operated or used pursuant to the terms and conditions of a Certificate of Approval or a Provisional Certificate of Approval.  
+Regulation 347 of the Ontario EPA defines a waste receiving site as any site or facility to which waste is transferred by a waste carrier.  A receiver of 
+regulated waste is required to register the waste receiving facility.  This database represents registered receivers of regulated wastes, identified by 
+registration number, company name and address, and includes receivers of waste such as: landfills, incinerators, transfer stations, PCB storage sites, 
+sludge farms and water pollution control plants.  This information is a summary of all years from 1986 including the most currently available data.
+Government Publication Date: 1986-1990, 1992-2019 
+Record of Site Condition:
+Provincial
+rr-RSC-bb
+The Record of Site Condition (RSC) is part of the Ministry of the Environment's Brownfields Environmental Site Registry. Protection from environmental 
+cleanup orders for property owners is contingent upon documentation known as a record of site condition (RSC) being filed in the Environmental Site 
+Registry. In order to file an RSC, the property must have been properly assessed and shown to meet the soil, sediment and groundwater standards 
+appropriate for the use (such as residential) proposed to take place on the property. The Record of Site Condition Regulation (O. Reg. 153/04) details 
+requirements related to site assessment and clean up. 
+RSCs filed after July 1, 2011 will also be included as part of the new (O.Reg. 511/09).
+Government Publication Date: 1997-Sept 2001, Oct 2004-Dec 2022 
+Retail Fuel Storage Tanks:
+Private
+rr-RST-bb
+This database includes an inventory of retail fuel outlet locations (including marinas) that have on their property gasoline, oil, waste oil, natural gas and / 
+or propane storage tanks.
+Government Publication Date: 1999-May 31, 2022 
+Scott's Manufacturing Directory:
+Private
+rr-SCT-bb
+Scott's Directories is a data bank containing information on over 200,000 manufacturers across Canada. Even though Scott's listings are voluntary, it is 
+the most comprehensive database of Canadian manufacturers available. Information concerning a company's address, plant size, and main products 
+are included in this database.
+Government Publication Date: 1992-Mar 2011* 
+Ontario Spills:
+Provincial
+rr-SPL-bb
+List of spills and incidents made available the Ministry of the Environment, Conservation and Parks. This database identifies information such as location
+(approximate), type and quantity of contaminant, date of spill, environmental impact, cause, nature of impact, etc.  Information from 1988-2002 was part 
+of the ORIS (Occurrence Reporting Information System).  The SAC (Spills Action Centre) handles all spills reported in Ontario. Regulations for spills in 
+Ontario are part of the MOE's Environmental Protection Act, Part X. The Ministry of the Environment, Conservation and Parks cites the coronavirus 
+pandemic as an explanation for delays in releasing data pursuant to requests.
+Government Publication Date: 1988-Sep 2020; Dec 2020-Mar 2021 
+PES
+PINC
+PRT
+PTTW
+REC
+RSC
+RST
+SCT
+SPL
+37
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+Wastewater Discharger Registration Database:
+Provincial
+rr-SRDS-bb
+Information under this heading is combination of the following 2 programs.  The Municipal/Industrial Strategy for Abatement (MISA) division of the 
+Ontario Ministry of Environment maintained a database of all direct dischargers of toxic pollutants within nine sectors including:  Electric Power 
+Generation; Mining; Petroleum Refining; Organic Chemicals; Inorganic Chemicals; Pulp & Paper; Metal Casting; Iron & Steel; and Quarries.  All 
+sampling information is now collected and stored within the Sample Result Data Store (SRDS).
+Government Publication Date: 1990-Dec 31, 2020 
+Anderson's Storage Tanks:
+Private
+rr-TANK-bb
+The information provided in this database was collected by examining various historical documents, which identified the location of former storage tanks,
+containing substances such as fuel, water, gas, oil, and other various types of miscellaneous products.  Information is available in regard to business 
+operating at tank site, tank location, permit year, permit & installation type, no. of tanks installed & configuration and tank capacity.  Data contained 
+within this database pertains only to the city of Toronto and is not warranted to be complete, exhaustive or authoritative.  The information was collected 
+for research purposes only.
+Government Publication Date: 1915-1953* 
+Transport Canada Fuel Storage Tanks:
+Federal
+rr-TCFT-bb
+List of fuel storage tanks currently or previously owned or operated by Transport Canada.  This inventory also includes tanks on The Pickering Lands, 
+which refers to 7,530 hectares (18,600 acres) of land in Pickering, Markham, and Uxbridge owned by the Government of Canada since 1972; properties 
+on this land has been leased by the government since 1975, and falls under the Site Management Policy of Transport Canada, but is administered by 
+Public Works and Government Services Canada. This inventory provides information on the site name, location, tank age, capacity and fuel type.
+Government Publication Date: 1970 - Apr 2020 
+Variances for Abandonment of Underground Storage Tanks:
+Provincial
+rr-VAR-bb
+Listing of variances granted for storage tank abandonment. This is not a comprehensive or complete inventory of tank abandonment variances in the 
+province; this listing is a copy of tank abandonment variance records previously obtained under Access to Public Information. In Ontario, registered 
+underground storage tanks must be removed within two years of disuse; if removal of a tank is not feasible, an application may be sought for a variance 
+from this code requirement. 
+Records are not verified for accuracy or completeness.
+Government Publication Date: Feb 28, 2022 
+Waste Disposal Sites - MOE CA Inventory:
+Provincial
+rr-WDS-bb
+The Ontario Ministry of Environment, Waste Management Branch, maintains an inventory of known open (active or inactive) and closed disposal sites in
+the Province of Ontario. Active sites maintain a Certificate of Approval, are approved to receive and are receiving waste. Inactive sites maintain 
+Certificate(s) of Approval but are not receiving waste. Closed sites are not receiving waste. The data contained within this database was compiled from 
+the MOE's Certificate of Approval database. Locations of these sites may be cross-referenced to the Anderson database described under ERIS's Private
+Source Database section, by the CA number. All new Environmental Compliance Approvals handed out after Oct 31, 2011 for Waste Disposal Sites will 
+still be found in this database.
+Government Publication Date: Oct 2011- Dec 31, 2022 
+Waste Disposal Sites - MOE 1991 Historical Approval Inventory:
+Provincial
+rr-WDSH-bb
+In June 1991, the Ontario Ministry of Environment, Waste Management Branch, published the "June 1991 Waste Disposal Site Inventory", of all known 
+active and closed waste disposal sites as of October 30st, 1990.  For each "active" site as of October 31st 1990, information is provided on site location, 
+site/CA number, waste type, site status and site classification.  For each "closed" site as of October 31st 1990, information is provided on site location, 
+site/CA number, closure date and site classification.  Locations of these sites may be cross-referenced to the Anderson database described under 
+ERIS's Private Source Database section, by the CA number.
+Government Publication Date: Up to Oct 1990* 
+Water Well Information System:
+Provincial
+rr-WWIS-bb
+This database describes locations and characteristics of water wells found within Ontario in accordance with Regulation 903.  It includes such 
+information as coordinates, construction date, well depth, primary and secondary use, pump rate, static water level, well status, etc.  Also included are 
+detailed stratigraphy information, approximate depth to bedrock and the approximate depth to the water table.
+Government Publication Date: Jun 30 2022 
+SRDS
+TANK
+TCFT
+VAR
+WDS
+WDSH
+WWIS
+38
+erisinfo.com | Environmental Risk Information Services
+Order No: 23011801076
+h-Definitions
+Database Descriptions: This section provides a detailed explanation for each database including: source, information available, time coverage, and
+acronyms used. They are listed in alphabetic order.
+Detail Report: This is the section of the report which provides the most detail for each individual record. Records are summarized by location, starting
+with the project property followed by records in closest proximity.
+Distance: The distance value is the distance between plotted points, not necessarily the distance between the sites' boundaries. All values are an
+approximation.
+Direction:  The direction value is the compass direction of the site in respect to the project property and/or center point of the report.
+Elevation: The elevation value is taken from the location at which the records for the site address have been plotted. All values are an approximation.
+Source: Google Elevation API.
+Executive Summary: This portion of the report is divided into 3 sections:
+'Report Summary'- Displays a chart indicating how many records fall on the project property and, within the report search radii.
+'Site Report Summary'-Project Property'- This section lists all the records which fall on the project property. For more details, see the 'Detail Report'
+section.
+'Site Report Summary-Surrounding Properties'- This section summarizes all records on adjacent properties, listing them in order of proximity from the
+project property. For more details, see the 'Detail Report' section.
+Map Key: The map key number is assigned according to closest proximity from the project property. Map Key numbers always start at #1. The project
+property will always have a map key of '1' if records are available. If there is a number in brackets beside the main number, this will indicate the number
+of records on that specific property. If there is no number in brackets, there is only one record for that property.
+The symbol and colour used indicates 'elevation': the red inverted triangle will dictate 'ERIS Sites with Lower Elevation', the yellow triangle will dictate
+'ERIS Sites with Higher Elevation' and the orange square will dictate 'ERIS Sites with Same Elevation.'
+Unplottables: These are records that could not be mapped due to various reasons, including limited geographic information. These records may or
+may not be in your study area, and are included as reference.
+Definitions
+ 
+ 
+APPENDIX IV 
+ 
+Qualifications of Assessor 
+ 
+Qualifications of Assessor – Jessica Ramos 
+Jessica Ramos is a Project Technologist with the Environmental Due Diligence and Remediation Group. 
+She obtained a Master’s degree in Environmental Science from the University of Guelph (U of T) in 2020. 
+During her Master’s degree, Jessica gained experience in conducting Phase I Environmental Site 
+Assessments, environmental sampling and the preparation of professional reports. By being part of the 
+Pinchin team, Jessica continues to further her knowledge as she gains experience in conducting Phase I 
+Environmental Site Assessments, environmental monitoring and preparation of professional reports. 
+ 
+ 
+ 
+ 
+APPENDIX V 
+ 
+Photographs 
+ 
+Phase I Environmental Site Assessment 
+Appendix V
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Photographs 
+FINAL
+ 
+© 2023 Pinchin Ltd. 
+Page 1 of 3 
+ 
+Photo 1 – View of the North Block of the Site.  
+ 
+ 
+Photo 2 – View of the South Block of the Site. 
+ 
+Phase I Environmental Site Assessment 
+Appendix V
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Photographs 
+FINAL
+ 
+© 2023 Pinchin Ltd. 
+Page 2 of 3 
+ 
+Photo 3 – View of the temporary sales centre on the south portion of the Nort Block of the Site. 
+ 
+ 
+Photo 4 – Properties located northeast of the Site. 
+ 
+Phase I Environmental Site Assessment 
+Appendix V
+Framgard Property, Regional Road 25 and Britannia Road, Milton, Ontario 
+Pinchin File: 321145
+Photographs 
+FINAL
+ 
+© 2023 Pinchin Ltd. 
+Page 3 of 3 
+ 
+Photo 5 – Properties located southeast of the Site across Britannia Road. 
+ 
+ 
+Photo 6 – A tributary of Sixteen Mile Creek and properties located southwest of the Site. 
+ 
